@@ -1,0 +1,1260 @@
+place_overall,name,clock_time,head_start,actual_time,time_place,race,race_place,age,sex,bib,group
+1,Florianne A Harp,0:44:43,13,0:57:43,42,Invitational,1,33,F,-,13
+2,Sal V Vasquez,0:46:31,5,0:51:31,5,Invitational,2,41,M,-,5
+3,Rod R Berry,0:46:48,0,0:46:48,1,Invitational,3,21,M,-,0
+4,Tom B Kirchner,0:47:56,5,0:52:56,9,Invitational,4,40,M,-,5
+5,Chuck Stagliand,0:48:05,5,0:53:05,10,Invitational,5,41,M,-,5
+6,Don S Pickett,0:48:13,9,0:57:13,32,Invitational,6,53,M,-,9
+7,Jim Nicholson,0:48:18,9,0:57:18,36,Invitational,7,50,M,-,9
+8,Ron E Elijah,0:48:47,0,0:48:47,2,Invitational,8,28,M,-,0
+9,Bob J Malain,0:48:52,9,0:57:52,44,Invitational,9,54,M,-,9
+10,Russ Kiernan,0:48:59,5,0:53:59,13,Invitational,10,43,M,-,5
+11,Sally Edwards,0:49:03,13,1:02:03,105,Invitational,11,33,F,-,13
+12,Andrea Eschen,0:49:21,11,1:00:21,76,Invitational,12,24,F,-,11
+13,George O'Gara,0:49:44,13,1:02:44,122,Invitational,13,58,M,-,13
+14,Steve Stephens,0:49:48,3,0:52:48,8,Invitational,14,37,M,-,3
+15,Don N Chafee,0:50:01,5,0:55:01,19,Invitational,15,42,M,-,5
+16,Bert C Johnson,0:50:29,3,0:53:29,11,Invitational,16,38,M,-,3
+17,Darryl Beardall,0:50:34,5,0:55:34,22,Invitational,17,44,M,-,5
+18,Tony P Hyun,0:50:39,0,0:50:39,3,Invitational,18,24,M,-,0
+19,Steve Ottaway,0:50:52,0,0:50:52,4,Invitational,19,28,M,-,0
+20,Patricia J Whittingslow,0:50:56,15,1:05:56,200,Invitational,20,41,F,-,15
+21,James A Clever,0:51:03,7,0:58:03,46,Invitational,21,45,M,-,7
+22,Dan T Seamount,0:51:11,13,1:04:11,147,Invitational,22,58,M,-,13
+23,Hilary Naylor,0:51:20,15,1:06:20,212,Invitational,23,34,F,-,15
+24,Bonnie E Storm,0:51:31,15,1:06:31,216,Invitational,24,36,F,-,15
+25,Derry J Bunnell,0:51:31,13,1:04:31,159,Invitational,25,27,F,-,13
+26,Keith Hastings,0:51:34,3,0:54:34,16,Invitational,26,38,M,-,3
+27,D R Anderson,0:57:36,1,0:58:36,50,Invitational,27,29,M,-,1
+28,John Q Coburn,0:51:39,1,0:52:39,7,Invitational,28,34,M,-,1
+29,Steve P Lyons,0:51:42,5,0:56:42,29,Invitational,29,40,M,-,5
+30,Barbara Levy,0:52:05,15,1:07:05,239,Invitational,30,34,F,-,15
+31,Bill Kirchmier,0:52:10,9,1:01:10,90,Invitational,31,50,M,-,9
+32,Cheryl M Flowers,0:52:15,11,1:03:15,132,Invitational,32,19,F,-,11
+33,Marlys J Hayden,0:52:23,17,1:09:23,335,Invitational,33,47,F,-,17
+34,Elaine L Parliman,0:52:30,15,1:07:30,252,Invitational,34,38,F,-,15
+35,Clyde A Helms,0:52:40,3,0:55:40,23,Invitational,35,35,M,-,3
+36,Dave G Roeber,0:52:43,1,0:53:43,12,Invitational,36,34,M,-,1
+37,M Livingston,0:53:05,13,1:06:05,204,Invitational,37,32,F,-,13
+38,P J Laskier,0:53:17,3,0:56:17,27,Invitational,38,36,M,-,3
+39,N V Epanchin,0:53:19,5,0:58:19,49,Invitational,39,42,M,-,5
+40,Robert (Bob) D Bunnell,0:53:26,1,0:54:26,15,Invitational,40,30,M,-,1
+41,K J Bollinger,0:53:27,11,1:04:27,158,Invitational,41,55,M,-,11
+42,S L Simons,0:53:51,13,1:06:31,217,Invitational,42,32,F,-,13
+43,E Pell,0:53:51,15,1:08:51,305,Invitational,43,44,F,-,15
+44,R M Steinberg,0:53:54,1,0:54:54,18,Invitational,44,31,M,-,1
+45,B Ward,0:53:55,5,0:58:55,54,Invitational,45,41,M,-,5
+46,H G Roenau,0:54:06,9,1:03:06,127,Invitational,46,53,M,-,9
+47,J T Pickett,0:54:17,0,0:54:17,14,Invitational,47,23,M,-,0
+48,J H Ball,0:54:32,5,0:59:32,62,Invitational,48,41,M,-,5
+49,J M Miller,0:54:34,5,0:59:34,63,Invitational,49,43,M,-,5
+50,M V MacKenzie,0:54:40,3,0:57:40,41,Invitational,50,37,M,-,3
+51,B L Magid,0:54:42,15,1:09:42,347,Invitational,51,37,F,-,15
+52,B D Basham,0:54:43,7,1:01:43,100,Invitational,52,45,M,-,7
+53,J E Don,0:54:46,15,1:09:46,350,Invitational,53,42,F,-,15
+54,H D Gunther,0:54:48,0,0:54:48,17,Invitational,54,21,M,-,0
+55,K V Gordon,0:54:48,15,1:09:48,351,Invitational,55,38,F,-,15
+56,B L Botta,0:54:58,5,0:59:58,67,Invitational,56,42,M,-,5
+57,S Trott,0:55:00,15,1:10:00,357,Invitational,57,43,F,-,15
+58,R W Rahmer,0:55:02,5,1:00:02,70,Invitational,58,44,M,-,5
+59,J M Maher,0:55:03,1,0:56:03,25,Invitational,59,34,M,-,1
+60,C G Johnson,0:56:18,1,0:57:18,37,Invitational,60,31,M,-,1
+61,F E Dawson,0:55:04,7,1:02:04,108,Invitational,61,45,M,-,7
+62,R S Paffenbarger,0:55:05,13,1:08:05,274,Invitational,62,58,M,-,13
+63,R D Webb,0:55:05,9,1:04:05,145,Invitational,63,50,M,-,9
+64,K Whittingslow,0:55:06,5,1:00:06,71,Invitational,64,42,M,-,5
+65,L C Souza,0:55:07,5,1:00:07,72,Invitational,65,42,M,-,5
+66,T H Standing,0:55:09,5,1:00:09,74,Invitational,66,40,M,-,5
+67,R E Heierle,0:55:11,0,0:55:11,20,Invitational,67,28,M,-,0
+68,K J Singer,0:55:12,15,1:10:12,363,Invitational,68,40,F,-,15
+69,R Eichstaedt,0:55:14,1,0:56:14,26,Invitational,69,34,M,-,1
+70,T W Weisel,0:55:19,5,1:00:19,75,Invitational,70,40,M,-,5
+71,J T Baumsteiger,0:55:19,0,0:55:19,21,Invitational,71,22,M,-,0
+72,J F Souibier,0:55:20,9,1:04:20,154,Invitational,72,50,M,-,9
+73,G F White,0:55:22,7,1:02:22,115,Invitational,73,46,M,-,7
+74,M B Creel,0:55:22,11,1:06:22,214,Invitational,74,24,F,-,11
+75,L A Vincent,0:55:34,15,1:10:34,377,Invitational,75,34,F,-,15
+76,J P Fischer,0:55:43,3,0:58:43,51,Invitational,76,36,M,-,3
+77,A N Olson,0:55:49,3,0:58:49,52,Invitational,77,37,M,-,3
+78,M A Mitrovich,0:55:57,3,0:58:57,55,Invitational,78,37,M,-,3
+79,J L Coleman,0:56:00,0,0:56:00,24,Invitational,79,20,M,-,0
+80,D S Hill,0:56:07,5,1:01:07,88,Invitational,80,43,M,-,5
+81,J F Helgerson,0:56:27,0,0:56:27,28,Invitational,81,26,M,-,0
+82,G A Frazier,0:56:36,1,0:57:36,39,Invitational,82,34,M,-,1
+83,R P Cordone,0:56:39,1,0:57:39,40,Invitational,83,32,M,-,1
+84,R W Ryon,0:56:40,5,1:01:40,99,Invitational,84,41,M,-,5
+85,J M Jones,0:56:47,3,0:59:47,64,Invitational,85,38,M,-,3
+86,J J Myers,0:56:49,0,0:56:49,30,Invitational,86,23,M,-,0
+87,A L Knepper,0:56:49,9,1:05:49,194,Invitational,87,50,M,-,9
+88,R L Felzer,0:56:53,3,0:59:53,65,Invitational,88,38,M,-,3
+89,F Robben,0:56:54,7,1:03:54,139,Invitational,89,47,M,-,7
+90,C M Shenfield,0:56:57,17,1:13:57,526,Invitational,90,45,F,-,17
+91,R A Korner,0:57:04,7,1:04:04,144,Invitational,91,46,M,-,7
+92,B E Lundquist,0:57:05,1,0:58:05,47,Invitational,92,29,M,-,1
+93,W J Dickerson,0:57:06,9,1:06:06,205,Invitational,93,53,M,-,9
+94,B Leupold,0:57:07,3,1:00:07,73,Invitational,94,38,M,-,3
+95,M B Percy,0:57:13,1,0:58:13,48,Invitational,95,31,M,-,1
+96,K S Maurer,0:57:13,0,0:57:13,33,Invitational,96,25,M,-,0
+97,M C Behning,0:57:14,0,0:57:14,34,Invitational,97,22,M,-,0
+98,P A Duncan,0:57:15,0,0:57:15,35,Invitational,98,18,M,-,0
+99,M S Gerard,0:57:15,15,1:12:15,449,Invitational,99,40,F,-,15
+100,J L Swyers,0:57:16,5,1:02:16,111,Invitational,100,41,M,-,5
+101,R J Gordon,0:57:17,5,1:02:17,112,Invitational,101,44,M,-,5
+102,J L Wilkins,0:57:23,3,1:00:23,78,Invitational,102,38,M,-,3
+103,B H White,0:57:27,15,1:12:27,463,Invitational,103,42,F,-,15
+104,M A Lorne,0:57:29,0,0:57:29,38,Invitational,104,16,M,-,0
+105,F L Kennedy,0:57:31,9,1:06:31,218,Invitational,105,50,M,-,9
+106,A M Clark,0:57:32,13,1:10:32,376,Invitational,106,67,M,-,13
+107,R R Nilsson,0:57:42,5,1:02:42,121,Invitational,107,41,M,-,5
+108,G V Palmer,0:57:45,0,0:57:45,43,Invitational,108,22,M,-,0
+109,G P Ridout,0:57:45,3,1:00:45,84,Invitational,109,38,M,-,3
+110,C J Jensen,0:58:03,3,1:01:03,85,Invitational,110,36,M,-,3
+111,W H Bushee,0:58:15,1,0:59:15,58,Invitational,111,32,M,-,1
+112,M J Albion,0:58:42,5,1:03:42,137,Invitational,112,44,M,-,5
+113,E B Park,0:58:51,3,1:01:51,103,Invitational,113,35,M,-,3
+114,R B Stock,0:58:55,7,1:05:55,198,Invitational,114,45,M,-,7
+115,P W Jeffries,0:59:02,13,1:12:02,435,Invitational,115,26,F,-,13
+116,S C Hoots,0:59:08,3,1:02:08,109,Invitational,116,37,M,-,3
+117,S L Kovisto,0:59:14,0,0:59:14,57,Invitational,117,17,M,-,0
+118,S Berumen,0:59:19,0,0:59:19,59,Invitational,118,25,M,-,0
+119,R F Greenwald,0:59:21,1,1:00:21,77,Invitational,119,33,M,-,1
+120,S W McMillen,0:59:24,0,0:59:24,60,Invitational,120,16,M,-,0
+121,M S Brown,0:59:29,1,1:00:29,79,Invitational,121,34,M,-,1
+122,T R Vaughan,0:59:31,5,1:04:31,160,Invitational,122,43,M,-,5
+123,Mark B Miller,0:59:44,1,1:00:44,83,Invitational,123,29,M,-,1
+124,J A Biddalph,0:59:46,11,1:10:46,386,Invitational,124,16,F,-,11
+125,D R Kerr,0:59:48,5,1:04:48,167,Invitational,125,42,M,-,5
+126,T A Guerin,0:59:55,0,0:59:55,66,Invitational,126,27,M,-,0
+127,C S Welty,0:59:55,3,1:02:55,123,Invitational,127,39,M,-,3
+128,M M Mozen,0:59:55,9,1:08:55,308,Invitational,128,51,M,-,9
+129,P L Todd,0:59:56,7,1:06:56,234,Invitational,129,46,M,-,7
+130,M K Rodamaker,0:59:57,3,1:02:57,124,Invitational,130,35,M,-,3
+131,A M Neeley,0:59:59,15,1:14:59,562,Invitational,131,42,F,-,15
+132,M E Erickson,1:00:00,0,1:00:00,69,Invitational,132,17,M,-,0
+133,M Zeman,1:00:01,3,1:03:01,126,Invitational,133,39,M,-,3
+134,W B Hinrichs,1:00:04,1,1:01:04,87,Invitational,134,34,M,-,1
+135,S J Radigan,1:00:07,1,1:01:07,89,Invitational,135,29,M,-,1
+136,C L Caraugh,1:00:08,13,1:13:08,491,Invitational,136,30,F,-,13
+137,J W Ball,1:00:09,5,1:05:09,179,Invitational,137,43,M,-,5
+138,P C Sisney,1:00:10,11,1:11:10,401,Invitational,138,24,F,-,11
+139,R L Hayden,1:00:10,5,1:05:10,181,Invitational,139,43,M,-,5
+140,P Chappelle,1:00:12,13,1:13:12,493,Invitational,140,33,F,-,13
+141,P J Bragstad,1:00:14,1,1:01:14,92,Invitational,141,33,M,-,1
+142,K M Johnson,1:00:16,15,1:15:16,580,Invitational,142,35,F,-,15
+143,M Ricauld,1:00:18,9,1:09:18,327,Invitational,143,52,M,-,9
+144,K W Sherman,1:00:21,3,1:03:21,135,Invitational,144,39,M,-,3
+145,L J Giannone,1:00:22,7,1:07:22,248,Invitational,145,45,M,-,7
+146,L M Miller,1:00:27,13,1:13:27,510,Invitational,146,30,F,-,13
+147,S S Clark,1:00:29,13,1:13:29,514,Invitational,147,33,F,-,13
+148,Hazel P Wood,1:00:35,13,1:13:35,516,Invitational,148,30,F,-,13
+149,D F German,1:00:39,7,1:07:39,257,Invitational,149,45,M,-,7
+150,T J Drossos,1:00:41,5,1:05:41,190,Invitational,150,41,M,-,5
+151,N T Donovan,1:00:43,0,1:00:43,82,Invitational,151,16,M,-,0
+152,L J Homen,1:00:45,11,1:11:45,427,Invitational,152,22,F,-,11
+153,l Correa,1:00:46,7,1:07:46,264,Invitational,153,47,m,-,7
+154,M J Hillyer,1:00:47,5,1:05:47,192,Invitational,154,43,M,-,5
+155,V A Milgram,1:00:54,15,1:15:54,600,Invitational,155,37,F,-,15
+156,R J Hoots,1:01:01,15,1:16:01,608,Invitational,156,37,F,-,15
+157,G S Weiss,1:01:02,1,1:02:02,104,Invitational,157,34,M,-,1
+158,M C ONeil,1:01:07,11,1:12:07,444,Invitational,158,57,M,-,11
+159,M T Greenwald,1:01:12,17,1:18:12,692,Invitational,159,50,F,-,17
+160,D M Swartz,1:01:14,3,1:04:14,151,Invitational,160,35,M,-,3
+161,M S Spencer,1:01:17,0,1:01:17,93,Invitational,161,20,M,-,0
+162,J E Anderson,1:01:20,1,1:02:20,114,Invitational,162,30,M,-,1
+163,H B Jones,1:01:21,7,1:08:21,291,Invitational,163,48,M,-,7
+164,B G Browne,1:01:24,1,1:02:24,116,Invitational,164,31,M,-,1
+165,D G Madronich,1:01:25,3,1:04:25,156,Invitational,165,36,M,-,3
+166,M C Farrar,1:01:27,0,1:01:27,95,Invitational,166,27,M,-,0
+167,J L Houston,1:01:31,0,1:01:31,97,Invitational,167,23,M,-,0
+168,V L Jones,1:01:33,13,1:14:33,544,Invitational,168,31,F,-,13
+169,J L Collins,1:01:35,9,1:10:35,379,Invitational,169,54,M,-,9
+170,P R Ainslie,1:01:36,1,1:02:36,119,Invitational,170,33,M,-,1
+171,J G West,1:01:36,0,1:01:36,98,Invitational,171,21,M,-,0
+172,R A Crandall,1:01:37,7,1:08:37,297,Invitational,172,46,M,-,7
+173,J M Price,1:01:42,5,1:06:42,224,Invitational,173,44,M,-,5
+174,E J McGowan,1:01:43,15,1:16:43,632,Invitational,174,44,F,-,15
+175,T H Willis,1:01:44,0,1:01:44,101,Invitational,175,26,M,-,0
+176,P C Houser,1:01:46,3,1:04:46,165,Invitational,176,38,M,-,3
+177,M Ropers,1:01:46,5,1:06:46,225,Invitational,177,42,M,-,5
+178,E D Alexander,1:01:48,5,1:06:48,226,Invitational,178,40,M,-,5
+179,R P Fregulia,1:01:53,5,1:06:53,230,Invitational,179,40,M,-,5
+180,J L Gault,1:01:54,9,1:10:54,393,Invitational,180,53,M,-,9
+181,J S Barlett,1:02:02,9,1:11:02,396,Invitational,181,51,M,-,9
+182,M A Mathews,1:02:03,0,1:02:03,106,Invitational,182,20,M,-,0
+183,J A Stafsnes,1:02:04,3,1:05:04,174,Invitational,183,36,M,-,3
+184,H E Tyson,1:02:06,1,1:03:06,128,Invitational,184,15,M,-,1
+185,A C Montgomery,1:02:09,3,1:05:09,180,Invitational,185,38,M,-,3
+186,M H Carp,1:02:10,5,1:07:10,243,Invitational,186,40,M,-,5
+187,J S Wedereit,1:02:12,3,1:05:12,182,Invitational,187,37,M,-,3
+188,R L Rolston,1:02:13,5,1:07:13,244,Invitational,188,44,M,-,5
+189,M E White,1:02:14,3,1:05:14,183,Invitational,189,37,M,-,3
+190,C M Fox,1:02:19,13,1:15:19,582,Invitational,190,26,F,-,13
+191,T J Clarke,1:02:17,3,1:05:17,185,Invitational,191,38,M,-,3
+192,C J McDonald,1:02:17,0,1:02:17,113,Invitational,192,20,M,-,0
+193,B J Minkiewicz,1:02:18,1,1:03:18,133,Invitational,193,30,M,-,1
+194,M M Reese,1:02:20,1,1:03:20,134,Invitational,194,31,M,-,1
+195,G B Conlan,1:02:23,7,1:09:23,336,Invitational,195,49,M,-,7
+196,W K Tuinzing,1:02:24,13,1:15:24,586,Invitational,196,60,M,-,13
+197,G J E Skog,1:02:30,11,1:13:30,515,Invitational,197,56,M,-,11
+198,C B Meredith,1:02:33,9,1:11:33,417,Invitational,198,52,M,-,9
+200,E E Gregg,1:02:35,3,1:05:35,189,Invitational,199,36,M,-,3
+201,J F Araujo,1:02:36,1,1:03:36,136,Invitational,200,31,M,-,1
+202,S J Almquist,1:02:40,13,1:15:40,590,Invitational,201,32,F,-,13
+203,P W Vonwiedenfield,1:02:42,9,1:11:42,422,Invitational,202,53,M,-,9
+204,T G Burns,1:02:44,5,1:07:44,261,Invitational,203,40,M,-,5
+205,D T Wu,1:02:51,5,1:07:51,267,Invitational,204,42,M,-,5
+206,M M Smith,1:02:55,15,1:17:55,683,Invitational,205,35,F,-,15
+207,R A Holderness,1:02:56,3,1:05:56,201,Invitational,206,37,M,-,3
+208,E E Jacobson,1:02:56,9,1:11:56,429,Invitational,207,51,M,-,9
+209,S A Ness,1:03:01,15,1:18:01,686,Invitational,208,34,F,-,15
+210,R D Tripp,1:03:02,9,1:12:02,436,Invitational,209,54,M,-,9
+211,E B Heinlein,1:03:04,7,1:10:04,360,Invitational,210,49,M,-,7
+212,W D H Zech,1:03:07,3,1:06:07,206,Invitational,211,39,M,-,3
+213,C V Moran,1:03:08,3,1:06:08,207,Invitational,212,37,M,-,3
+214,J A Blain,1:03:09,0,1:03:09,129,Invitational,213,23,M,-,0
+215,G D Bousquette,1:03:12,0,1:03:12,130,Invitational,214,27,M,-,0
+216,F C Evans,1:03:16,7,1:10:16,366,Invitational,215,49,M,-,7
+217,R E McMillen,1:03:18,5,1:08:18,288,Invitational,216,43,M,-,5
+218,D R Scott,1:03:26,1,1:04:26,157,Invitational,217,31,M,-,1
+219,O B Ray,1:03:32,1,1:04:32,162,Invitational,218,33,M,-,1
+220,J J Haratani,1:03:40,1,1:04:40,164,Invitational,219,29,M,-,1
+221,B L Giannone,1:03:48,15,1:18:48,716,Invitational,220,38,F,-,15
+222,T W Tesche,1:03:49,1,1:04:49,169,Invitational,221,33,M,-,1
+223,S E Kohler,1:03:53,1,1:04:53,170,Invitational,222,33,M,-,1
+224,B R Winslow,1:03:56,3,1:06:56,235,Invitational,223,38,M,-,3
+225,C Kinard,1:03:57,3,1:06:57,237,Invitational,224,38,M,-,3
+226,F X Varela,1:04:00,1,1:05:00,172,Invitational,225,34,M,-,1
+227,G A Jeans,1:04:02,0,1:04:02,143,Invitational,226,27,M,-,0
+228,R H Wallace,1:04:04,3,1:07:04,238,Invitational,227,37,M,-,3
+229,D W Allen,1:04:05,13,1:17:05,653,Invitational,228,59,M,-,13
+230,J M Payne,1:04:07,3,1:07:07,240,Invitational,229,37,M,-,3
+231,V C Reeve,1:04:08,3,1:07:08,241,Invitational,230,39,M,-,3
+232,S B Brough,1:04:09,15,1:19:09,730,Invitational,231,35,F,-,15
+233,B J Larsen,1:04:09,15,1:19:09,731,Invitational,232,38,F,-,15
+234,M D Mirsky,1:04:10,5,1:09:10,319,Invitational,233,41,M,-,5
+235,B W Burke,1:04:11,0,1:04:11,148,Invitational,234,23,M,-,0
+236,L L Marino,1:04:12,9,1:13:12,494,Invitational,235,50,M,-,9
+237,J P Kennedy,1:04:13,0,1:04:13,149,Invitational,236,31,M,-,0
+238,D A Airola,1:04:13,0,1:04:13,150,Invitational,237,26,M,-,0
+239,R D Garner,1:04:13,7,1:11:13,404,Invitational,238,47,M,-,7
+240,K J Lembach,1:04:14,5,1:09:14,325,Invitational,239,41,M,-,5
+241,R B Jones,1:04:15,0,1:04:15,152,Invitational,240,16,M,-,0
+242,R E Yauk,1:04:16,3,1:07:16,245,Invitational,241,38,M,-,3
+243,A T Fischer,1:04:18,13,1:17:18,661,Invitational,242,33,F,-,13
+244,J E Burke,1:04:19,7,1:11:19,408,Invitational,243,45,M,-,7
+245,E M McGowen,1:04:20,11,1:15:20,583,Invitational,244,19,F,-,11
+246,L J Houston,1:04:20,17,1:21:20,809,Invitational,245,49,F,-,17
+247,J R Binnings,1:04:21,7,1:11:21,410,Invitational,246,45,M,-,7
+248,J C Hauke,1:04:22,0,1:04:22,155,Invitational,247,22,M,-,0
+249,M D Hoy,1:04:26,3,1:07:26,250,Invitational,248,39,M,-,3
+250,W W Moore,1:04:30,5,1:09:30,341,Invitational,249,44,M,-,5
+251,J R Henion,1:04:30,3,1:07:30,253,Invitational,250,14,M,-,3
+252,B Gilmore,1:04:31,13,1:17:31,668,Invitational,251,26,F,-,13
+253,B Kirlin-Hackett,1:04:31,1,1:05:31,188,Invitational,252,34,M,-,1
+254,K J Licht,1:04:31,0,1:04:31,161,Invitational,253,26,M,-,0
+255,J J Krug,1:04:31,3,1:07:31,254,Invitational,254,36,M,-,3
+256,M S Singer,1:04:35,5,1:09:35,343,Invitational,255,40,M,-,5
+257,J F Dawson,1:04:43,15,1:19:43,757,Invitational,256,34,F,-,15
+258,R R Clark,1:04:43,5,1:09:43,348,Invitational,257,42,M,-,5
+259,G W High,1:04:48,5,1:09:48,352,Invitational,258,44,M,-,5
+260,M Kauk,1:04:48,0,1:04:48,168,Invitational,259,25,M,-,0
+261,J P Marks,1:04:49,1,1:05:49,195,Invitational,260,33,M,-,1
+262,R T Shafer,1:04:52,5,1:09:52,353,Invitational,261,42,M,-,5
+263,J E Major,1:04:52,3,1:07:52,268,Invitational,262,38,M,-,3
+264,J P Woodcock,1:04:55,1,1:05:55,199,Invitational,263,29,M,-,1
+265,M J Cussen,1:04:58,3,1:07:58,271,Invitational,264,35,M,-,3
+266,R J Barnato,1:05:03,11,1:16:03,609,Invitational,265,20,F,-,11
+267,E V Moffett,1:05:06,3,1:08:06,276,Invitational,266,35,M,-,3
+268,T H Jefferson,1:05:08,3,1:08:08,280,Invitational,267,39,M,-,3
+269,Michael M Adams,1:05:07,3,1:08:07,277,Invitational,268,38,M,-,3
+270,W P Biggs,1:05:09,9,1:14:09,533,Invitational,269,53,M,-,9
+271,r a Pierce,1:05:14,3,1:08:14,285,Invitational,270,39,m,-,3
+272,C T Jensen,1:05:16,3,1:08:16,286,Invitational,271,35,M,-,3
+273,T L Althausen,1:05:19,11,1:16:19,619,Invitational,272,56,M,-,11
+274,D K Polesky,1:05:23,15,1:20:23,777,Invitational,273,39,F,-,15
+275,N C Donovan,1:05:29,7,1:12:29,465,Invitational,274,48,M,-,7
+276,J T Donovan,1:05:32,17,1:22:32,849,Invitational,275,45,F,-,17
+277,J B Ross,1:05:32,13,1:18:32,704,Invitational,276,32,F,-,13
+278,M M Singer,1:05:34,7,1:12:34,468,Invitational,277,45,M,-,7
+279,J J Nason,1:05:34,7,1:12:34,469,Invitational,278,49,M,-,7
+280,S M Coffrini,1:05:34,1,1:06:34,222,Invitational,279,15,M,-,1
+281,J G Walsham,1:05:37,3,1:08:37,298,Invitational,280,39,M,-,3
+282,G A Goin,1:05:39,3,1:08:39,299,Invitational,281,38,M,-,3
+283,J E Eyre,1:05:40,9,1:14:40,548,Invitational,282,52,M,-,9
+284,P T Hohe,1:05:42,5,1:10:42,385,Invitational,283,43,M,-,5
+285,A R Berkowitz,1:05:44,3,1:08:44,301,Invitational,284,38,M,-,3
+286,D D Jordan,1:05:47,0,1:05:47,193,Invitational,285,28,M,-,0
+287,W H Hetzel,1:05:49,3,1:08:49,304,Invitational,286,39,M,-,3
+288,M L Munsell,1:05:51,1,1:06:51,229,Invitational,287,33,M,-,1
+289,D E Kierman,1:05:51,7,1:12:51,478,Invitational,288,48,M,-,7
+290,M J Locati,1:05:55,1,1:06:55,231,Invitational,289,29,M,-,1
+291,J E McGowan,1:06:00,7,1:13:00,482,Invitational,290,45,M,-,7
+292,H T Arnold,1:06:02,3,1:09:02,310,Invitational,291,38,M,-,3
+293,P A Barry,1:06:06,3,1:09:06,314,Invitational,292,37,M,-,3
+294,J C Forsyth,1:06:07,9,1:15:07,573,Invitational,293,53,M,-,9
+295,A D Vakasek,1:06:08,9,1:15:08,574,Invitational,294,50,M,-,9
+296,T J Kollerer,1:06:08,13,1:19:08,729,Invitational,295,26,F,-,13
+297,J C Harp,1:06:09,3,1:09:09,317,Invitational,296,38,M,-,3
+298,J D Kluge,1:06:09,0,1:06:09,208,Invitational,297,21,M,-,0
+299,B K Vicknair,1:06:09,0,1:06:09,209,Invitational,298,27,M,-,0
+300,H D Hernandez,1:06:17,5,1:11:17,406,Invitational,299,40,M,-,5
+301,D S Baldwin,1:06:17,1,1:07:17,246,Invitational,300,30,M,-,1
+302,B R Goodell,1:06:18,1,1:07:18,247,Invitational,301,32,M,-,1
+303,L Goldstein,1:06:19,3,1:09:19,330,Invitational,302,36,M,-,3
+304,H Schwartz,1:06:20,5,1:11:20,409,Invitational,303,42,M,-,5
+305,R N McMullin,1:06:22,3,1:09:22,333,Invitational,304,39,M,-,3
+306,A J Yanow,1:06:23,1,1:07:23,249,Invitational,305,33,M,-,1
+307,R A Chaney,1:06:24,15,1:21:24,811,Invitational,306,41,F,-,15
+308,E Tuinzing,1:06:25,17,1:23:25,879,Invitational,307,59,F,-,17
+309,E K S Chow,1:06:27,3,1:09:27,340,Invitational,308,39,M,-,3
+310,E S Sherman,1:06:31,1,1:07:31,255,Invitational,309,29,M,-,1
+311,J Nourse,1:06:32,5,1:11:32,416,Invitational,310,42,M,-,5
+312,D G Vreeland,1:06:32,0,1:06:32,219,Invitational,311,26,M,-,0
+313,R K Critchlow,1:06:33,5,1:11:33,418,Invitational,312,42,M,-,5
+314,P N Maurer,1:06:37,0,1:06:37,223,Invitational,313,25,M,-,0
+315,P A Gonsalves,1:06:47,11,1:17:47,676,Invitational,314,20,F,-,11
+316,Jack G Kirk,1:06:55,13,1:19:55,760,Invitational,315,74,M,-,13
+317,W B Kezer,1:06:55,0,1:06:55,232,Invitational,316,25,M,-,0
+318,J E Clinton,1:06:58,3,1:09:58,354,Invitational,317,38,M,-,3
+319,R L Davis,1:06:58,1,1:07:58,272,Invitational,318,31,M,-,1
+320,S L Anderson,1:07:00,11,1:18:00,685,Invitational,319,21,F,-,11
+321,T Smith,1:07:00,5,1:12:00,433,Invitational,320,42,M,-,5
+322,C L Wadlington,1:07:03,13,1:20:03,763,Invitational,321,32,F,-,13
+323,G M Taylor,1:07:05,13,1:20:05,766,Invitational,322,33,F,-,13
+324,B Hazilla,1:07:11,15,1:22:11,833,Invitational,323,38,F,-,15
+325,A L Kreuzberger,1:07:15,13,1:20:15,770,Invitational,324,62,M,-,13
+326,F C Ertman,1:07:18,7,1:14:18,537,Invitational,325,45,M,-,7
+327,R K Daniels,1:07:20,7,1:14:20,538,Invitational,326,45,M,-,7
+328,J H Bailey,1:07:21,3,1:10:21,369,Invitational,327,39,M,-,3
+329,P G McDonald,1:07:23,5,1:12:23,460,Invitational,328,40,M,-,5
+330,W J Tageson,1:07:28,3,1:10:28,373,Invitational,329,38,M,-,3
+331,W M Vanhorn,1:07:30,7,1:14:30,543,Invitational,330,48,,-,7
+332,A C Mellmer,1:07:36,9,1:16:36,627,Invitational,331,53,M,-,9
+333,E D Storm,1:07:38,3,1:10:38,381,Invitational,332,37,M,-,3
+334,J Budro,1:07:30,3,1:10:30,375,Invitational,333,36,M,-,3
+335,P W Schild,1:07:40,1,1:08:40,300,Invitational,334,34,M,-,1
+336,K C Warapius,1:07:41,0,1:07:41,260,Invitational,335,25,M,-,0
+337,B W Brazelton,1:07:44,0,1:07:44,262,Invitational,336,26,M,-,0
+338,A Finn,1:07:48,1,1:08:48,303,Invitational,337,29,M,-,1
+339,V R Oronzi,1:07:50,3,1:10:50,389,Invitational,338,38,M,-,3
+340,J H Jacobsen,1:07:53,3,1:10:53,390,Invitational,339,36,M,-,3
+341,L L Sekulich,1:07:55,13,1:20:55,791,Invitational,340,58,M,-,13
+342,C A Kuhler,1:07:58,15,1:22:58,868,Invitational,341,42,F,-,15
+343,G R Burke,1:08:02,1,1:09:02,311,Invitational,342,31,M,-,1
+344,R L Sandberg,1:08:03,1,1:09:03,312,Invitational,343,33,M,-,1
+345,D H Klein,1:08:06,3,1:11:06,399,Invitational,344,38,M,-,3
+346,J J Markovich,1:08:06,5,1:13:06,489,Invitational,345,42,M,-,5
+347,J P Munton,1:08:07,0,1:08:07,278,Invitational,346,16,M,-,0
+348,D H Innes,1:08:07,1,1:09:07,315,Invitational,347,33,M,-,1
+349,S O Brough,1:08:09,3,1:11:09,400,Invitational,348,37,M,-,3
+350,D E Castellano,1:08:10,0,1:08:10,281,Invitational,349,26,M,-,0
+351,R L Pillard,1:08:12,5,1:13:12,495,Invitational,350,40,M,-,5
+352,R A Parfitt,1:08:13,0,1:08:13,282,Invitational,351,28,M,-,0
+353,J H Weese,1:08:14,17,1:25:14,931,Invitational,352,47,F,-,17
+354,E E Chilberg,1:08:16,5,1:13:16,499,Invitational,353,40,M,-,5
+355,J B Vaughan,1:08:17,15,1:23:17,875,Invitational,354,44,F,-,15
+356,D S Williams,1:08:18,3,1:11:18,407,Invitational,355,39,M,-,3
+357,R W Gerlach,1:08:20,1,1:09:20,332,Invitational,356,33,M,-,1
+358,E Kionig,1:08:22,17,1:25:22,936,Invitational,357,63,F,-,17
+359,R G Clough,1:08:22,3,1:11:22,411,Invitational,358,39,M,-,3
+360,V H Ortiz,1:08:23,0,1:08:23,293,Invitational,359,28,M,-,0
+361,C Kieffer,1:08:25,15,1:23:25,880,Invitational,360,41,F,-,15
+362,K W Moore,1:08:29,0,1:08:29,294,Invitational,361,28,M,-,0
+363,R J Stadleberger,1:08:31,11,1:19:31,746,Invitational,362,57,M,-,11
+364,C A Missmer,1:08:32,15,1:23:32,885,Invitational,363,38,F,-,15
+365,E H Binghmam,1:08:36,5,1:13:36,518,Invitational,364,42,M,-,5
+366,R C Rempel,1:08:40,11,1:19:40,754,Invitational,365,55,M,-,11
+367,M J Walsh,1:08:41,5,1:13:41,520,Invitational,366,42,M,-,5
+368,J H Suter,1:08:42,7,1:15:42,591,Invitational,367,45,M,-,7
+369,D G Madison,1:08:43,3,1:11:43,424,Invitational,368,38,M,-,3
+370,A McColl,1:08:49,5,1:13:49,523,Invitational,369,42,M,-,5
+371,L E Green,1:08:53,9,1:17:53,682,Invitational,370,50,M,-,9
+372,G V Molnar,1:08:59,5,1:13:59,528,Invitational,371,40,M,-,5
+373,V J Gorman,1:09:03,1,1:10:03,359,Invitational,372,30,M,-,1
+374,E C Riley,1:09:04,3,1:12:04,440,Invitational,373,39,M,-,3
+375,K N Herqatt,1:09:07,7,1:16:07,611,Invitational,374,47,M,-,7
+376,F C Vanderwold,1:09:14,3,1:12:14,447,Invitational,375,37,M,-,3
+377,A M Roodhouse,1:09:17,3,1:12:17,452,Invitational,376,36,M,-,3
+378,J Kopczynski,1:09:19,1,1:10:19,367,Invitational,377,32,M,-,1
+379,R G Colvey,1:09:20,3,1:12:20,457,Invitational,378,35,M,-,3
+380,T J Wallach,1:09:25,0,1:09:25,337,Invitational,379,21,M,-,0
+381,S L Speck,1:09:34,13,1:22:34,852,Invitational,380,27,F,-,13
+382,L F Burt,1:09:35,0,1:09:35,344,Invitational,381,28,M,-,0
+383,E A Mohr,1:09:37,13,1:22:37,855,Invitational,382,58,M,-,13
+384,B K Lyons,1:09:45,3,1:12:45,476,Invitational,383,38,M,-,3
+385,R J Hintz,1:09:48,1,1:10:48,387,Invitational,384,34,M,-,1
+386,K C Biklen,1:09:49,13,1:22:49,860,Invitational,385,33,F,-,13
+387,E K Sanborn,1:09:58,15,1:24:58,923,Invitational,386,34,F,-,15
+388,J Ainsworth,1:09:59,0,1:09:59,355,Invitational,387,24,M,-,0
+389,D W Hansen,1:10:00,3,1:13:00,483,Invitational,388,38,M,-,3
+390,D R Walter,1:10:01,3,1:13:01,485,Invitational,389,38,M,-,3
+391,P M Grimes,1:10:02,7,1:17:02,648,Invitational,390,47,M,-,7
+392,Barbara Leonard Robben,1:10:03,17,1:27:03,979,Invitational,391,47,F,-,17
+393,M D Pechner,1:10:04,1,1:11:04,398,Invitational,392,34,M,-,1
+394,J C Leith,1:10:07,7,1:17:07,655,Invitational,393,45,M,-,7
+395,J C Clark,1:10:10,1,1:11:10,402,Invitational,394,32,M,-,1
+396,R L Beacock,1:10:11,15,1:25:11,928,Invitational,395,39,F,-,15
+397,W P Foster,1:10:11,5,1:15:11,578,Invitational,396,43,M,-,5
+398,T J Wilson,1:10:16,5,1:15:16,581,Invitational,397,41,M,-,5
+399,P M Feldstein,1:10:20,7,1:17:20,662,Invitational,398,48,M,-,7
+400,T Zarewicz,1:10:23,3,1:13:23,504,Invitational,399,36,M,-,3
+401,D P Whitridge,1:10:25,3,1:13:25,508,Invitational,400,37,M,-,3
+402,B W Korn,1:10:34,15,1:25:34,944,Invitational,401,15,M,-,15
+403,C C Clarke,1:10:35,0,1:10:35,380,Invitational,402,19,M,-,0
+404,G L Stoop,1:10:37,1,1:11:37,420,Invitational,403,34,M,-,1
+405,J R Hiskes,1:10:42,9,1:19:42,755,Invitational,404,52,M,-,9
+406,P G Shaw,1:10:42,1,1:11:42,423,Invitational,405,34,M,-,1
+407,D S Keisler,1:10:43,1,1:11:43,425,Invitational,406,33,M,-,1
+408,J K Clapper,1:10:44,5,1:15:44,592,Invitational,407,41,M,-,5
+409,M J Schwartz,1:10:47,3,1:13:47,522,Invitational,408,39,M,-,3
+410,J B Stek,1:10:48,13,1:23:48,896,Invitational,409,66,M,-,13
+411,P B Orth,1:10:50,5,1:15:50,596,Invitational,410,42,M,-,5
+412,J J Farrar,1:11:02,1,1:12:02,437,Invitational,411,31,M,-,1
+413,R A Whitaker,1:11:03,7,1:18:03,687,Invitational,412,49,M,-,7
+414,B E Jordan,1:11:03,0,1:11:03,397,Invitational,413,26,M,-,0
+415,J W Wilson,1:11:16,1,1:12:16,451,Invitational,414,34,M,-,1
+416,D J Rozzi,1:11:17,13,1:24:17,906,Invitational,415,30,F,-,13
+417,C Andrews,1:11:29,3,1:14:29,542,Invitational,416,13,M,-,3
+418,R E Upchurch,1:11:27,5,1:16:27,623,Invitational,417,41,M,-,5
+419,R H Harrison,1:11:27,0,1:11:27,412,Invitational,418,19,M,-,0
+420,P E Mannino,1:11:30,11,1:22:30,848,Invitational,419,17,F,-,11
+421,J E Bourne,1:11:31,1,1:12:31,466,Invitational,420,34,M,-,1
+422,D Bradwell,1:11:35,9,1:20:35,780,Invitational,421,50,M,-,9
+423,R B Armstrong,1:11:43,15,1:26:43,972,Invitational,422,39,F,-,15
+424,R J Davies,1:11:44,3,1:14:44,549,Invitational,423,37,M,-,3
+425,M B Peterson,1:11:44,5,1:16:44,635,Invitational,424,43,M,-,5
+426,L E Green,1:11:45,13,1:24:45,917,Invitational,425,12,F,-,13
+427,V A Gnesdiloff,1:11:47,15,1:26:47,973,Invitational,426,43,F,-,15
+428,P J Korn,1:11:48,1,1:12:48,477,Invitational,427,15,M,-,1
+429,W Liddell,1:11:48,7,1:18:48,717,Invitational,428,46,M,-,7
+430,R R Platzek,1:11:50,9,1:20:50,785,Invitational,429,50,M,-,9
+431,W J Mahoney,1:11:56,13,1:24:56,921,Invitational,430,63,M,-,13
+432,E J Collins,1:11:57,3,1:14:57,559,Invitational,431,37,M,-,3
+433,N Wright,1:12:00,15,1:27:00,978,Invitational,432,42,F,-,15
+434,S E Clark,1:12:02,3,1:15:02,567,Invitational,433,37,M,-,3
+435,M B Robertson,1:12:03,1,1:13:03,488,Invitational,434,33,M,-,1
+436,L E Asher,1:12:04,15,1:27:04,982,Invitational,435,41,F,-,15
+437,H B Adams,1:12:06,13,1:25:06,927,Invitational,436,29,F,-,13
+438,D P Medvetz,1:12:03,0,1:12:03,439,Invitational,437,23,M,-,0
+439,V L Olson,1:12:08,15,1:27:08,983,Invitational,438,34,F,-,15
+440,R I Rosander,1:12:15,9,1:21:15,806,Invitational,439,51,M,-,9
+441,B Cintz,1:12:16,1,1:13:16,500,Invitational,440,31,M,-,1
+442,C K Dahlgren,1:12:18,7,1:19:18,739,Invitational,441,45,M,-,7
+443,M M Fujii,1:12:19,9,1:21:19,808,Invitational,442,51,M,-,9
+444,J L Prior,1:12:23,1,1:13:23,505,Invitational,443,32,M,-,1
+445,L S Perrone,1:12:23,3,1:15:23,585,Invitational,444,36,M,-,3
+446,G E Licois,1:12:24,1,1:13:24,506,Invitational,445,34,M,-,1
+447,R A Clarke,1:12:39,0,1:12:39,472,Invitational,446,21,M,-,0
+448,S J Bonn,1:12:41,1,1:13:41,521,Invitational,447,30,M,-,1
+449,D P Govan,1:12:43,0,1:12:43,475,Invitational,448,26,M,-,0
+450,C L Webber,1:12:46,11,1:23:46,894,Invitational,449,57,M,-,11
+451,R R Cunningham,1:12:58,5,1:17:58,684,Invitational,450,43,M,-,5
+452,G A Gavello,1:12:58,3,1:15:58,604,Invitational,451,35,M,-,3
+453,R A Colombo,1:13:02,0,1:13:02,486,Invitational,452,28,M,-,0
+454,J T Korn,1:13:03,7,1:20:03,764,Invitational,453,49,M,-,7
+455,J P Donovan,1:13:04,3,1:16:04,610,Invitational,454,38,M,-,3
+456,L Marantz,1:13:04,15,1:28:04,1003,Invitational,455,39,F,-,15
+457,W A Helvestine,1:13:07,1,1:14:07,532,Invitational,456,34,M,-,1
+458,M Swenson,1:13:08,3,1:16:08,612,Invitational,457,14,M,-,3
+459,R W Coe,1:13:11,7,1:20:11,768,Invitational,458,45,M,-,7
+460,C W Holderness,1:13:12,13,1:26:12,958,Invitational,459,31,F,-,13
+461,R S Norkin,1:13:14,3,1:16:14,618,Invitational,460,38,M,-,3
+462,J E White,1:13:18,5,1:18:18,699,Invitational,461,42,M,-,5
+463,M J Ricciardi,1:13:18,0,1:13:18,501,Invitational,462,29,M,-,0
+464,S E Heiman,1:13:22,7,1:20:22,776,Invitational,463,45,M,-,7
+465,E Petersen,1:13:22,15,1:28:22,1008,Invitational,464,44,F,-,15
+466,C Madison,1:13:24,0,1:13:24,507,Invitational,465,26,M,-,0
+467,J K Koch,1:13:25,3,1:16:25,622,Invitational,466,38,M,-,3
+468,J A Gilman,1:13:25,13,1:26:25,964,Invitational,467,32,F,-,13
+469,F W Flowers,1:13:29,7,1:20:29,778,Invitational,468,46,M,-,7
+470,D Ross,1:13:30,13,1:26:30,967,Invitational,469,67,M,-,13
+471,H D Siedler,1:13:32,9,1:22:32,850,Invitational,470,52,M,-,9
+472,R D Lee,1:33:33,1,1:34:33,1109,Invitational,471,32,M,-,1
+473,P G Hughey,1:13:39,0,1:13:39,519,Invitational,472,27,M,-,0
+474,J D Galletta,1:13:43,3,1:16:43,633,Invitational,473,38,M,-,3
+475,S W Wisenmaker,1:13:48,3,1:16:48,638,Invitational,474,35,M,-,3
+476,P M Shidi ?,1:13:48,5,1:18:48,718,Invitational,475,43,M,-,5
+477,J H Rowland,1:13:49,3,1:16:49,640,Invitational,476,35,M,-,3
+478,P A Nebel,1:13:54,0,1:13:54,524,Invitational,477,24,M,-,0
+479,B H Wallach,1:14:00,11,1:25:00,925,Invitational,478,16,F,-,11
+480,A R Seyrantian,1:14:02,11,1:25:02,926,Invitational,479,55,M,-,11
+481,M W Ranstrom,1:14:03,3,1:17:03,650,Invitational,480,36,M,-,3
+482,M F Hayhurst,1:14:04,17,1:31:04,1063,Invitational,481,52,F,-,17
+483,P Mornell,1:14:08,7,1:21:08,803,Invitational,482,46,M,-,7
+484,W M Brugler,1:14:09,3,1:17:09,657,Invitational,483,35,M,-,3
+485,H Vandyke,1:14:21,3,1:17:21,664,Invitational,484,39,M,-,3
+486,J A Daghauer,1:14:24,0,1:14:24,540,Invitational,485,18,M,-,0
+487,J D Ford,1:14:29,11,1:25:29,940,Invitational,486,23,F,-,11
+488,C E Weesner,1:14:39,5,1:19:39,753,Invitational,487,43,M,-,5
+489,K A Rey,1:14:51,0,1:14:51,554,Invitational,488,28,M,-,0
+490,M C Giacomini,1:14:53,7,1:21:53,825,Invitational,489,45,M,-,7
+491,W A Anthony,1:14:59,9,1:23:59,902,Invitational,490,52,M,-,9
+492,A D Tripp,1:15:05,0,1:15:05,571,Invitational,491,16,M,-,0
+493,G C Freedman,1:15:10,5,1:20:10,767,Invitational,492,40,M,-,5
+494,R H Dunn,1:15:12,1,1:16:12,617,Invitational,493,30,M,-,1
+495,W H Stamps,1:15:13,5,1:20:13,769,Invitational,494,44,M,-,5
+496,J J Stahl,1:15:15,5,1:20:15,771,Invitational,495,42,M,-,5
+497,W D Pack,1:15:18,9,1:24:18,907,Invitational,496,50,M,-,9
+498,D H Goodsey,1:15:22,3,1:18:22,701,Invitational,497,36,M,-,3
+499,F Rosenmayr,1:15:28,7,1:22:28,846,Invitational,498,46,M,-,7
+500,R C Gregory,1:15:31,9,1:24:31,912,Invitational,499,52,M,-,9
+501,G Starkey,1:15:37,1,1:16:37,629,Invitational,500,34,M,-,1
+502,M E Marini,1:15:38,11,1:26:38,971,Invitational,501,56,M,-,11
+503,W A Pressman,1:15:44,13,1:28:44,1015,Invitational,502,31,F,-,13
+504,J T Paper,1:15:46,7,1:22:46,858,Invitational,503,46,M,-,7
+505,Harry C Cordellos,1:15:57,17,1:32:57,1087,Invitational,504,43,M,-,17
+506,L J Coddington,1:15:58,1,1:16:58,645,Invitational,505,34,M,-,1
+507,R L Abbott,1:15:58,7,1:22:58,869,Invitational,506,47,M,-,7
+508,F C Crews,1:16:17,7,1:23:17,876,Invitational,507,48,M,-,7
+509,J A Taylor,1:16:25,11,1:27:25,990,Invitational,508,56,M,-,11
+510,E T Wood,1:16:30,0,1:16:30,624,Invitational,509,28,M,-,0
+511,R S Holloway,1:16:31,3,1:19:31,747,Invitational,510,39,M,-,3
+512,W S Morris,1:16:44,3,1:19:44,758,Invitational,511,36,M,-,3
+513,E P Smith,1:16:53,0,1:16:53,642,Invitational,512,27,M,-,0
+514,B Swannack,1:16:54,5,1:21:54,826,Invitational,513,44,M,-,5
+515,L S Trampleasure,1:17:02,0,1:17:02,649,Invitational,514,21,M,-,0
+516,J N Boitano,1:17:03,13,1:30:03,1035,Invitational,515,59,M,-,13
+517,K R Boyd,1:17:08,3,1:30:08,1037,Invitational,516,38,M,-,3
+518,S R Kendrick,1:17:29,1,1:18:29,703,Invitational,517,30,M,-,1
+519,L J Kent,1:17:32,13,1:30:32,1052,Invitational,519,32,F,-,13
+519,T P Forsyth,1:02:35,0,1:02:35,118,Invitational,518,16,M,-,0
+520,R Tegeler,1:17:40,1,1:18:40,710,Invitational,520,34,M,-,1
+521,P S Kent,1:17:43,1,1:18:43,713,Invitational,521,30,M,-,1
+522,J J Markovich,1:17:51,3,1:20:51,786,Invitational,522,13,M,-,3
+523,J A Kitterman,1:17:54,5,1:22:54,865,Invitational,523,44,M,-,5
+524,J L Gilliam,1:17:55,3,1:20:55,792,Invitational,524,36,M,-,3
+525,C F German,1:18:03,0,1:18:03,688,Invitational,525,18,M,-,0
+526,D G Inocencio,1:18:04,3,1:21:04,796,Invitational,526,14,M,-,3
+527,D J Inocencio,1:18:05,5,1:23:05,871,Invitational,527,40,M,-,5
+528,I A McDonald,1:18:10,1,1:19:10,732,Invitational,528,34,M,-,1
+529,D G Holland,1:18:12,5,1:23:12,874,Invitational,529,40,M,-,5
+530,C J Key,1:18:13,?,1:18:13,693,Invitational,530,38,M,-,?
+531,R A Paolini,1:18:18,1,1:19:18,740,Invitational,531,29,M,-,1
+532,J L Vogensen,1:18:35,1,1:19:35,749,Invitational,532,34,M,-,1
+533,R W Odgers,1:18:42,5,1:23:42,892,Invitational,533,44,M,-,5
+534,R S Mueller,1:18:43,3,1:21:43,820,Invitational,534,36,M,-,3
+535,T R Abbott,1:18:46,0,1:18:46,715,Invitational,535,18,M,-,0
+536,L Wallach,1:18:52,9,1:27:52,1000,Invitational,536,53,M,-,9
+537,T D Hall,1:18:54,1,1:19:54,759,Invitational,537,32,M,-,1
+538,M R Grasse,1:19:06,13,1:32:06,1075,Invitational,538,61,M,-,13
+539,B R Shaw,1:19:22,3,1:22:22,842,Invitational,539,38,M,-,3
+540,K T King,1:19:24,3,1:22:24,844,Invitational,540,39,M,-,3
+541,M Maroni,1:19:28,0,1:19:28,744,Invitational,541,18,M,-,0
+542,J Beale,1:19:43,11,1:30:43,1056,Invitational,542,57,M,-,11
+543,B R Settlemier,1:20:03,7,1:27:03,980,Invitational,543,46,M,-,7
+544,D T Clark,1:20:19,5,1:25:19,933,Invitational,544,43,M,-,5
+545,D W Keane,1:20:19,0,1:20:19,774,Invitational,545,26,M,-,0
+546,M C Creedman,1:20:39,7,1:27:39,995,Invitational,546,45,M,-,7
+547,S T Hill,1:20:43,15,1:35:43,1123,Invitational,547,39,F,-,15
+548,M L Curtis,1:20:44,15,1:35:44,1124,Invitational,548,41,F,-,15
+549,L P Taylor,1:20:57,3,1:23:57,900,Invitational,549,35,M,-,3
+550,T R Odgers,1:21:02,1,1:22:02,832,Invitational,550,15,M,-,1
+551,D A Shirley,1:21:07,7,1:28:07,1004,Invitational,551,47,M,-,7
+552,J M Stephenson,1:21:29,13,1:34:29,1108,Invitational,552,60,M,-,13
+553,J B McClatchy,1:21:46,13,1:34:46,1112,Invitational,553,60,M,-,13
+554,G W Pyne,1:21:49,5,1:26:49,974,Invitational,554,44,M,-,5
+555,G G Green,1:21:51,15,1:36:51,1134,Invitational,555,40,F,-,15
+556,S B Bailey,1:21:52,15,1:36:52,1135,Invitational,556,40,F,-,15
+557,A Dartois,1:21:52,0,0:51:52,6,SJ,1,21,M,-,0
+558,J H Peters,1:21:56,3,1:24:56,922,Invitational,557,35,M,-,3
+559,S A Boyd,1:22:04,15,1:37:04,1138,Invitational,558,39,F,-,15
+560,D A Parsons,1:22:24,1,1:23:24,878,Invitational,559,33,M,-,1
+561,L E Nelson,1:22:32,9,1:31:32,1068,Invitational,560,52,M,-,9
+562,W Shields,1:22:42,5,1:27:42,996,Invitational,561,41,M,-,5
+563,M K Mirsky,1:22:48,3,1:25:48,948,Invitational,562,13,M,-,3
+564,R T Crotti,1:23:08,1,1:24:08,903,Invitational,563,29,M,-,1
+565,T Y Folts,1:23:13,15,1:08:13,283,SJ,2,35,F,-,15
+566,V Vilimas,1:23:49,1,1:24:29,911,Invitational,564,33,M,-,1
+567,G H Anderson,1:24:20,9,1:33:20,1094,Invitational,565,52,M,-,9
+568,L A Otanez,1:24:21,7,1:01:21,94,SJ,3,45,M,-,7
+569,R B Weir,1:24:27,3,1:27:27,991,Invitational,566,6,M,-,3
+570,R A Hayhurst,1:24:33,0,1:24:33,913,Invitational,567,21,M,-,0
+571,R B Ryon,1:24:47,0,1:24:47,918,Invitational,568,17,M,-,0
+572,R B Ingersoll,1:24:58,3,0:57:58,45,SJ,4,38,M,-,3
+573,D D Hannaford,1:25:02,13,1:08:32,295,SJ,5,29,F,-,13
+574,R Barone,1:25:12,13,1:38:12,1144,Invitational,569,29,F,-,13
+575,M Benson,1:25:19,13,1:38:19,1146,Invitational,570,32,F,-,13
+576,R Hollerson,1:25:24,5,1:30:24,1047,Invitational,571,43,M,-,5
+577,R Leonards,1:26:02,11,1:37:02,1136,Invitational,572,55,M,-,11
+578,no data,-,-,-,-,no data,,,,-,
+579,no data,-,-,-,-,no data,,,,-,
+580,no data,-,-,-,-,no data,,,,-,
+581,no data,-,-,-,-,no data,,,,-,
+582,no data,-,-,-,-,no data,,,,-,
+583,no data,-,-,-,-,no data,,,,-,
+584,no data,-,-,-,-,no data,,,,-,
+585,no data,-,-,-,-,no data,,,,-,
+586,no data,-,-,-,-,no data,,,,-,
+587,no data,-,-,-,-,no data,,,,-,
+588,V M Giacomini,1:26:02,0,1:26:02,951,Invitational,573,16,M,-,0
+589,D R Hannaford,1:26:03,1,0:57:03,31,SJ,6,30,M,-,1
+590,S E Mawson,1:26:07,3,0:59:07,56,SJ,7,39,M,-,3
+591,R D Digesti,1:26:10,1,1:27:10,985,Invitational,574,33,M,-,1
+592,T C Jackson,1:05:14,9,1:14:14,535,Invitational,575,11,M,-,9
+593,S B Oliphant,1:26:50,5,1:01:50,102,SJ,8,40,M,-,5
+594,D S Hobler,1:26:58,3,0:59:58,68,SJ,9,39,M,-,3
+595,M Jeneid,1:27:17,7,1:04:17,153,SJ,10,47,M,-,7
+596,M A Carisetti,1:27:21,11,1:08:21,292,SJ,11,18,F,-,11
+597,L M Gates,1:27:34,13,1:40:34,1169,Invitational,576,30,F,-,13
+598,M F Mendle,1:27:39,13,1:10:39,382,SJ,12,27,F,-,13
+599,J S Bay,1:27:49,13,1:10:49,388,SJ,13,28,F,-,13
+600,R M Bielak-Woodley,1:28:30,13,1:11:30,413,SJ,14,29,F,-,13
+601,P K Murphy-Swannack,1:28:37,15,1:43:37,1189,Invitational,577,38,F,-,15
+602,W J Stack,1:28:37,13,1:41:37,1178,Invitational,578,73,M,-,13
+603,T P Trouard,1:28:50,0,0:58:50,53,SJ,15,18,M,-,0
+604,I S Poutiatine,1:28:54,7,1:35:54,1128,Invitational,579,49,M,-,7
+605,L Garcia,1:29:28,0,0:59:28,61,SJ,16,24,M,-,0
+606,S L Wallach,1:29:35,3,1:32:35,1081,Invitational,580,13,M,-,3
+607,L C Hayes,1:29:35,13,1:12:35,470,SJ,17,29,F,-,13
+608,A B Vaughey,1:29:46,9,1:38:46,1153,Invitational,581,11,M,-,9
+609,J H Dorsey,1:29:50,7,1:06:50,228,SJ,18,49,P,-,7
+610,H L Rohlfing,1:29:54,9,1:08:54,307,SJ,19,52,M,-,9
+611,V R Brown,1:29:54,13,1:12:54,479,SJ,20,32,F,-,13
+612,J Satti,1:29:54,13,1:42:54,1187,Invitational,582,67,M,-,13
+613,B L Tarr,1:29:55,15,1:14:55,556,SJ,21,40,F,-,15
+614,C A Gooding,1:30:02,7,1:37:02,1137,Invitational,583,45,M,-,7
+615,T B Eng,1:30:03,1,1:01:03,86,SJ,22,30,M,-,1
+616,W J Mooneyham,1:30:07,5,1:05:07,177,SJ,23,43,M,-,5
+617,K B Mesa,1:30:12,1,1:01:12,91,SJ,24,15,M,-,1
+618,S E Meyers,1:30:13,3,1:33:13,1092,Invitational,584,14,M,-,3
+619,I S Meyers,1:30:13,15,1:45:13,1203,Invitational,585,40,F,-,15
+620,J M Gonsalves,1:30:26,1,1:31:26,1067,Invitational,586,32,M,-,1
+621,B L Beffort,1:30:29,1,1:01:29,96,SJ,25,15,M,-,1
+622,S C Molinari,1:30:29,0,1:00:29,80,SJ,26,23,M,-,0
+623,D A Sommerville,1:30:34,0,1:00:34,81,SJ,27,19,M,-,0
+624,M E Voorheis,1:30:55,3,1:03:55,140,SJ,28,35,M,-,3
+625,G Fries,1:30:58,3,1:03:58,142,SJ,29,36,M,-,3
+626,B E Farrar,1:31:05,13,1:14:05,531,SJ,30,27,F,-,13
+627,D W Stewart,1:31:05,7,1:08:05,275,SJ,31,45,M,-,7
+628,R D Gilliam,1:31:14,1,1:02:14,110,SJ,32,15,M,-,1
+629,K M Morton,1:31:31,11,1:12:31,467,SJ,33,22,F,-,11
+630,D F Ward,1:31:47,3,1:04:47,166,SJ,34,35,M,-,3
+631,J R Sherwood,1:32:03,0,1:02:03,107,SJ,35,25,M,-,0
+632,A Swenson,1:32:28,0,1:32:28,1078,Invitational,587,16,M,-,0
+633,M H Brennan,1:32:30,0,1:02:30,117,SJ,36,28,M,-,0
+634,C R Mawson,1:32:30,15,1:17:30,667,SJ,37,37,F,-,15
+635,J M Sullivan,1:32:34,13,1:15:34,589,SJ,38,27,F,-,13
+636,G E Rodriguez,1:32:35,9,1:11:35,419,SJ,39,53,M,-,9
+637,J L Dalton,1:32:39,5,1:07:39,258,SJ,40,42,M,-,5
+638,P E Harben,1:32:41,0,1:02:41,120,SJ,41,27,M,-,0
+639,P G Williams,1:32:44,5,1:07:44,263,SJ,42,43,M,-,5
+640,T Follerg,1:32:46,1,1:03:46,138,SJ,43,33,M,-,1
+641,E M Landoy,1:32:55,11,1:13:55,525,SJ,44,25,F,-,11
+642,M T Messenger,1:32:59,0,1:02:59,125,SJ,45,25,M,-,0
+643,D A Donovan,1:33:04,9,1:42:04,1180,Invitational,588,11,M,-,9
+644,B M Pelletier,1:33:10,15,1:18:10,691,SJ,46,36,F,-,15
+645,F A Solem,1:33:12,0,1:03:12,131,SJ,47,27,M,-,0
+646,J J Moran,1:33:18,3,1:06:13,211,SJ,48,37,M,-,3
+647,C R Hannaford,1:33:28,9,1:12:28,464,SJ,49,10,M,-,9
+648,H M Manning,1:33:29,11,1:44:29,1197,Invitational,589,15,F,-,11
+649,K J Lee,1:33:35,1,1:04:35,163,SJ,50,31,M,-,1
+650,P H Meeks,1:33:45,5,1:08:45,302,SJ,51,44,M,-,5
+651,S R Tech,1:33:56,0,1:03:56,141,SJ,52,24,M,-,0
+652,A V Sikora,1:34:01,1,1:05:01,173,SJ,53,31,M,-,1
+653,C R Swain,1:34:05,0,1:04:05,146,SJ,54,16,M,-,0
+654,B A Grant,1:34:13,9,1:13:13,496,SJ,55,52,M,-,9
+655,W F Mercer,1:34:14,1,1:05:14,184,SJ,56,33,M,-,1
+656,J G Healy,1:34:28,3,1:07:28,251,SJ,57,35,M,-,3
+657,M A Peterson,1:34:30,7,1:11:30,414,SJ,58,46,M,-,7
+658,H Webster,1:34:35,9,1:13:35,517,SJ,59,52,M,-,9
+659,R D Bloom,1:34:49,3,1:07:49,266,SJ,60,39,M,-,3
+660,G B Williams,1:34:53,0,1:04:53,171,SJ,61,28,M,-,0
+661,M C Meyers,1:34:55,1,1:35:55,1130,Invitational,590,30,M,-,1
+662,A Dringwater,1:34:57,7,1:11:57,430,SJ,62,47,M,-,7
+663,R M Yelland,1:34:57,3,1:07:57,269,SJ,63,37,M,-,3
+664,W J Pitz,1:34:57,1,1:05:57,202,SJ,64,30,M,-,1
+665,J A Russell,1:35:04,7,1:12:04,441,SJ,65,49,M,-,7
+666,D C Harrower,1:35:05,5,1:10:05,362,SJ,66,44,M,-,5
+667,no data,-,-,-,-,no data,,,,-,
+668,no data,-,-,-,-,no data,,,,-,
+669,no data,-,-,-,-,no data,,,,-,
+670,R E Svihart,1:35:06,0,1:05:06,175,SJ,67,23,M,-,0
+671,F S Matull,1:35:06,0,1:05:06,176,SJ,68,18,M,-,0
+672,P Haydon,1:35:07,3,1:08:07,279,SJ,69,36,M,-,3
+673,R W Afferdt,1:35:08,0,1:05:08,178,SJ,70,22,M,-,0
+674,B Harrower,1:35:17,15,1:20:17,773,SJ,71,43,F,-,15
+675,L J Encalada,1:35:19,3,1:08:19,289,SJ,72,36,M,-,3
+676,R E Patterson,1:35:20,1,1:06:20,213,SJ,73,34,M,-,1
+677,D S Holter,1:35:20,7,1:12:20,458,SJ,74,12,M,-,7
+678,R D Heyl,1:35:21,0,1:05:21,186,SJ,75,28,M,-,0
+679,George Dombrovski,1:35:26,0,1:05:26,187,SJ,76,28,M,-,0
+680,G E Fugate,1:35:41,0,1:05:41,191,SJ,77,28,M,-,0
+681,A J Barkovich,1:35:49,1,1:06:49,227,SJ,78,29,M,-,1
+682,G D Webster,1:35:50,0,1:05:50,196,SJ,79,23,M,-,0
+683,D J O'Brien,1:35:50,0,1:05:50,197,SJ,80,27,M,-,0
+684,C W Freuler,1:35:55,9,1:14:55,557,SJ,81,53,M,-,9
+685,K R Barton,1:35:55,1,1:06:55,233,SJ,82,30,M,-,1
+686,J D Mitchell,1:35:56,1,1:06:56,236,SJ,83,32,M,-,1
+687,I L Tomasi,1:35:57,9,1:14:57,560,SJ,84,54,M,-,9
+688,E V Errante,1:35:59,15,1:20:59,795,SJ,85,40,F,-,15
+689,D W Goodwin,1:36:03,0,1:06:03,203,SJ,86,23,M,-,0
+690,L W Lundy,1:36:07,7,1:13:07,490,SJ,87,47,M,-,7
+691,R M Webber,1:36:10,15,1:51:10,1218,Invitational,591,42,F,-,15
+692,R D Christiani,1:36:11,13,1:19:11,734,SJ,88,59,M,-,13
+693,H Aguirre,1:36:12,0,1:06:12,210,SJ,89,26,M,-,0
+694,E T Texeria,1:36:23,0,1:06:23,215,SJ,90,16,M,-,0
+695,C J Volz,1:36:26,3,1:09:26,338,SJ,91,39,M,-,3
+696,P M Bannon,1:36:30,15,1:21:30,814,SJ,92,41,F,-,15
+697,K N Johnson,1:36:32,0,1:06:32,220,SJ,93,28,M,-,0
+698,D Y Hollinger,1:36:33,0,1:06:33,221,SJ,94,26,M,-,0
+699,M M Manning,1:36:45,5,1:41:45,1179,Invitational,592,41,M,-,5
+700,G Babinski,1:36:48,1,1:07:48,265,SJ,95,32,M,-,1
+701,G W Lundberg,1:36:51,9,1:15:51,598,SJ,96,53,M,-,9
+702,M F Hoyt,1:36:56,1,1:37:56,1142,Invitational,593,32,M,-,1
+703,G R Jackson,1:36:57,3,1:39:57,1162,Invitational,594,37,M,-,3
+704,M K Wathen,1:36:59,3,1:09:59,356,SJ,97,37,M,-,3
+705,M Robertson,1:37:03,13,1:20:03,765,SJ,98,31,F,-,13
+706,D B Cassidy,1:37:08,0,1:07:08,242,SJ,99,28,M,-,0
+707,I Dillon,1:37:11,15,1:22:11,834,SJ,100,42,F,-,15
+708,R L Ballew,1:37:19,1,1:08:19,290,SJ,101,30,M,-,1
+709,R H Carolan,1:37:16,5,1:42:16,1182,Invitational,595,41,M,-,5
+710,D J Leong,1:37:16,11,1:18:16,694,SJ,102,25,F,-,11
+711,P M Hancock,1:37:16,1,1:08:16,287,SJ,103,33,M,-,1
+712,C R Carolon,1:37:17,13,1:50:17,1214,Invitational,596,12,F,-,13
+713,D Hurley,1:37:18,5,1:12:18,453,SJ,104,43,M,-,5
+714,M E Kennedy,1:37:19,13,1:50:19,1215,Invitational,597,29,F,-,13
+715,J A Charckon,1:37:23,5,1:12:23,461,SJ,105,41,M,-,5
+716,E K Montague,1:37:25,3,1:10:25,370,SJ,106,-,M,-,3
+717,J R Morris,1:37:32,1,1:08:32,296,SJ,107,32,M,-,1
+718,V Cuneo,1:37:39,0,1:07:39,259,SJ,108,19,M,-,0
+719,R D Busby,1:37:37,0,1:07:37,256,SJ,109,16,M,-,0
+720,B L Horsfall,1:37:41,11,1:18:41,711,SJ,110,22,F,-,11
+721,K F Martin,1:37:52,15,1:22:52,864,SJ,111,42,F,-,15
+722,D L Klink,1:37:57,0,1:07:57,270,SJ,112,27,M,-,0
+723,R F Sawyer,1:37:59,7,1:14:59,563,SJ,113,46,M,-,7
+724,S Thompson,1:37:59,3,1:10:59,395,SJ,114,35,M,-,3
+725,E S Jorgenson,1:38:01,0,1:08:01,273,SJ,115,18,M,-,0
+726,J H Wyman,1:38:05,1,1:09:05,313,SJ,116,34,M,-,1
+727,J W Pierce,1:38:08,1,1:09:08,316,SJ,117,34,M,-,1
+728,G A Hobstetter,1:38:09,1,1:09:09,318,SJ,118,30,M,-,1
+729,K A Huff,1:38:10,13,1:21:10,804,SJ,119,29,F,-,13
+730,R V Hester,1:38:12,1,1:09:12,323,SJ,120,35,M,-,1
+731,S J Torricelli,1:38:13,0,1:08:13,284,SJ,121,28,M,-,0
+732,A G Cornwell,1:38:18,1,1:09:18,328,SJ,122,31,M,-,1
+733,M J Wagner,1:38:18,1,1:09:18,329,SJ,123,33,M,-,1
+734,P W Johnson,1:38:22,1,1:09:22,334,SJ,124,29,M,-,1
+735,J A Destein,1:38:25,3,1:41:25,1175,Invitational,598,39,M,-,3
+736,T N Jennings,1:38:45,13,1:21:45,822,SJ,125,21,F,-,13
+737,B C Bryon,1:38:53,0,1:08:53,306,SJ,126,23,M,-,0
+738,R L Blake,1:38:57,0,1:08:57,309,SJ,127,27,M,-,0
+739,T M Hannigan,1:38:58,5,1:13:58,527,SJ,128,41,M,-,5
+740,E J Allen,1:39:00,1,1:10:00,358,SJ,129,15,M,-,1
+741,G V Barron,1:39:02,3,1:12:02,438,SJ,130,35,M,-,3
+742,P Brooks,1:39:04,1,1:10:04,361,SJ,131,32,M,-,1
+743,B Clarke,1:39:06,0,1:39:06,1157,Invitational,599,25,M,-,0
+744,J M Garlock,1:39:09,3,1:12:09,445,SJ,132,35,M,-,3
+745,H D Daniel,1:39:10,7,1:16:10,615,SJ,133,47,M,-,7
+746,P Geralds,1:39:11,0,1:09:11,320,SJ,134,25,M,-,0
+747,J T McDermott,1:39:11,0,1:09:11,321,SJ,135,23,M,-,0
+748,D M Strand,1:39:11,0,1:09:11,322,SJ,136,26,M,-,0
+749,G R Penhaligon,1:39:12,1,1:10:12,364,SJ,137,15,M,-,1
+750,J B Colbert,1:39:12,1,1:10:12,365,SJ,138,33,M,-,1
+751,P O Lynch,1:39:12,0,1:09:12,324,SJ,139,18,M,-,0
+752,T L Payne,1:39:14,0,1:09:14,326,SJ,140,28,M,-,0
+753,D J Girkout,1:39:17,9,1:18:17,698,SJ,141,50,M,-,9
+754,W T Matthews,1:39:18,3,1:12:18,454,SJ,142,36,M,-,3
+755,M W Congermann,1:39:19,0,1:09:19,331,SJ,143,21,M,-,0
+756,W J Castelli,1:39:21,13,1:22:21,841,SJ,144,65,M,-,13
+757,P Morin,1:39:25,1,1:10:25,371,SJ,145,32,M,-,1
+758,J C Dugan,1:39:26,0,1:09:26,339,SJ,146,18,M,-,0
+759,B P Favreau,1:39:29,1,1:10:29,374,SJ,147,31,M,-,1
+760,A J Paszowski,1:39:31,0,1:09:31,342,SJ,148,25,M,-,0
+761,N B Vaughey,1:39:32,7,1:16:32,625,SJ,149,12,M,-,7
+762,D Standish,1:39:34,1,1:10:34,378,SJ,150,31,M,-,1
+763,D H Jaul,1:39:36,0,1:09:36,345,SJ,151,27,M,-,0
+764,R B Kraetsch,1:39:37,11,1:20:37,781,SJ,152,55,M,-,11
+765,M D Russell,1:39:38,3,1:12:38,471,SJ,153,36,M,-,3
+766,D G Hobstetter,1:39:41,1,1:10:41,383,SJ,154,31,M,-,1
+767,D E Keenan,1:39:41,0,1:09:41,346,SJ,155,21,M,-,0
+768,G B Bronner,1:39:44,0,1:09:44,349,SJ,156,24,M,-,0
+769,J M Peet,1:39:53,5,1:14:53,555,SJ,157,40,M,-,5
+770,J B Healy,1:39:53,1,1:10:53,391,SJ,158,31,M,-,1
+771,M E Lynch,1:39:53,1,1:10:53,392,SJ,159,34,M,-,1
+772,R J Fry,1:39:54,3,1:12:54,480,SJ,160,37,M,-,3
+773,T Wilson,1:39:58,9,1:18:58,725,SJ,161,53,M,-,9
+774,J G Edelston,140:07,11,1:21:07,801,SJ,162,25,F,-,11
+775,D A Christerser,1:40:10,1,1:11:10,403,SJ,163,33,M,-,1
+776,M B Aufrere,1:40:14,3,1:13:14,497,SJ,164,36,M,-,3
+777,C J Paone,1:40:15,3,1:13:15,498,SJ,165,36,M,-,3
+778,T P OConnell,1:40:15,1,1:11:15,405,SJ,166,31,M,-,1
+779,ck bounced,-,-,-,-,no data,,,,-,
+780,A Lepoutre,1:40:20,0,1:10:20,368,SJ,167,23,M,-,0
+781,M R Shannon,1:40:20,11,1:21:20,810,SJ,168,25,F,-,11
+782,J E Winter,1:40:25,11,1:21:25,812,SJ,169,55,M,-,11
+783,M S Aubel,1:40:26,0,1:10:26,372,SJ,170,17,M,-,0
+784,C H Dreyfus,1:40:31,1,1:11:31,415,SJ,171,31,M,-,1
+785,J M Tobin,1:40:35,13,1:23:25,881,SJ,172,28,F,-,13
+786,D J Burke,1:40:37,1,1:11:37,421,SJ,173,34,M,-,1
+787,C D Parrish,1:40:39,15,1:25:39,945,SJ,174,43,F,-,15
+788,M McMahan,1:40:41,0,1:10:41,384,SJ,175,26,M,-,0
+789,R Silveira,1:40:42,9,1:19:42,756,SJ,176,52,M,-,9
+790,R Kelly,1:40:43,1,1:11:43,426,SJ,177,32,M,-,1
+791,C P Zinn,1:40:47,5,1:15:47,593,SJ,178,43,M,-,5
+792,D M Pink,1:40:50,7,1:17:50,679,SJ,179,45,M,-,7
+793,R Caldwell,1:40:54,0,1:10:54,394,SJ,180,16,M,-,0
+794,J A Vreeland,1:40:57,11,1:51:57,1222,Invitational,600,56,M,-,11
+795,J R Salzman,1:40:57,5,1:15:57,603,SJ,181,40,M,-,5
+796,L H Imada,1:40:59,1,1:11:59,432,SJ,182,34,M,-,1
+797,E M Shafer,1:41:04,1,1:12:04,442,SJ,183,34,M,-,1
+798,B L Korner,1:41:06,15,1:26:06,954,SJ,184,42,F,-,15
+799,L E Barberini,1:41:19,9,1:20:19,775,SJ,185,50,M,-,9
+800,R R Shaw,1:41:33,3,1:14:33,545,SJ,186,39,M,-,3
+801,M R Steward,1:41:35,5,1:16:35,626,SJ,187,44,M,-,5
+802,H M Williston,1:41:37,15,1:26:37,970,SJ,188,41,F,-,15
+803,J S Williston,1:41:38,7,1:18:38,705,SJ,189,46,M,-,7
+804,P R Lyons,1:41:39,5,1:16:39,631,SJ,190,42,M,-,5
+805,J B Casper,1:41:40,1,1:12:40,473,SJ,191,32,M,-,1
+806,M Sanders,1:41:41,1,1:12:41,474,SJ,192,31,M,-,1
+807,I Gafney,1:41:44,3,1:14:44,550,SJ,193,13,M,-,3
+808,R E Milfinger,1:41:45,0,1:11:45,428,SJ,194,23,M,-,0
+809,M Beckett,1:41:48,3,1:14:48,552,SJ,195,36,M,-,3
+810,T F Rosko,1:41:54,1,1:12:54,481,SJ,196,30,M,-,1
+811,J L Simons,1:41:56,3,1:14:56,558,SJ,197,35,M,-,3
+812,R Johnson,1:41:56,7,1:18:56,723,SJ,198,46,M,-,7
+813,J A Bustamante,1:41:58,0,1:11:58,431,SJ,199,23,M,-,0
+814,E E Akers,1:41:59,7,1:18:59,726,SJ,200,46,M,-,7
+815,E B Burdett,1:42:00,1,1:13:00,484,SJ,201,29,M,-,1
+816,R J Sjowall,1:42:01,0,1:12:01,434,SJ,202,24,M,-,0
+817,G V Gill,1:42:02,1,1:13:02,487,SJ,203,32,M,-,1
+818,W W Hawley,1:42:02,3,1:15:02,568,SJ,204,35,M,-,3
+819,R E Warren,1:42:02,3,1:15:02,569,SJ,205,38,M,-,3
+820,J B Kusak,1:42:02,3,1:15:02,570,SJ,206,38,M,-,3
+821,T J Knapp,1:42:03,3,1:45:03,1202,Invitational,601,37,M,-,3
+822,J L Cockle,1:42:04,0,1:12:04,443,SJ,207,16,M,-,0
+823,G G White,1:42:06,5,1:17:06,654,SJ,208,40,M,-,5
+824,G Garratt,1:42:08,1,1:13:08,492,SJ,209,33,M,-,1
+825,J D Barry,1:42:08,15,1:27:08,984,SJ,210,37,F,-,15
+826,B D Price,1:42:08,3,1:15:08,575,SJ,211,13,M,-,3
+827,M Weissman,1:42:11,5,1:17:11,659,SJ,212,42,M,-,5
+828,T A Custer,1:42:11,0,1:12:11,446,SJ,213,28,M,-,0
+829,K S Gilliam,1:42:12,15,1:27:12,987,SJ,214,34,F,-,15
+830,C Biby,1:42:12,13,1:25:12,929,SJ,215,33,F,-,13
+831,F C Bossler,1:42:14,3,1:15:14,579,SJ,216,36,M,-,3
+832,K A Ojeada,1:42:14,0,1:12:14,448,SJ,217,18,M,-,0
+833,W R Neuman,1:42:15,0,1:12:15,450,SJ,218,21,M,-,0
+834,J P Olson,1:42:16,17,1:29:16,1022,SJ,219,49,F,-,17
+835,T J Whalen,1:42:18,0,1:12:18,455,SJ,220,19,M,-,0
+836,B T Devine,1:42:19,0,1:12:19,456,SJ,221,25,M,-,0
+837,J S Graham,1:42:22,0,1:12:22,459,SJ,222,26,M,-,0
+838,R H Page,1:42:24,0,1:12:24,462,SJ,223,24,M,-,0
+839,J J Childs,1:42:24,13,1:25:24,938,SJ,224,30,F,-,13
+840,A B Flores,1:42:24,3,1:15:24,587,SJ,225,37,M,-,3
+841,N L Lamb,1:42:25,11,1:23:25,882,SJ,226,18,F,-,11
+842,G M Handa,1:42:26,1,1:13:26,509,SJ,227,31,M,-,1
+843,J K Furman,1:42:27,1,1:13:27,511,SJ,228,34,M,-,1
+844,D R Delano,1:42:28,1,1:13:28,512,SJ,229,34,M,-,1
+845,S D Steen,1:42:28,1,1:13:28,513,SJ,230,31,M,-,1
+846,P F Sprouse,1:42:32,3,1:15:32,588,SJ,231,38,M,-,3
+847,D W Rising,1:42:38,5,1:17:38,671,SJ,232,40,M,-,5
+848,M Downey,1:42:45,13,1:25:45,946,SJ,233,27,F,-,13
+849,R L Faulkner,1:42:52,3,1:15:52,599,SJ,234,39,M,-,3
+850,N K Tripp,1:42:55,9,1:21:55,827,SJ,235,10,M,-,9
+851,R J Forse,1:42:59,1,1:13:59,529,SJ,236,32,M,-,1
+852,M A Aldridge,1:43:04,13,1:26:04,952,SJ,237,26,F,-,13
+853,C L Thiel,1:43:10,13,1:26:10,957,SJ,238,26,F,-,13
+854,M M Bruce,1:43:12,1,1:14:12,534,SJ,239,29,M,-,1
+855,P J Meider,1:43:15,1,1:14:15,536,SJ,240,32,M,-,1
+856,M J Fuchs,1:43:19,0,1:13:19,502,SJ,241,26,M,-,0
+857,C M Tice,1:43:19,0,1:13:19,503,SJ,242,27,M,-,0
+858,J C Buffum,1:43:23,3,1:16:23,620,SJ,243,38,M,-,3
+859,P G Robinson,1:43:23,1,1:14:23,539,SJ,244,31,M,-,1
+860,F A Noziglia,1:43:24,1,1:14:24,541,SJ,245,34,M,-,1
+861,L Rios,1:43:27,15,1:28:27,1011,SJ,246,40,F,-,15
+862,J M Lambert,1:43:39,1,1:14:39,547,SJ,247,15,M,-,1
+863,R S Quinn,1:43:44,1,1:14:44,551,SJ,248,32,M,-,1
+864,J P Summers,1:43:45,3,1:16:45,636,SJ,249,35,M,-,3
+865,s c Garratt,1:43:47,15,1:28:47,1016,SJ,250,43,f,-,15
+866,W E Glosser,1:43:49,5,1:18:49,720,SJ,251,43,M,-,5
+867,R A Abaya,1:43:49,17,1:30:49,1057,SJ,252,32,M,-,17
+868,S A Serleth,1:43:49,13,1:26:49,975,SJ,253,33,F,-,13
+869,W E Mustain,1:43:50,1,1:14:50,553,SJ,254,32,M,-,1
+870,L O Thomas,1:43:57,1,1:14:57,561,SJ,255,33,M,-,1
+871,D R Lynch,1:43:58,3,1:16:58,646,SJ,256,35,M,-,3
+872,J C Cleary,1:43:58,3,1:16:58,647,SJ,257,39,M,-,3
+873,D E Tengler,1:44:01,1,1:15:01,566,SJ,258,30,M,-,1
+874,T J Gambadella,1:44:03,0,1:14:03,530,SJ,259,22,M,-,0
+875,H Baker,1:44:05,1,1:15:05,572,SJ,260,32,M,-,1
+876,B Corbett,1:44:08,1,1:15:08,576,SJ,261,32,M,-,1
+877,J A Koeppel,1:44:08,1,1:15:08,577,SJ,262,33,M,-,1
+878,R R Conner,1:44:10,5,1:19:10,733,SJ,263,43,M,-,5
+879,G R Henry,1:44:13,5,1:19:13,735,SJ,264,43,M,-,5
+880,V Rodriguez,1:44:17,17,1:31:17,1065,SJ,265,46,F,-,17
+881,E Clarke,1:44:23,3,1:17:23,665,SJ,266,39,M,-,3
+882,M M Eckles,1:44:24,3,1:17:24,666,SJ,267,35,M,-,3
+883,J L Dodge,1:44:25,9,1:23:25,883,SJ,268,51,M,-,9
+884,J W Flynn,1:44:27,11,1:25:27,939,SJ,269,24,F,-,11
+885,B D Green,1:44:30,9,1:23:30,884,SJ,270,11,M,-,9
+886,D J Shrieve,1:44:32,3,1:17:32,669,SJ,271,39,M,-,3
+887,T J Toohey,1:44:35,5,1:19:35,750,SJ,272,40,M,-,5
+888,D E Ertel,1:44:36,7,1:21:36,815,SJ,273,46,M,-,7
+889,R A Gauthier,1:44:38,0,1:14:38,546,SJ,274,24,M,-,0
+890,J S Vanhorn,1:44:46,3,1:17:46,675,SJ,275,35,M,-,3
+891,K M Bielak-Wooley,1:44:48,1,1:15:48,595,SJ,277,32,M,-,1
+891,G C Coleman,1:44:47,1,1:15:47,594,SJ,276,33,M,-,1
+892,R C Rome,1:44:51,3,1:17:51,681,SJ,278,36,M,-,3
+893,R H Irwin,1:44:55,7,1:21:55,828,SJ,279,49,M,-,7
+894,M R Lowery,1:44:59,0,1:14:59,564,SJ,280,28,M,-,0
+895,D W Lawrence,1:44:59,1,1:15:59,606,SJ,281,33,M,-,1
+896,K J Luetkehans,1:45:00,0,1:15:00,565,SJ,282,22,M,-,0
+897,P E Birrer,1:45:01,15,2:00:01,1237,Invitational,602,39,F,-,15
+898,B M Marcucci,1:45:08,3,1:18:08,690,SJ,283,39,M,-,3
+899,E Rehr,1:45:14,15,1:30:14,1042,SJ,284,34,F,-,15
+900,L C Moulton,1:45:15,15,1:30:15,1043,SJ,285,40,F,-,15
+901,T L Hinrichs,1:45:21,0,1:15:21,584,SJ,286,25,M,-,0
+902,W A Montagne,1:45:22,11,1:26:22,963,SJ,287,55,M,-,11
+903,A Nardini,1:45:26,11,1:26:26,965,SJ,288,56,M,-,11
+904,J L Mise,1:45:38,3,1:18:38,706,SJ,289,35,M,-,3
+905,T Childs,1:45:43,1,1:16:43,634,SJ,290,29,M,-,1
+906,J M Williams,1:45:47,1,1:16:47,637,SJ,291,29,M,-,1
+907,S J Templeton,1:45:48,3,1:18:48,719,SJ,292,14,M,-,3
+908,C S Collier,1:45:48,1,1:16:48,639,SJ,293,32,M,-,1
+909,J N Fisher,1:45:49,7,1:22:49,861,SJ,294,45,M,-,7
+910,D Kanner,1:45:50,0,1:15:50,597,SJ,295,27,M,-,0
+911,W L Arnold,1:45:51,3,1:18:51,722,SJ,296,35,M,-,3
+912,C P Lehner,1:45:54,0,1:15:54,601,SJ,297,27,M,-,0
+913,P G Vondippe,1:45:54,5,1:20:54,789,SJ,298,41,M,-,5
+914,R W Witherell,1:45:55,0,1:15:55,602,SJ,299,22,M,-,0
+915,M J Rolleri,1:45:57,3,1:18:57,724,SJ,300,39,M,-,3
+916,J P Bohlman,1:45:58,0,1:15:58,605,SJ,301,27,M,-,0
+917,R T Huddlestone,1:46:00,0,1:16:00,607,SJ,302,22,M,-,0
+918,J A McBride,1:46:03,1,1:17:03,651,SJ,303,32,M,-,1
+919,J R Thompson,1:46:03,3,1:19:03,727,SJ,304,38,M,-,3
+920,M R Falasco,1:46:03,1,1:17:03,652,SJ,305,29,M,-,1
+921,J E Bates,1:46:06,5,1:21:06,799,SJ,306,40,M,-,5
+922,W B Callahan,1:46:07,3,1:19:07,728,SJ,307,35,M,-,3
+923,R L Davis,1:46:08,1,1:17:08,656,SJ,308,34,M,-,1
+924,J J Bennett,1:46:08,0,1:16:08,613,SJ,309,28,M,-,0
+925,M G Ornstil,1:46:09,0,1:16:09,614,SJ,310,24,M,-,0
+926,S G Allen,1:46:11,0,1:16:11,616,SJ,311,16,M,-,0
+927,T W Taylor,1:46:11,1,1:17:11,660,SJ,312,29,M,-,1
+928,S S Lehner,1:46:13,13,1:29:13,1020,SJ,313,29,F,-,13
+929,B T Clough,1:46:19,3,1:19:19,741,SJ,314,35,M,-,3
+930,G T Rich,1:46:20,1,1:17:20,663,SJ,315,34,M,-,1
+931,R D Stewart,1:46:23,3,1:19:23,742,SJ,316,35,M,-,3
+932,B I Bright,1:46:23,0,1:16:23,621,SJ,317,27,M,-,0
+933,K Michiels,1:46:27,13,1:29:27,1024,SJ,318,28,F,-,13
+934,S J McKie,1:46:27,11,1:27:27,992,SJ,319,24,F,-,11
+935,E Haak,1:46:28,13,1:29:28,1025,SJ,320,61,M,-,13
+936,R N Smith,1:46:23,9,1:25:23,937,SJ,321,51,M,-,9
+937,H V Marshall,1:46:32,17,1:33:32,1100,SJ,322,54,F,-,17
+938,S J Kahn,1:46:34,1,1:17:34,670,SJ,323,32,M,-,1
+939,E Ainsworth,1:46:36,0,1:16:36,628,SJ,324,27,M,-,0
+940,R L Whelan,1:46:36,3,1:19:36,751,SJ,325,13,M,-,3
+941,G B Miller,1:46:36,3,1:19:36,752,SJ,326,13,M,-,3
+942,T R Knex,1:46:37,5,1:21:37,816,SJ,327,43,M,-,5
+943,M S Jereb,1:46:38,1,1:17:38,672,SJ,328,31,M,-,1
+944,S L Wyneken,1:46:38,0,1:16:38,630,SJ,329,17,M,-,0
+945,L R Swain,1:46:39,15,1:31:39,1071,SJ,330,36,F,-,15
+946,C B Burch,1:46:40,1,1:17:40,673,SJ,331,32,M,-,1
+947,T F Jenkins,1:46:41,5,1:21:41,818,SJ,332,44,M,-,5
+948,C R Stunz,1:46:42,1,1:17:42,674,SJ,333,15,M,-,1
+949,R C Zink,1:46:44,5,1:21:44,821,SJ,334,42,M,-,5
+950,S P Nardini,1:46:48,13,1:29:48,1030,SJ,335,28,F,-,13
+951,A J Ream,1:46:50,0,1:16:50,641,SJ,336,17,M,-,0
+952,J T Christensen,1:46:53,0,1:16:53,643,SJ,337,28,M,-,0
+953,W C Hanson,1:46:53,13,1:59:53,1235,Invitational,603,76,M,-,13
+954,C A Botta,1:46:56,0,1:16:56,644,SJ,338,26,M,-,0
+955,C O Jones,1:47:00,5,1:22:00,830,SJ,339,42,M,-,5
+956,J R Deleon,1:47:10,0,1:17:10,658,SJ,340,19,M,-,0
+957,K J Casey,1:47:16,1,1:18:16,695,SJ,341,34,M,-,1
+958,W G Campo,1:47:16,1,1:18:16,696,SJ,342,34,M,-,1
+959,R R Kerr,1:47:16,3,1:20:16,772,SJ,343,37,M,-,3
+960,K M Haggerty,1:47:20,1,1:18:20,700,SJ,344,31,M,-,1
+961,S M Marek,1:47:21,3,1:50:21,1216,Invitational,604,36,M,-,3
+962,A B Garcia,1:47:24,13,1:30:24,1048,SJ,345,58,M,-,13
+963,M D Recchia,1:47:29,3,1:20:29,779,SJ,346,35,M,-,3
+964,J M Barlow-Mishlove,1:47:30,15,1:32:30,1080,SJ,347,38,F,-,15
+965,R E Digrazia,1:47:32,5,1:22:32,851,SJ,348,42,M,-,5
+966,R A Allen,1:47:36,7,1:24:36,914,SJ,349,46,M,-,7
+967,T S Vasgird,1:47:38,1,1:18:38,707,SJ,350,30,M,-,1
+968,R F Parchman,1:47:39,1,1:18:39,709,SJ,351,29,M,-,1
+969,W J Grant,1:47:41,1,1:18:41,712,SJ,352,29,M,-,1
+970,B J Schmidt,1:47:42,3,1:20:42,783,SJ,353,14,M,-,3
+971,L Wong,1:47:43,1,1:18:43,714,SJ,354,29,M,-,1
+972,P R Butler,1:47:44,7,1:54:44,1228,Invitational,605,49,M,-,7
+973,D E Cooper,1:47:46,5,1:22:46,859,SJ,355,43,M,-,5
+974,J K Conner,1:47:47,3,1:20:47,784,SJ,356,13,M,-,3
+975,W P Carling,1:47:48,0,1:17:48,677,SJ,357,17,M,-,0
+976,F G Johnson,1:47:49,0,1:17:49,678,SJ,358,27,M,-,0
+977,R G Fellows,1:47:50,1,1:18:50,721,SJ,359,31,M,-,1
+978,S V Allegra,1:47:50,0,1:17:50,680,SJ,360,21,M,-,0
+979,D J Sullivan,1:47:51,5,1:33:51,1103,SJ,361,43,M,-,5
+980,J L Harberson,1:47:52,3,1:20:52,787,SJ,362,39,M,-,3
+981,B T Wolff,1:47:53,3,1:20:53,788,SJ,363,36,M,-,3
+982,G T Hall,1:48:04,3,1:21:04,797,SJ,364,38,M,-,3
+983,R V Merrill,1:48:04,3,1:21:04,798,SJ,365,39,M,-,3
+984,M W Zuercher,1:48:04,0,1:18:04,689,SJ,366,25,M,-,0
+985,g e Stone,1:48:05,5,1:23:05,872,SJ,367,44,m,-,5
+986,E A Zaloom,1:48:07,3,1:21:07,802,SJ,368,37,M,-,3
+987,P J Pollay,1:48:09,5,1:23:09,873,SJ,369,41,M,-,5
+988,C J Paone,1:48:11,9,1:27:11,986,SJ,370,10,M,-,9
+989,S M Schon,1:48:13,1,1:19:13,736,SJ,371,30,M,-,1
+990,R E Temples,1:48:14,3,1:21:14,805,SJ,372,35,M,-,3
+991,D F Olsson,1:48:16,0,1:18:16,697,SJ,373,24,M,-,0
+992,G J Aradi,1:48:16,1,1:19:16,737,SJ,374,29,M,-,1
+993,R M Teplitz,1:48:17,1,1:19:17,738,SJ,375,29,M,-,1
+994,W B Pryor,1:48:18,7,1:25:18,932,SJ,376,46,M,-,7
+995,J E Kerler,1:48:20,5,1:23:20,877,SJ,377,44,M,-,5
+996,R S Carnell,1:48:28,0,1:18:28,702,SJ,378,27,M,-,0
+997,R J Gilson,1:48:30,1,1:19:30,745,SJ,379,34,M,-,1
+998,F A Eastaff,1:48:33,13,1:31:33,1069,SJ,380,33,F,-,13
+999,T J Restairo,1:48:33,1,1:19:33,748,SJ,381,32,M,-,1
+1000,G A Straw,1:48:38,0,1:18:38,708,SJ,382,26,M,-,0
+1001,W J Lambert,1:48:39,5,1:23:39,890,SJ,383,40,M,-,5
+1002,B Z Chatoff,1:48:42,5,1:23:42,893,SJ,384,41,M,-,5
+1003,J C Calhoun,1:48:42,3,1:21:42,819,SJ,385,39,M,-,3
+1004,K K Kuziara,1:46:48,13,1:29:48,1031,SJ,386,28,F,-,13
+1005,E P S Schissler,1:48:56,1,1:19:56,761,SJ,387,15,M,-,1
+1006,J E Salmon-Heynewman,1:48:56,13,1:31:56,1074,SJ,388,27,F,-,13
+1007,P G Minkiewicz,1:48:59,3,1:21:59,829,SJ,389,37,M,-,3
+1008,Q W Choy,1:49:08,7,1:26:08,956,SJ,390,47,M,-,7
+1009,S M Hollinger,1:49:20,11,1:30:20,1046,SJ,391,25,F,-,11
+1010,S D Rothschild,1:49:20,3,1:22:20,840,SJ,392,36,M,-,3
+1011,R A Markle,1:49:24,13,1:32:24,1077,SJ,393,29,F,-,13
+1012,A B Bond,1:49:26,0,1:19:26,743,SJ,394,21,M,-,0
+1013,B Gillarde,1:49:29,13,1:32:29,1079,SJ,395,32,F,-,13
+1014,T S Brainerd,1:49:37,1,1:20:37,782,SJ,396,34,M,-,1
+1015,R L Kozlenko,1:49:40,3,1:22:40,856,SJ,397,38,M,-,3
+1016,M D Lynde,1:49:42,11,1:30:42,1055,SJ,398,20,F,-,11
+1017,D H Pretzinger,1:49:49,13,1:32:49,1085,SJ,399,59,M,-,13
+1018,M J Chamberlin,1:49:50,15,1:34:50,1113,SJ,400,38,F,-,15
+1019,W C Drypolcher,1:49:54,3,1:22:54,866,SJ,401,37,M,-,3
+1020,R B Caldwell,1:49:55,5,1:24:55,920,SJ,402,42,M,-,5
+1021,S S Carlson,1:49:56,1,1:20:56,793,SJ,403,34,M,-,1
+1022,R W Osman,1:49:57,0,1:19:57,762,SJ,404,16,M,-,0
+1023,R F Corwin,1:49:59,5,1:24:59,924,SJ,405,41,M,-,5
+1024,M Katz,1:50:01,3,1:23:01,870,SJ,406,35,M,-,3
+1025,C A Aradi,1:50:04,13,1:33:04,1089,SJ,407,29,F,-,13
+1026,T J Ainsworth,1:50:06,1,1:21:06,800,SJ,408,30,M,-,1
+1027,A M Gonsalves,1:50:19,15,1:35:19,1117,SJ,409,34,F,-,15
+1028,H A Collins,1:50:22,15,1:35:22,1118,SJ,410,36,F,-,15
+1029,F K Cameron,1:50:23,7,1:27:23,989,SJ,411,47,M,-,7
+1030,W Y Jin,1:50:31,9,1:29:31,1027,SJ,412,51,M,-,9
+1031,G L Granett,1:50:32,3,1:23:32,886,SJ,413,39,M,-,3
+1032,P F Carling,1:50:39,15,1:35:39,1120,SJ,414,39,F,-,15
+1033,M G Smith,1:50:45,17,1:37:45,1141,SJ,415,49,F,-,17
+1034,L W Stropes,1:50:47,3,1:23:47,895,SJ,416,38,M,-,3
+1035,R W Simpson,1:50:50,3,1:23:50,898,SJ,417,36,M,-,3
+1036,D G Leyhe,1:50:51,7,1:27:51,999,SJ,418,49,M,-,7
+1037,T H Steele,1:50:52,1,1:21:52,824,SJ,419,33,M,-,1
+1038,M L Gardner,1:50:54,0,1:20:54,790,SJ,420,21,M,-,0
+1039,S R Phillips,1:50:55,7,1:27:55,1001,SJ,421,46,M,-,7
+1040,G J Vigileos,1:50:57,3,1:23:57,901,SJ,422,39,M,-,3
+1041,P J Hsue,1:50:58,0,1:20:58,794,SJ,423,28,M,-,0
+1042,R M Martinez,1:51:00,1,1:22:00,831,SJ,424,32,M,-,1
+1043,S D Martinez,1:51:08,9,1:30:08,1038,SJ,425,11,M,-,9
+1044,B T Adeney,1:51:11,1,1:22:11,835,SJ,426,32,M,-,1
+1045,R R Pettingiu,1:51:15,1,1:22:15,836,SJ,427,33,M,-,1
+1046,T W Telander,1:51:16,1,1:22:16,837,SJ,428,32,M,-,1
+1047,R C Huff,1:51:17,1,1:22:17,838,SJ,429,32,M,-,1
+1048,M E Holloway,1:51:18,9,1:30:18,1044,SJ,430,50,M,-,9
+1049,R A Hynes,1:51:18,5,1:26:18,961,SJ,431,43,M,-,5
+1050,G R Brockbank,1:51:18,0,1:21:18,807,SJ,432,28,M,-,0
+1051,E J Kuntze,1:51:19,7,1:28:19,1005,SJ,433,49,m,-,7
+1052,D E Whittaker,1:51:19,3,1:24:19,908,SJ,434,13,M,-,3
+1053,H L Schwartz,1:51:19,9,1:30:19,1045,SJ,435,51,M,-,9
+1054,R M Fowler,1:51:21,3,1:24:21,909,SJ,436,36,M,-,3
+1055,K C Stark,1:51:22,1,1:22:22,843,SJ,437,31,M,-,1
+1056,J R Underhill,1:51:25,9,1:30:25,1049,SJ,438,50,M,-,9
+1057,M E Gonsalves,1:51:28,0,1:21:28,813,SJ,439,27,M,-,0
+1058,A M Binnings,1:51:35,1,1:22:35,853,SJ,440,15,M,-,1
+1059,K Anderson,1:51:36,11,1:32:36,1082,SJ,441,19,F,-,11
+1060,D M Grimes,1:51:40,0,1:21:40,817,SJ,442,18,M,-,0
+1061,C S Alexander,1:51:41,3,1:24:41,915,SJ,443,39,M,-,3
+1062,D A Katz,1:51:48,0,1:21:48,823,SJ,444,25,M,-,0
+1063,P G Christensen,1:51:49,1,1:22:49,862,SJ,445,34,M,-,1
+1064,S T Arnold,1:51:50,1,1:22:50,863,SJ,446,29,M,-,1
+1065,J W Rinehart,1:51:54,1,1:22:54,867,SJ,447,29,M,-,1
+1066,J A Sammet,1:51:55,11,1:32:55,1086,SJ,448,20,F,-,11
+1067,R E Shea,1:52:10,13,1:35:10,1116,SJ,449,62,M,-,13
+1068,D R Loy,1:52:18,0,1:22:18,839,SJ,450,18,M,-,0
+1069,D D Straw,1:52:27,0,1:22:27,845,SJ,451,28,M,-,0
+1070,R M Hippard,1:52:28,7,1:29:28,1026,SJ,452,45,M,-,7
+1071,T A Jack,1:52:29,0,1:22:29,847,SJ,453,22,M,-,0
+1072,R M Bramell,1:52:31,15,1:37:31,1139,SJ,454,41,F,-,15
+1073,V V Alexeeff,1:52:35,1,1:23:35,887,SJ,455,33,M,-,1
+1074,J R Preslar,1:52:35,1,1:23:35,888,SJ,456,29,M,-,1
+1075,W L Keenan,1:52:36,0,1:22:36,854,SJ,457,26,M,-,0
+1076,A Kiernan,1:52:36,1,1:23:36,889,SJ,458,34,M,-,1
+1077,J Laib,1:52:43,5,1:27:43,997,SJ,459,43,M,-,5
+1078,J A Barringer,1:52:44,0,1:22:44,857,SJ,460,28,M,-,0
+1079,P W Bell,1:52:45,3,1:25:45,947,SJ,461,39,M,-,3
+1080,S K Foster,1:52:48,1,1:23:48,897,SJ,462,31,M,-,1
+1081,L A Buddress,1:52:49,3,1:25:49,949,SJ,463,35,M,-,3
+1082,C N Torp,1:52:51,1,1:23:51,899,SJ,464,34,M,-,1
+1083,F G Howard,1:52:54,7,1:29:54,1033,SJ,465,45,M,-,7
+1084,P H Juliet,1:52:55,5,1:27:55,1002,SJ,466,43,M,-,5
+1085,J M Dauernheim,1:52:57,3,1:25:57,950,SJ,467,36,M,-,3
+1086,B M Silveira,1:53:03,17,1:40:03,1165,SJ,468,50,F,-,17
+1087,K L Briggs,1:53:04,3,1:26:04,953,SJ,469,39,M,-,3
+1088,J J Yasaki,1:53:06,13,1:36:06,1131,SJ,470,58,M,-,13
+1089,T G Bisson,1:53:10,7,1:30:10,1040,SJ,471,12,M,-,7
+1090,J Mishlove,1:53:12,1,1:24:12,904,SJ,472,34,M,-,1
+1091,S J Rosenberg,1:53:15,3,1:26:15,959,SJ,473,36,M,-,3
+1092,M Rozzi,1:53:15,13,1:36:15,1132,SJ,474,30,F,-,13
+1093,D P Vanpeursem,1:53:21,1,1:24:21,910,SJ,475,33,M,-,1
+1094,S A Lewis,1:53:23,11,1:34:23,1107,SJ,476,15,F,-,11
+1095,J L Lewis,1:53:23,5,1:28:23,1010,SJ,477,40,M,-,5
+1096,R T Parkes,1:53:25,7,1:30:25,1050,SJ,478,47,M,-,7
+1097,G F Elleredorfer,1:53:27,5,1:28:27,1012,SJ,479,43,M,-,5
+1098,T E Brown,1:53:29,7,1:30:29,1051,SJ,480,49,M,-,7
+1099,A M Stoughton,1:53:29,15,1:38:29,1148,SJ,481,39,F,-,15
+1100,J L Pichinino,1:53:30,3,1:26:30,968,SJ,482,35,M,-,3
+1101,P D Warner,1:53:36,7,1:30:36,1053,SJ,483,45,M,-,7
+1102,E D Raney,1:53:39,0,1:23:39,891,SJ,484,18,M,-,0
+1103,S B Pineo,1:53:42,1,1:24:42,916,SJ,485,34,M,-,1
+1104,L E Vanhorn,1:53:53,17,1:40:53,1173,SJ,486,48,F,-,17
+1105,O W Hubbard,1:53:53,7,1:30:53,1061,SJ,487,45,M,-,7
+1106,S S Markovich,1:54:11,11,2:05:11,1241,Invitational,606,11,M,-,11
+1107,R P Oliver,1:54:12,0,1:24:12,905,SJ,488,26,M,-,0
+1108,R C Laval,1:54:13,1,1:25:13,930,SJ,489,34,M,-,1
+1109,M A Taylor,1:54:19,1,1:25:19,934,SJ,490,15,M,-,1
+1110,E C Kohl,1:54:20,1,1:25:20,935,SJ,491,15,M,-,1
+1111,R D McGrath,1:54:21,3,1:27:21,988,SJ,492,37,M,-,3
+1112,R W Olson,1:54:26,9,1:33:26,1096,SJ,493,50,M,-,9
+1113,R T Nott,1:54:27,3,1:27:27,993,SJ,494,37,M,-,3
+1114,A M Pfeiffer,1:54:39,13,1:37:39,1140,SJ,495,12,F,-,13
+1115,L Martinez,1:54:40,15,1:39:40,1160,SJ,496,40,F,-,15
+1116,J A Armel,1:54:49,0,1:24:49,919,SJ,497,34,M,-,0
+1117,J L Pius,1:54:48,3,1:27:48,998,SJ,498,36,M,-,3
+1118,S J Gordon,1:54:51,5,1:29:51,1032,SJ,499,44,M,-,5
+1119,L W Lincoln,1:54:57,15,1:39:57,1163,SJ,500,34,F,-,15
+1120,B L Whittaker,1:54:59,15,1:39:59,1164,SJ,501,39,F,-,15
+1121,S R Svans,1:55:10,15,1:40:10,1166,SJ,502,34,F,-,15
+1122,M G Nelson,1:55:11,13,1:38:11,1143,SJ,503,9,M,-,13
+1123,G R Nelson,1:55:12,5,1:30:12,1041,SJ,504,40,M,-,5
+1124,K K Kuhlman,1:55:14,13,1:38:14,1145,SJ,505,31,F,-,13
+1125,D B Shelton,1:55:16,1,1:26:16,960,SJ,506,32,M,-,1
+1126,R Hoops,1:55:20,1,1:26:20,962,SJ,507,30,M,-,1
+1127,R R Flinn,1:55:21,3,1:28:21,1006,SJ,508,37,M,-,3
+1128,B E Gilchrist,1:55:29,0,1:25:29,941,SJ,509,26,M,-,0
+1129,P W Wanlass,1:55:30,3,1:28:30,1013,SJ,510,14,M,-,3
+1130,C L Petersen,1:55:30,0,1:25:30,942,SJ,511,24,M,-,0
+1131,M O Boorstein,1:55:30,0,1:25:30,943,SJ,512,24,M,-,0
+1132,G D Burck,1:55:38,7,1:32:38,1083,SJ,513,45,M,-,7
+1133,R K Prouhet,1:55:40,3,1:28:40,1014,SJ,514,35,M,-,3
+1134,D T Swartz,1:55:50,15,1:40:50,1171,SJ,515,35,F,-,15
+1135,G S Ryujin,1:55:52,1,1:26:52,976,SJ,516,30,M,-,1
+1136,J F Nelson,1:55:58,15,1:40:58,1174,SJ,517,35,F,-,15
+1137,J M Kay,1:55:59,1,1:26:59,977,SJ,518,34,M,-,1
+1138,J D Smith,1:56:02,3,1:29:02,1018,SJ,519,36,M,-,3
+1139,K A Larsen,1:56:06,0,1:26:06,955,SJ,520,28,M,-,0
+1140,B G Zier,1:56:15,3,1:29:15,1021,SJ,521,35,M,-,3
+1141,H H Fauss,1:56:20,15,2:11:20,1242,Invitational,607,44,F,-,15
+1142,E A Oberly,1:56:27,15,1:41:27,1176,SJ,522,34,F,-,15
+1143,R A Lemeni,1:56:28,0,1:26:28,966,SJ,523,28,M,-,0
+1144,N J Dineen,1:56:31,7,1:33:31,1098,SJ,524,45,M,-,7
+1145,A G Holter,1:56:33,5,1:31:33,1070,SJ,525,41,M,-,5
+1146,A F Altoto,1:56:34,0,1:26:34,969,SJ,526,28,M,-,0
+1147,D A Chase,1:56:35,1,1:27:35,994,SJ,527,29,M,-,1
+1148,G R Twentyman,1:56:40,5,1:31:40,1072,SJ,528,40,M,-,5
+1149,H W Jackson,1:56:44,7,1:33:44,1102,SJ,529,48,M,-,7
+1150,P Kalustuyan-Cornell,1:56:51,13,1:39:51,1161,SJ,530,71,M,-,13
+1151,S S Segar,1:56:51,17,1:43:51,1192,SJ,531,55,F,-,17
+1152,B Peach,1:56:54,17,1:43:54,1193,SJ,532,48,F,-,17
+1153,L B Milovich,1:56:56,5,2:31:56,1243,SJ,533,43,M,-,5
+1154,G T Hicks,1:56:58,7,1:33:58,1105,SJ,534,47,M,-,7
+1155,K C Clark,1:57:03,0,1:27:03,981,SJ,535,16,M,-,0
+1156,J J Santilena,1:57:04,3,1:30:04,1036,SJ,536,37,M,-,3
+1157,B J Atkinson,1:57:09,3,1:30:09,1039,SJ,537,37,M,-,3
+1158,T R Brenner,1:57:18,7,1:34:18,1106,SJ,538,46,M,-,7
+1159,S W Soule,1:57:25,13,1:40:25,1167,SJ,539,32,F,-,13
+1160,K D Strong,1:57:26,11,1:38:26,1147,SJ,540,55,M,-,11
+1161,C V Sproul,1:57:33,13,1:40:33,1168,SJ,541,31,F,-,13
+1162,S R Forsyth,1:57:36,11,1:38:36,1150,SJ,542,15,F,-,11
+1163,M P Kaufman,1:57:41,7,1:34:41,1110,SJ,543,45,M,-,7
+1164,K W Haake,1:57:50,3,1:30:50,1058,SJ,544,39,M,-,3
+1165,G Beeler,1:57:50,3,1:30:50,1059,SJ,545,39,M,-,3
+1166,S F Rodgers,1:57:52,15,1:42:52,1186,SJ,546,38,F,-,15
+1167,R D Scott,1:57:52,3,1:30:52,1060,SJ,547,38,M,-,3
+1168,P J Isganitis,1:57:52,1,1:28:52,1017,SJ,548,29,M,-,1
+1169,K J Martin,1:58:03,5,1:33:03,1088,SJ,549,41,M,-,5
+1170,J J Flattery,1:58:04,11,1:39:04,1156,SJ,550,19,F,-,11
+1171,D W Smith,1:58:09,1,1:29:09,1019,SJ,551,34,M,-,1
+1172,R P Feldman,1:58:19,1,1:29:19,1023,SJ,552,30,M,-,1
+1173,G W Jack,1:58:21,0,1:28:21,1007,SJ,553,25,M,-,0
+1173,S D Coxhead,1:58:25,3,1:31:25,1066,SJ,637,39,M,-,3
+1174,D T Magney,1:58:22,0,1:28:22,1009,SJ,554,22,M,-,0
+1175,N A Hoffman,1:58:32,11,1:39:32,1159,SJ,555,25,F,-,11
+1176,W J Welter,1:58:37,1,1:29:37,1028,SJ,556,30,M,-,1
+1177,L M Kocher,1:58:40,15,1:43:40,1190,SJ,557,44,F,-,15
+1178,J C Bramell,1:58:42,5,1:33:42,1101,SJ,558,43,M,-,5
+1179,H S Loomis,1:58:45,1,1:29:45,1029,SJ,559,33,M,-,1
+1180,I M Herlihy,1:58:46,7,1:35:46,1125,SJ,560,49,M,-,7
+1181,R G Rigler,1:58:46,3,1:31:46,1073,SJ,561,36,M,-,3
+1182,R F Clark,1:58:49,7,1:35:49,1126,SJ,562,47,M,-,7
+1183,B Mcauliffe,1:58:55,1,1:29:55,1034,SJ,563,33,M,-,1
+1184,P A Milbourn,1:59:08,13,1:42:08,1181,SJ,564,30,F,-,13
+1185,J A Meisler,1:59:38,1,1:30:38,1054,SJ,565,34,M,-,1
+1186,A L Behning,1:59:43,11,1:40:43,1170,SJ,566,24,F,-,11
+1187,M B Axelrad,1:59:44,15,1:44:44,1198,SJ,567,36,F,-,15
+1188,C J Merrill,1:59:46,15,1:44:46,1199,SJ,568,39,F,-,15
+1189,S H Bogel,1:59:55,5,1:34:55,1114,SJ,569,42,M,-,5
+1190,P Fitzgerald,2:00:03,-,-,-,SJ,570,-,-,-,-
+1191,J R Rubin,2:00:14,1,1:31:14,1064,SJ,571,34,M,-,1
+1192,M F Reynolds,2:00:24,17,1:47:24,1207,SJ,572,48,F,-,17
+1193,J Shellenberger,2:00:52,5,1:35:52,1127,SJ,573,44,M,-,5
+1194,S L Austin,2:00:52,3,1:33:52,1104,SJ,574,36,M,-,3
+1195,E S Bluette,2:00:54,13,1:43:54,1194,SJ,575,35,F,-,13
+1196,C G Burriss,2:00:54,5,1:35:54,1129,SJ,576,43,M,-,5
+1197,R Tillinger,2:00:56,0,1:30:56,1062,SJ,577,26,M,-,0
+1198,P E Loy,2:01:01,15,1:46:01,1205,SJ,578,39,F,-,15
+1199,D E Miller,2:01:12,1,1:32:12,1076,SJ,579,29,M,-,1
+1200,M M Lundwall,2:01:45,1,1:32:45,1084,SJ,580,34,M,-,1
+1201,R I Becker,2:01:50,9,1:40:50,1172,SJ,581,51,M,-,9
+1202,W H Carpenter,2:01:52,13,1:44:52,1201,SJ,582,60,M,-,13
+1203,D J Guyon,2:02:08,1,1:33:08,1090,SJ,583,29,M,-,1
+1204,M H McGowan,2:02:14,1,1:33:14,1093,SJ,584,33,M,-,1
+1205,C L Smith,2:02:19,11,1:43:19,1188,SJ,585,15,F,-,11
+1206,C A Loomis,2:02:22,7,1:39:22,1158,SJ,586,12,M,-,7
+1207,T J Bailey,2:02:25,1,1:33:25,1095,SJ,587,34,M,-,1
+1208,G R Smith,2:02:29,1,1:33:29,1097,SJ,588,29,M,-,1
+1209,J E Sather,2:02:31,1,1:33:31,1099,SJ,589,33,M,-,1
+1210,J M Cone,2:02:40,15,1:47:40,1208,SJ,590,39,F,-,15
+1211,R J Cone,2:02:40,3,1:35:40,1121,SJ,591,37,M,-,3
+1212,J C Clokey,2:03:09,0,1:33:09,1091,SJ,592,19,M,-,0
+1213,D L Rieke,2:03:26,3,1:36:26,1133,SJ,593,37,M,-,3
+1214,M J Healy,2:03:30,5,1:38:30,1149,SJ,594,44,M,-,5
+1215,D R Greenfield,2:03:36,9,1:42:36,1184,SJ,595,52,M,-,9
+1216,J H Doe,2:03:41,5,1:38:41,1152,SJ,596,40,M,-,5
+1217,G C Raomilovich,2:03:44,1,1:34:44,1111,SJ,597,30,M,-,1
+1218,S M Rudolphs,2:04:22,1,1:35:22,1119,SJ,598,30,M,-,1
+1219,K C Farrar,2:04:32,15,1:49:32,1211,SJ,599,34,F,-,15
+1220,M M Gonsalves,2:04:34,11,1:45:34,1204,SJ,600,23,F,-,11
+1221,M L Aylwin,2:04:38,17,1:51:38,1220,SJ,601,57,F,-,17
+1222,B N Wexler,2:04:41,1,1:35:41,1122,SJ,602,34,M,-,1
+1223,L C Oldenburg,2:04:55,15,1:49:55,1213,SJ,603,39,F,-,15
+1224,D M Chappell,2:04:58,0,1:34:58,1115,SJ,604,28,M,-,0
+1225,G J Ranghiasci,2:06:27,5,1:41:27,1177,SJ,605,42,M,-,5
+1226,C R McMullin,2:06:52,15,1:51:52,1221,SJ,606,39,F,-,15
+1227,M B Azevedo,2:07:22,17,1:54:22,1227,SJ,607,66,F,-,17
+1228,I Shibashi,2:07:34,11,1:48:34,1209,SJ,608,22,F,-,11
+1229,N M Siedler,2:07:41,17,1:54:51,1229,SJ,609,49,F,-,17
+1230,J D Shott,2:07:57,1,1:38:57,1154,SJ,610,31,M,-,1
+1231,A J Lococo,2:08:36,0,1:38:36,1151,SJ,611,26,M,-,0
+1232,J W Irving,2:09:03,0,1:39:03,1155,SJ,612,24,M,-,0
+1233,S F Loy,2:09:10,5,1:44:10,1196,SJ,613,42,M,-,5
+1234,C J Jarvis,2:10:41,3,1:43:41,1191,SJ,614,39,M,-,3
+1235,B B Alley,2:10:45,13,1:53:45,1226,SJ,615,31,F,-,13
+1236,J F Haller,2:11:06,3,1:44:06,1195,SJ,616,37,M,-,3
+1237,G A Menick,2:11:24,1,1:42:24,1183,SJ,617,32,M,-,1
+1238,T S McKinley,2:11:41,1,1:42:41,1185,SJ,618,31,M,-,1
+1239,B E Salk,2:01:46,3,1:44:46,1200,SJ,619,13,M,-,3
+1240,J S K Pfeiffer,2:12:29,15,1:58:29,1234,SJ,620,35,F,-,15
+1241,J M Erickson,2:12:43,7,1:49:43,1212,SJ,621,48,M,-,7
+1242,H K Kuziara,2:12:56,17,1:59:56,1236,SJ,622,61,F,-,17
+1243,J R Burke,2:13:40,3,1:46:40,1206,SJ,623,14,M,-,3
+1244,S A Gessanan,2:14:43,11,1:55:43,1230,SJ,624,24,F,-,11
+1245,D L Merritt,2:14:50,13,1:57:50,1232,SJ,625,30,F,-,13
+1246,M J Mix,2:14:51,13,1:57:51,1233,SJ,626,28,F,-,13
+1247,A J Intermann,2:16:02,3,1:49:02,1210,SJ,627,35,M,-,3
+1248,D R Burke,2:16:07,5,1:51:07,1217,SJ,628,40,M,-,5
+1249,J M Schwartz,2:17:57,13,2:00:57,1238,SJ,629,9,M,-,13
+1250,M L Schwartz,2:17:59,13,2:00:59,1239,SJ,630,12,F,-,13
+1251,M P Remler,2:19:20,3,1:52:20,1223,SJ,631,39,M,-,3
+1252,M Kozlemko,2:19:38,7,1:56:38,1231,SJ,632,12,M,-,7
+1253,B B Crijello,2:21:30,0,1:51:30,1219,SJ,633,26,M,-,0
+1254,D E Binnings,2:22:28,0,1:52:28,1224,SJ,634,17,M,-,0
+1255,R L Hohe,2:22:37,9,2:01:37,1240,SJ,635,11,M,-,9
+1256,M L Kirk,2:23:04,15,2:38:04,1244,Invitational,608,40,F,-,15
+1257,T P Collins,2:23:33,0,1:53:33,1225,SJ,636,26,M,-,0

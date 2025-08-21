@@ -1,0 +1,1325 @@
+Place,Time,Name,HomeTown,Age,Sex,Race/Place,Time/Place,Place_Adj,Bib
+1,42:36,Melody-Anne Schultz,Ross CA,61,F,Invitational/1,1:03:36/123,C/1,21
+2,48:09,Shirley Matson,Larkspur CA,62,F,Invitational/2,1:08:09/239,D/1,20
+3,48:27,Cliff Lentz,Brisbane CA,38,M,Invitational/3,50:27/4,Y/1,2
+4,48:29,Diana Fitzpatrick,Larkspur CA,45,F,Invitational/4,1:00:29/67,M/1,12
+5,49:12,Adam Hersh,San Francisco CA,31,M,Invitational/5,50:12/1,Z/1,1
+6,49:16,Christopher Phipps,San Francisco CA,33,M,Invitational/6,50:16/2,Z/2,1
+7,49:19,Heidi Helvestine,Ross CA,49,F,Invitational/7,1:01:19/79,M/2,12
+8,49:34,Russ Kiernan,Mill Valley CA,65,M,Invitational/8,1:02:34/101,L/1,13
+9,50:04,Jerry Edelbrock,Corte Madera CA,54,M,Invitational/9,58:04/38,R/1,8
+10,50:23,Stephen Donahue,San Francisco CA,25,M,Invitational/10,50:23/3,S/1,0
+11,50:27,Steve Stephens,San Anselmo CA,59,M,Invitational/11,1:01:27/80,N/1,11
+12,50:36,Michelle Hannaford,Redding CA,32,F,Invitational/12,58:36/44,R/2,8
+13,50:41,April Powers,Kentfield CA,45,F,Invitational/13,1:02:41/104,M/3,12
+14,50:45,Horst Meyer,Kentfield CA,67,M,Invitational/14,1:08:45/260,F/1,18
+15,50:50,Hans Gouwens,Corte Madera CA,42,M,Invitational/15,53:50/7,X/1,3
+16,50:56,Mary Fagan,Larkspur CA,27,F,Invitational/16,58:56/46,R/3,8
+17,50:58,Brian Purcell,Sebastopol CA,47,M,Invitational/17,54:58/11,W/1,4
+18,51:05,Robert Dickinson,Petaluma CA,46,M,Invitational/18,55:05/13,W/2,4
+19,51:07,John Litzenberg III,Sonoma CA,33,M,Invitational/19,52:07/6,Z/3,1
+20,51:16,Mike Repp,San Rafael CA,62,M,Invitational/20,1:05:16/162,K/1,14
+21,51:24,Jamie Berns,Corte Madera CA,52,F,Invitational/21,1:04:24/142,L/2,13
+22,51:31,Jerry Lyman,Santa Rosa CA,54,M,Invitational/22,59:31/52,R/4,8
+23,51:39,Nicci Fish,San Anselmo CA,18,F,Invitational/23,1:00:39/69,Q/1,9
+24,51:54,Jim Sweeney,Oakland CA,29,M,Invitational/24,51:54/5,S/2,0
+25,52:04,Roy Rivers,Mill Valley CA,46,M,Invitational/25,56:04/20,W/3,4
+26,52:06,John Brennand,Santa Barbara CA,67,M,Invitational/26,1:10:06/306,F/2,18
+27,52:10,Mitchell Shandley,San Rafael CA,45,M,Invitational/27,56:10/21,W/4,4
+28,52:12,Don Ritchie,Fairfax CA,56,M,Invitational/28,1:01:12/77,Q/2,9
+29,52:13,George Frazier,Corte Madera CA,56,M,Invitational/29,1:01:13/78,Q/3,9
+30,52:15,Tim O'Rourke,King's Beach CA,45,M,Invitational/30,56:15/22,W/5,4
+31,52:18,Bruce Mace,Corte Madera CA,44,M,Invitational/31,55:18/14,X/2,3
+32,52:19,Bradford Bryon,Penngrove CA,45,M,Invitational/32,56:19/23,W/6,4
+33,52:20,Lorilei Vose,Belvedere CA,46,F,Invitational/33,1:04:20/138,M/4,12
+34,52:34,Michael Radcliffe,Mill Valley CA,46,M,Invitational/34,56:34/25,W/7,4
+35,52:37,Geoff Vaughan,Corte Madera CA,38,M,Invitational/35,54:37/10,Y/2,2
+36,52:40,Kate Van Fossen,Berkeley Ca,34,F,Invitational/36,1:00:40/70,R/5,8
+37,52:43,Amber Randall,Worcester MA,33,F,Invitational/37,1:00:43/71,R/6,8
+38,52:58,John Edgcomb,Kentfield CA,44,M,Invitational/38,55:58/18,X/3,3
+39,53:06,Daniel Rhodes,El Granada CA,31,M,Invitational/39,54:06/8,Z/4,1
+40,53:21,Peter Vicencio,San Francisco CA,37,M,Invitational/40,54:21/9,Z/5,1
+41,53:26,Tyler Abbott,San Lorenzo CA,42,M,Invitational/41,56:26/24,X/4,3
+42,53:45,John Lundy,San Rafael CA,40,M,Invitational/42,55:45/16,Y/3,2
+43,53:51,Greg Nacco,Tiburon CA,43,M,Invitational/43,56:51/28,X/5,3
+44,53:54,Robert Gormley,Moraga CA,61,M,Invitational/44,1:06:54/207,L/3,13
+45,53:57,Roger Daniels,Bend OR,67,M,Invitational/45,1:11:57/356,F/3,18
+46,54:01,Christopher Craig,Greenbrae CA,37,M,Invitational/46,55:01/12,Z/6,1
+47,54:13,Charley Denney,Monticello KY,66,M,Invitational/47,1:11:13/336,G/1,17
+49,54:20,Sissel Berntsen - Heber,Mill Valley CA,39,F,Invitational/49,1:02:20/95,R/7,8
+48,54:20,Alesandra Roger,San Rafael CA,13,F,Invitational/48,1:05:20/166,N/2,11
+50,54:21,Roger Gordon,Mill Valley CA,66,M,Invitational/50,1:11:21/339,G/2,17
+51,54:29,Paul Skokowski,Palo Alto CA,47,M,Invitational/51,58:29/41,W/8,4
+52,54:31,Natalie Simi,Novato CA,37,F,Invitational/52,1:02:31/99,R/8,8
+53,54:35,Robert Hurlbut,San Francisco Ca,39,M,Invitational/53,56:35/26,Y/4,2
+54,54:37,Julie Zeigler,Sausalito CA,38,F,Invitational/54,1:02:37/102,R/9,8
+55,54:40,Kurt Ryan,Larkspur CA,45,M,Invitational/55,58:40/45,W/9,4
+56,54:43,Dimitris Sklavopoulos,Mill Valley CA,58,M,Invitational/56,1:05:43/176,N/3,11
+57,54:52,Matt Regan,San Francisco CA,34,M,Invitational/57,55:52/17,Z/7,1
+58,54:58,Eric Stewart,Oakland CA,35,M,Invitational/58,55:58/19,Z/8,1
+59,55:00,Jack Burns,Corte Madera CA,60,M,Invitational/59,1:07:00/211,M/5,12
+60,55:02,Jeff Teeters,Berkeley CA,43,M,Invitational/60,58:02/36,X/6,3
+61,55:08,Bill Bushnell,San Anselmo CA,38,M,Invitational/61,57:08/30,Y/5,2
+62,55:12,Gregory Allen,Mill Valley CA,40,M,Invitational/62,57:12/31,Y/6,2
+63,55:18,Christine Waldron,Mill Valley CA,37,F,Invitational/63,1:03:18/117,R/10,8
+64,55:20,David Woody,Novato CA,66,M,Invitational/64,1:12:20/362,G/3,17
+65,55:21,Dennis Charlton,Mill Valley CA,47,M,Invitational/65,59:21/49,W/10,4
+66,55:25,Bernie Hollander,Novato CA,67,M,Invitational/66,1:13:25/389,F/4,18
+67,55:32,Dick Andersen,Sun Valley ID,56,M,Invitational/67,1:04:32/145,Q/4,9
+68,55:36,Christopher Griffin,Mill Valley CA,32,M,Invitational/68,56:36/27,Z/9,1
+69,55:37,James Flanigan,Davis CA,53,M,Invitational/69,1:02:37/103,T/1,7
+70,55:41,Bernard Bassil,San Francisco CA,26,M,Invitational/70,55:41/15,S/3,0
+71,56:00,Jed Tukman,Larkspur CA,32,M,Invitational/71,57:00/29,Z/10,1
+72,56:00,Quentin Pollock,Petaluma CA,48,M,Invitational/72,1:01:00/74,V/1,5
+73,56:02,Butch Alexander,Sonoma CA,49,M,Invitational/73,1:01:02/75,V/3,5
+74,56:09,Lisa Jhung,Boulder CO,31,F,Invitational/74,1:04:09/131,R/12,8
+75,56:11,Lloyd Kahn,Bolinas CA,68,M,Invitational/75,1:15:11/427,E/1,19
+76,56:17,Roy Kissin,Corte Madera CA,46,M,Invitational/76,1:00:17/63,W/11,4
+77,56:17,Scott Murray,Belvedere CA,43,M,Invitational/77,59:17/48,X/7,3
+78,56:26,Elmo Shropshire,Novato CA,66,M,Invitational/78,1:13:26/390,G/4,17
+79,56:29,John Catts,Nicasio Ca,49,M,Invitational/79,1:01:29/81,V/4,5
+80,56:31,Ryan Matz,Chico CA,16,M,Invitational/80,59:31/53,X/8,3
+81,56:33,Glen Redpath,San Francisco CA,37,M,Invitational/81,57:33/32,Z/11,1
+82,56:34,Andrew Bock,Antioch Ca,16,M,Invitational/82,59:34/54,X/9,3
+84,56:34,Scott Dazey,Chula Vista CA,40,M,Invitational/84,58:34/42,Y/8,2
+83,56:34,David Pressley,Novato CA,54,M,Invitational/83,1:04:34/147,R/15,8
+86,56:35,Michael Sweeney,San Rafael CA,48,M,Invitational/86,1:01:35/84,V/5,5
+85,56:35,John Hudson,Mill Valley CA,39,M,Invitational/85,58:35/43,Y/9,2
+87,56:36,Joe Hurtado,Sunnyvale CA,62,M,Invitational/87,1:10:36/323,K/2,14
+88,56:37,Steve Worthy,Walnut Creek CA,56,M,Invitational/88,1:05:37/175,Q/5,9
+89,56:39,Lisa Trustin,Corte Madera CA,47,F,Invitational/89,1:08:39/257,M/6,12
+90,56:41,Kraig Beale,San Francisco CA,42,M,Invitational/90,59:41/55,X/10,3
+91,56:41,Sara Gigliotti,San Francisco CA,29,F,Invitational/91,1:04:41/149,R/16,8
+92,56:42,Steven Katz,Larkspur CA,52,M,Invitational/92,1:03:42/124,T/2,7
+93,56:43,"Cleveland Thayer, Jr.",Pebble Beach CA,48,M,Invitational/93,1:01:43/86,V/6,5
+94,56:44,Alex Schmotter,Tiburon CA,14,M,Invitational/94,1:01:44/87,V/7,5
+95,56:44,Maryann Raymond,Napa CA,41,F,Invitational/95,1:06:44/201,P/1,10
+96,56:46,Robert Flathland,San Rafael CA,37,M,Invitational/96,57:46/33,Z/12,1
+97,56:48,Victor Ballesteros,Mill Valley CA,33,M,Invitational/97,57:48/34,Z/13,1
+98,56:49,Bernanrd Demai,Berkeley CA,54,M,Invitational/98,1:04:49/153,R/17,8
+99,56:55,Michael Lotter,Corte Madera CA,49,M,Invitational/99,1:01:55/89,V/8,5
+100,56:57,Edward Ferry,Mill Valley CA,61,M,Invitational/100 1:09:57/301,L/4,13,75
+101,56:59,Karen Mace,Corte Madera CA,37,F,Invitational/101 1:04:59/156,R/18,8,542
+102,57:00,Jim Garlock,Mill Valley CA,57,M,Invitational/102 1:07:00/212,P/2,10,302
+103,57:03,Yates McKenzie,San Francisco CA,32,M,Invitational/103,58:03/37,Z/14,1
+104,57:08,Bob Knox,Mill Valley CA,56,M,Invitational/104 1:06:08/186,Q/6,9,44
+105,57:08,Todd McAllister,Novato CA,37,M,Invitational/105,58:08/39,Z/16,1
+106,57:09,Mark Johnson,San Jose CA,47,M,Invitational/106 1:01:09/76,W/12,4,95
+107,57:09,Jennifer Flint,Berwyn PA,33,F,Invitational/107 1:05:09/160,R/19,8,356
+108,57:11,Charles Ehm,Mill Valley CA,34,M,Invitational/108,58:11/40,Z/17,1
+109,57:13,Chris Irving,San Jose CA,47,F,Invitational/109 1:09:13/271,M/7,12,620
+110,57:19,Daryl Zalan,Orinda CA,16,M,Invitational/110 1:00:19/64,X/11,3,453
+111,57:22,Ryan Lok,Oakland CA,12,M,Invitational/111 1:04:22/140,T/3,7,537
+112,57:26,Ken McIntyre,San Diego CA,63,M,Invitational/112 1:12:26/366,J/1,15,63
+113,57:28,Daniel Dell'Osso,Paradise Valley AZ 50 M,Invitational/113,1:03:28/121,U/1,6,361,
+114,57:32,Grace Hunter,San Francisco CA,16,F,Invitational/114 1:06:32/193,Q/7,9,276
+115,57:34,Bert Johnson,Sunnyvale CA,60,M,Invitational/115 1:09:34/285,M/8,12,410
+116,57:37,Christopher Snell,Mill Valley CA,56,M,Invitational/116 1:06:37/196,Q/8,9,109
+117,57:45,Cheryl Shwe,San Francisco CA,36,F,Invitational/117 1:05:45/177,R/21,8,549
+118,57:47,Kevin Finn,Tiburon CA,41,M,Invitational/118,59:47/57,Y/10,2
+119,57:48,Christopher Lundberg,Minneapolis MN,20,M,Invitational/119,57:48/35,S/4,0
+120,57:50,Bob Groves,Tiburon CA,41,M,Invitational/120,59:50/58,Y/11,2
+121,57:53,Arthur Beckert,Mill Valley CA,52,M,Invitational/121 1:04:53/155,T/4,7,160
+122,57:56,Berek Fiszlewicz,Chula Vista CA,55,M,Invitational/122 1:05:56/180,R/22,8,381
+124,57:58,Bridie Dillon,Novato CA,58,F,Invitational/124 1:16:58/462,E/3,19,290
+123,57:58,Troy Calandra,Oakland CA,13,M,Invitational/123 1:03:58/129,U/2,6,210
+125,58:00,Jerry Freeman,Mill Valley CA,61,M,Invitational/125 1:11:00/331,L/6,13,301
+126,58:00,Eric Ellisen,Oakland CA,41,M,Invitational/126 1:00:00/59,Y/12,2,325
+127,58:03,John Moss,Santa Clara CA,33,M,Invitational/127,59:03/47,Z/19,1
+128,58:19,Craig Mead,Thousand Oaks CA,50,M,Invitational/128 1:04:19/135,U/3,6,495
+129,58:21,Greg Gretsch,San Francisco CA,36,M,Invitational/129,59:21/50,Z/20,1
+130,58:22,Douglas Quirk,Eugene OR,35,M,Invitational/130,59:22/51,Z/21,1
+131,58:24,Kevin McKay,Kentfield Ca,38,M,Invitational/131 1:00:24/65,Y/13,2,668
+132,58:30,James Waldron,Buffalo NY,42,M,Invitational/132 1:01:30/82,X/12,3,359
+133,58:34,Jeffrey McWhinney,Sausalito CA,42,M,Invitational/133 1:01:34/83,X/13,3,670
+134,58:35,Mary Vidovich,Los Gatos CA,38,F,Invitational/134 1:06:35/195,R/23,8,355
+135,58:37,Patrick Bennett,San Anselmo CA,40,M,Invitational/135 1:00:37/68,Y/14,2,433
+136,58:50,Peter Badertscher,Corte Madera CA,39,M,Invitational/136 1:00:50/73,Y/15,2,295
+137,58:52,Flip Foldager,Seward AK,46,M,Invitational/137 1:02:52/106,W/13,4,602
+138,58:53,John Martin Jones,Guerneville CA,60,M,Invitational/138 1:10:53/328,M/9,12,187
+139,58:56,Torin Rostein,Watsonville CA,44,M,Invitational/139 1:01:56/90,X/15,3,444
+140,59:00,David Schleuning,Oakland CA,34,M,Invitational/140 1:00:00/60,Z/22,1,421
+141,59:01,Fred Corriea,Cotati CA,61,M,Invitational/141 1:12:01/357,L/7,13,104
+142,59:05,Scott Lehmkuhl,Tahoe City CA,36,M,Invitational/142 1:00:05/61,Z/23,1,529
+143,59:06,Jeff Parmeleg,Somerset KY,37,M,Invitational/143 1:00:06/62,Z/24,1,500
+144,59:07,Edda Stickle,Novato CA,61,F,Invitational/144 1:21:07/501,B/1,22,78
+145,59:12,Lisa Mickley,Lafayette CO,25,F,Invitational/145 1:07:12/218,R/24,8,80
+146,59:20,Sara Sudlow,Novato CA,41,F,Invitational/146 1:09:20/276,P/3,10,82
+147,59:24,Tristan Bodle,Fairfax CA,33,M,Invitational/147 1:00:24/66,Z/25,1,108
+148,59:25,Laurie Wilson,Mill Valley CA,47,F,Invitational/148 1:11:25/341,M/10,12,83
+149,59:27,Carolyn Hutchins,San Anselmo CA,41,F,Invitational/149 1:09:27/277,P/4,10,570
+150,59:28,Brad Smith,Fairfield CA,50,M,Invitational/150 1:05:28/168,U/4,6,460
+151,59:29,Marilou McFarlane,Mill Valley CA,42,F,Invitational/151 1:09:29/280,P/5,10,285
+152,59:33,Karen Stenberg,Novato CA,41,F,Invitational/152 1:09:33/284,P/6,10,234
+153,59:35,Gus Gibbs,Mill Valley CA,17,M,Invitational/153 1:01:35/85,Y/16,2,349
+154,59:40,Lori Cohen,Larkspur CA,42,F,Invitational/154 1:09:40/291,P/7,10,464
+155,59:43,Christy Allen,Mill Valley CA,41,F,Invitational/155 1:09:43/293,P/8,10,423
+156,59:44,Chris Smith,Corte Madera CA,26,M,Invitational/156,59:44/56,S/5,0
+157,59:45,Richard Cordone,San Rafael CA,54,M,Invitational/157 1:07:45/233,R/27,8,367
+158,59:47,Phillip Wright,Newbury Park CA,47,M,Invitational/158 1:03:47/126,W/14,4,426
+159,59:49,Cory Hannaford,San Anselmo CA,32,M,Invitational/159 1:00:49/72,Z/26,1,465
+160,59:51,Steve Reinertsen,San Anselmo CA,39,M,Invitational/160 1:01:51/88,Y/17,2,111
+161,59:52,Scott Donnellan,Mill Valley CA,45,M,Invitational/161 1:03:52/127,W/15,4,541
+162,59:53,Laura DeSlauriers,San Rafael CA,37,F,Invitational/162 1:07:53/236,R/28,8,514
+163,59:55,Frank Ruona,Novato CA,57,M,Invitational/163 1:09:55/300,P/9,10,582
+164,1:00:05,Hank Lawson,Saratoga CA,48,M,Invitational/164 1:05:05/159,V/9,5,20
+167,1:00:13,Tina Vindum,Mill Valley CA,39,F,Invitational/167 1:08:13/244,R/30,8,219
+166,1:00:13,Hal Stanley,Los Gatos CA,54,M,Invitational/166 1:08:13/243,R/29,8,559
+165,1:00:13,Steven Shapiro,San Anselmo CA,39,M,Invitational/165 1:02:13/93,Y/18,2,223
+168,1:00:14,Dave Covey,Larkspur CA,42,M,Invitational/168 1:03:14/111,X/17,3,94
+169,1:00:19,Todd Greenhalgh,San Francisco CA,40,M,Invitational/169 1:02:19/94,Y/19,2,579
+171,1:00:20,Vicki DeMenno,Corte Madera CA,42,F,Invitational/170 1:10:20/313,P/10,10,142
+170,1:00:20,Pam Jolliffe,Mill Valley CA,43,F,Invitational/171 1:10:20/314,P/11,10,140
+172,1:00:21,Manny Berston,San Rafael CA,39,M,Invitational/172 1:02:21/97,Y/20,2,351
+173,1:00:22,Bradley Frazee,Mill Valley CA,40,M,Invitational/173 1:02:22/98,Y/21,2,584
+174,1:00:26,Mike Fanelli,San Anselmo CA,47,M,Invitational/174 1:04:26/143,W/16,4,245
+175,1:00:27,Tia Rosen,Denver CO,46,F,Invitational/175 1:12:27/368,M/11,12,86
+176,1:00:28,Gary Davis,San Francisco CA,48,M,Invitational/176 1:05:28/169,V/10,5,189
+177,1:00:30,Andy Assereto,Volcano CA,50,M,Invitational/177 1:06:30/192,U/5,6,566
+178,1:00:34,Robert Simon,San Francisco CA,43,M,Invitational/178 1:03:34/122,X/18,3,174
+179,1:00:40,Dave Hannaford,San Anselmo CA,52,M,Invitational/179 1:07:40/228,T/5,7,468
+180,1:00:43,David Sams,Mill Valley CA,45,M,Invitational/180 1:04:43/151,W/17,4,136
+181,1:00:45,Peter Carr,Berkeley CA,61,M,Invitational/181 1:13:45/395,L/8,13,211
+182,1:00:51,David Gerraty,Mill Valley CA,39,M,Invitational/182 1:02:51/105,Y/22,2,132
+183,1:00:52,Michael Norcia,San Jose CA,38,M,Invitational/183 1:02:52/107,Y/23,2,243
+184,1:00:55,Alan Smith,Sausalito CA,51,M,Invitational/184 1:06:55/208,U/6,6,236
+185,1:00:57,Gwin Stumbaugh,Santa Rosa CA,50,M,Invitational/185 1:06:57/209,U/7,6,312
+186,1:01:00,Helen Seldin,Davis CA,11,F,Invitational/186 1:15:00/424,K/4,14,459
+187,1:01:01,Lisa Dunnigan,San Francisco CA,41,F,Invitational/187 1:11:01/333,P/12,10,287
+188,1:01:02,"Robert Gray, Jr.",Piedmont CA,41,M,Invitational/188 1:03:02/109,Y/24,2,126
+189,1:01:02,Samuel Reiter,Mill Valley CA,58,M,Invitational/189 1:12:02/358,N/4,11,134
+190,1:01:03,Kai Bergheer,Port Angeles WA,48,M,Invitational/190 1:06:03/183,V/11,5,265
+191,1:01:03,Jeff Harding,Santa Cruz CA,41,M,Invitational/191 1:11:03/334,P/14,10,695
+193,1:01:04,Jakub Plichta,Mill Valley CA,31,M,Invitational/193 1:02:04/91,Z/29,1,321
+192,1:01:04,Daniel Guglielmo,Novato CA,50,M,Invitational/192 1:07:04/215,U/8,6,339
+194,1:01:05,Martin Brook,Lafayette CA,50,M,Invitational/194 1:07:05/216,U/9,6,483
+195,1:01:06,Hunter Claxton,Kentfield CA,18,M,Invitational/195 1:02:06/92,Z/30,1,556
+196,1:01:12,Jack Evans,Somerset KY,49,M,Invitational/196 1:06:12/188,V/12,5,491
+198,1:01:13,Naoe Gallello,San Rafael CA,50,F,Invitational/198 1:13:13/384,M/12,12,395
+197,1:01:13,Stephanie Osborne,Woodside CA,40,F,Invitational/197 1:10:13/308,Q/10,9,159
+199,1:01:14,David Bronstein,Corte Madera CA,41,M,Invitational/199 1:03:14/112,Y/25,2,284
+200,1:01:15,Jan Werner,Mill Valley CA,59,M,Invitational/200 1:12:15/360,N/5,11,91
+201,1:01:15,Nancy Clary,Novato CA,39,F,Invitational/201 1:09:15/272,R/32,8,393
+202,1:01:15,Kevin Barrett,Mill Valley CA,52,M,Invitational/202 1:08:15/246,T/6,7,497
+203,1:01:17,Tom Woolley,Ross CA,46,M,Invitational/203 1:05:17/164,W/18,4,327
+204,1:01:19,John Swyers,Ketchum ID,63,M,Invitational/204 1:16:19/445,J/2,15,564
+205,1:01:20,David Moulton,San Francisco CA,35,M,Invitational/205 1:02:20/96,Z/32,1,335
+206,1:01:21,Jim Bystrek,San Rafael CA,52,M,Invitational/206 1:08:21/250,T/7,7,424
+207,1:01:24,Jerry Colletto,Cool CA,62,M,Invitational/207 1:15:24/431,K/5,14,382
+208,1:01:26,Greg Burke,San Jose CA,56,M,Invitational/208 1:10:26/318,Q/11,9,88
+209,1:01:27,Peter Korn,Auburn CA,38,M,Invitational/209 1:03:27/120,Y/26,2,443
+210,1:01:28,Denise Mautz,San Anselmo CA,34,F,Invitational/210 1:09:28/278,R/33,8,318
+211,1:01:30,Val Sakovich,San Francisco CA,59,M,Invitational/211 1:12:30/370,N/6,11,308
+212,1:01:31,Todd Law,San Rafael CA,35,M,Invitational/212 1:02:31/100,Z/33,1,474
+213,1:01:33,John Hake,Oakland CA,42,M,Invitational/213 1:04:33/146,X/19,3,360
+214,1:01:34,Nancee Kuehn,Corte Madera CA,30,F,Invitational/214 1:09:34/286,R/34,8,404
+215,1:01:35,Geoffrey Baylor,Tiburon CA,46,M,Invitational/215 1:05:35/173,W/19,4,313
+216,1:01:36,Anne Veh,Mill Valley CA,40,F,Invitational/216 1:10:36/324,Q/12,9,299
+217,1:01:40,Michael Thomas,San Rafael CA,50,M,Invitational/217 1:07:40/229,U/10,6,57
+218,1:01:42,George Dombrovski,Fairfax CA,50,M,Invitational/218 1:07:42/231,U/11,6,164
+219,1:01:45,David Leipsic,San Rafael CA,38,M,Invitational/219 1:03:45/125,Y/28,2,216
+220,1:01:47,Janet Bowman,Corte Madera CA,56,F,Invitational/220 1:18:47/485,G/5,17,261
+221,1:01:49,Randy Hixon,Sausalito CA,54,M,Invitational/221 1:09:49/296,R/35,8,296
+222,1:01:54,Preston Sitterly,Kentfield CA,55,M,Invitational/222 1:09:54/298,R/36,8,345
+223,1:01:55,Scott Morehouse,Berkeley CA,35,M,Invitational/223 1:02:55/108,Z/34,1,224
+224,1:01:56,Dan Capshaw,Mill Valley CA,40,M,Invitational/224 1:03:56/128,Y/29,2,365
+225,1:01:57,Ann Hardham,Mill Valley CA,60,F,Invitational/225 1:22:57/515,C/2,21,162
+226,1:01:58,Michael Locati,Novato CA,51,M,Invitational/226 1:07:58/237,U/12,6,169
+227,1:01:59,James Williams,Novato CA,62,M,Invitational/227 1:15:59/441,K/6,14,232
+229,1:02:01,Brian Muir,Mill Valley CA,42,M,Invitational/228 1:05:01/157,X/20,3,258
+228,1:02:01,Vince Fausone,Petaluma CA,42,M,Invitational/229 1:05:01/158,X/21,3,319
+230,1:02:02,Lynn Kemp,Fairfax CA,51,F,Invitational/230 1:14:02/404,M/13,12,286
+231,1:02:05,John Lisiewicz,Glendale CA,31,M,Invitational/231 1:03:05/110,Z/35,1,241
+232,1:02:11,Lisa Locati,Novato CA,44,F,Invitational/232 1:13:11/381,N/7,11,171
+233,1:02:14,Seth Davis,Oakland CA,31,M,Invitational/233 1:03:14/113,Z/36,1,432
+234,1:02:15,Donald Buraglio,Carmel Valley CA,32,M,Invitational/234 1:03:15/114,Z/37,1,380
+235,1:02:16,Eric Downing,Santa Rosa CA,32,M,Invitational/235 1:03:16/115,Z/38,1,512
+236,1:02:19,Andrew Loft,San Anselmo CA,41,M,Invitational/236 1:04:19/136,Y/30,2,340
+237,1:02:20,Sean Meehan,San Francisco CA,37,M,Invitational/237 1:03:20/118,Z/39,1,535
+238,1:02:20,Mitch DeShields,San Rafael CA,38,M,Invitational/238 1:04:20/139,Y/31,2,244
+239,1:02:22,Richard Blanco,Redwood City CA,35,M,Invitational/239 1:03:22/119,Z/40,1,540
+240,1:02:24,Paul Ainslie,San Francisco CA,55,M,Invitational/240 1:10:24/317,R/37,8,127
+241,1:02:28,James Lynch,Petaluma CA,42,M,Invitational/241 1:05:28/170,X/23,3,378
+242,1:02:31,Natalie Joffe,Kentfield CA,16,F,Invitational/243 1:11:31/345,Q/13,9,562
+243,1:02:31,Karen Watkins,Sebastopol CA,45,F,Invitational/242 1:14:31/415,M/14,12,254
+244,1:02:32,Barry Neal,San Anselmo CA,45,M,Invitational/244 1:06:32/194,W/20,4,151
+245,1:02:33,Michael Kloepfer,San Francisco CA,49,M,Invitational/245 1:07:33/225,V/13,5,336
+246,1:02:34,John Clark,San Rafael CA,39,M,Invitational/246 1:04:34/148,Y/33,2,371
+247,1:02:35,Tomas Pastalka,Belvedere CA,56,M,Invitational/247 1:11:35/348,Q/14,9,67
+248,1:02:36,Sarah Heckscher,San Francisco CA,32,F,Invitational/248 1:10:36/325,R/39,8,398
+249,1:02:38,Barry Blue,Kentfield CA,52,M,Invitational/249 1:09:38/289,T/8,7,364
+250,1:02:38,Valerie Herzog,Ross CA,38,F,Invitational/250 1:10:38/326,R/40,8,571
+251,1:02:46,Kevin Abel,San Diego CA,40,M,Invitational/251 1:04:46/152,Y/35,2,557
+252,1:02:46,Tom Vaughan,Belvedere CA,65,M,Invitational/252 1:17:46/471,J/3,15,314
+253,1:02:51,Nicholas Wilton,Lagunitas CA,42,M,Invitational/253 1:05:51/179,X/24,3,527
+254,1:02:54,Bill Stechschultz,Novato CA,52,M,Invitational/254 1:09:54/299,T/9,7,281
+255,1:03:01,Timothy Knowlton,Mill Valley CA,52,M,Invitational/255 1:10:01/304,T/10,7,271
+256,1:03:08,Lester Robbins,San Francisco CA,37,M,Invitational/256 1:04:08/130,Z/42,1,455
+257,1:03:10,Robert Okada,Ketchum ID,40,M,Invitational/257 1:05:10/161,Y/36,2,342
+258,1:03:12,Stephanie O'Dell,San Rafael CA,41,F,Invitational/258 1:13:12/383,P/17,10,373
+259,1:03:13,Sean Sears,Mill Valley CA,12,M,Invitational/259 1:10:13/309,T/11,7,588
+260,1:03:13,Hazel Wood,San Anselmo CA,52,F,Invitational/260 1:16:13/443,L/9,13,572
+261,1:03:14,Duncan Brown,Mill Valley CA,16,M,Invitational/261 1:06:14/189,X/25,3,545
+262,1:03:15,Carla Holmes,Los Altos CA,35,F,Invitational/262 1:11:15/337,R/41,8,188
+263,1:03:15,Robert Archer,Seattle WA,35,M,Invitational/263 1:04:15/133,Z/43,1,264
+264,1:03:16,Brian Strom,Cupertino CA,38,M,Invitational/264 1:05:16/163,Y/37,2,560
+265,1:03:17,Andre Tuinzing,San Rafael CA,24,M,Invitational/265 1:03:17/116,S/9,0,403
+266,1:03:17,John Howard,Sacramento CA,44,M,Invitational/266 1:06:17/190,X/26,3,257
+267,1:03:18,Stephen Wynne,San Francisco CA,31,M,Invitational/267 1:04:18/134,Z/44,1,596
+268,1:03:19,Devon Johnson,San Francisco CA,37,M,Invitational/268 1:04:19/137,Z/45,1,192
+269,1:03:22,Alex Frankel,Sausalito CA,32,M,Invitational/269 1:04:22/141,Z/46,1,291
+271,1:03:23,Thom McHale,Kailua- Kona HI,54,M,Invitational/270 1:11:23/340,R/43,8,469
+270,1:03:23,Mark Melvin,Larkspur CA,43,M,Invitational/271 1:06:23/191,X/27,3,226
+272,1:03:24,George Forman,Nicasio CA,57,M,Invitational/272 1:13:24/388,P/18,10,422
+273,1:03:26,Heidi Boissonneau,Mill Valley CA,33,F,Invitational/273 1:11:26/342,R/44,8,396
+275,1:03:27,Keith Buckley,Mill Valley CA,36,M,Invitational/275 1:04:27/144,Z/47,1,278
+274,1:03:27,Kevin Purcell,Oakland CA,47,M,Invitational/274 1:07:27/223,W/21,4,204
+276,1:03:28,Craig Miller,Mill Valley CA,41,M,Invitational/276 1:05:28/171,Y/38,2,173
+277,1:03:28,John Blackstone,Mill Valley CA,54,M,Invitational/277 1:11:28/343,R/45,8,550
+278,1:03:30,Martin Joffe,Kentfield CA,51,M,Invitational/278 1:09:30/282,U/14,6,561
+279,1:03:30,Stephen Hamilton,Everett WA,52,M,Invitational/279 1:10:30/320,T/12,7,523
+280,1:03:31,Rob Robinson,Alamo CA,59,M,Invitational/280 1:14:31/416,N/8,11,487
+281,1:03:32,Jim Crumpler,Novato CA,55,M,Invitational/281 1:11:32/347,R/46,8,112
+282,1:03:32,Jason Wichelmann,Santa Cruz CA,39,M,Invitational/282 1:05:32/172,Y/39,2,205
+283,1:03:36,Gayle Shimokaji,Greenbrae CA,46,F,Invitational/283 1:15:36/435,M/16,12,504
+284,1:03:39,Mark Stevens,Larkspur CA,44,M,Invitational/284 1:06:39/199,X/29,3,172
+285,1:03:41,Ken Frankel,Mill Valley CA,43,M,Invitational/285 1:06:41/200,X/31,3,248
+286,1:03:44,Richard Sartor,Boulder Creek CA,43,M,Invitational/286 1:06:44/202,X/32,3,206
+288,1:03:45,Mary Allaire,Mill Valley CA,56,F,Invitational/288 1:20:45/498,G/6,17,230
+287,1:03:45,John Gusman,Santa Rosa CA,48,M,Invitational/287 1:08:45/261,V/14,5,158
+289,1:03:46,Walter Paulsen,Woodside CA,41,M,Invitational/289 1:05:46/178,Y/42,2,250
+290,1:03:47,Robert McLennan,Mill Valley CA,54,M,Invitational/290 1:11:47/350,R/47,8,436
+291,1:03:48,Brian Crawford,Petaluma CA,42,M,Invitational/291 1:06:48/206,X/33,3,383
+292,1:03:48,Gerry Findlay,Suisun CA,46,M,Invitational/292 1:07:48/235,W/22,4,480
+293,1:03:49,Laurey Davis,Danville CA,41,F,Invitational/293 1:13:49/396,P/19,10,479
+294,1:03:50,Rudy Paul,San Francisco CA,32,M,Invitational/294 1:04:50/154,Z/48,1,577
+295,1:03:51,Lisa Gillis,Hayward CA,23,F,Invitational/295 1:11:51/351,R/48,8,147
+296,1:03:52,Gregory Babinski,Mercer Island WA,54,M,Invitational/296 1:11:52/353,R/49,8,539
+297,1:03:53,Terry McNeill,Santa Rosa CA,60,M,Invitational/297 1:15:53/438,M/17,12,233
+298,1:03:54,Mary Kitchens,Fairfax CA,47,F,Invitational/298 1:15:54/439,M/18,12,518
+299,1:03:56,Peter Holleran,San Rafael CA,54,M,Invitational/299 1:11:56/355,R/51,8,135
+301,1:03:57,Doug Starr,Forestville CA,50,M,Invitational/301 1:09:57/302,U/15,6,370
+300,1:03:57,David Hobler,Mill Valley CA,61,M,Invitational/300 1:16:57/461,L/10,13,385
+303,1:03:58,James Morris,Berkeley CA,53,M,Invitational/302 1:10:58/330,T/13,7,208
+302,1:03:58,Chris Haroff,Mill Valley CA,16,M,Invitational/303 1:06:58/210,X/34,3,182
+304,1:04:00,Aaron Krepack,Mill Valley CA,12,M,Invitational/304 1:11:00/332,T/14,7,669
+305,1:04:00,Urban Carmel,Mill Valley CA,40,M,Invitational/305 1:06:00/182,Y/43,2,130
+307,1:04:03,Steven Stenberg,Novato CA,42,M,Invitational/307 1:07:03/214,X/35,3,235
+308,1:04:03,Robert Alexander,San Francisco CA,50,M,Invitational/308 1:10:03/305,U/16,6,249
+306,1:04:03,Link Lindquist,Foothill Ranch CA,75,M,Invitational/306 1:27:03/538,A/2,23,452
+309,1:04:04,Barton Goode,San Rafael CA,40,M,Invitational/309 1:06:04/184,Y/44,2,565
+310,1:04:05,Florencia Gascon - Amyx,Mill Valley CA,38,F,Invitational/310 1:12:05/359,R/52,8,120
+311,1:04:06,Randy Guerrero,San Francisco CA,41,M,Invitational/311 1:06:06/185,Y/45,2,484
+312,1:04:09,James Clark,Larkspur CA,46,M,Invitational/312 1:08:09/240,W/24,4,473
+313,1:04:12,Ford Nickels,San Rafael CA,14,M,Invitational/313 1:09:12/270,V/15,5,177
+314,1:04:13,Darin Nee,Kentfield CA,21,M,Invitational/315 1:04:13/132,S/10,0,520
+315,1:04:13,Jim Cruickshank,Medford OR,59,M,Invitational/314 1:15:13/428,N/9,11,62
+316,1:04:14,Darryl Beardall,Santa Rosa CA,66,M,Invitational/316 1:21:14/502,G/7,17,509
+317,1:04:15,April Vogensen,Mill Valley CA,31,F,Invitational/317 1:12:15/361,R/53,8,161
+318,1:04:17,Jeffrey Hutchins,San Anselmo CA,46,M,Invitational/318 1:08:17/248,W/25,4,331
+319,1:04:19,Michael Amorosa,Antioch Ca,33,M,Invitational/319 1:05:19/165,Z/49,1,676
+320,1:04:19,Jill Nickels,San Rafael Ca,45,F,Invitational/320 1:16:19/446,M/19,12,667
+321,1:04:22,Barbara McCrum,Tiburon CA,37,F,Invitational/321 1:12:22/363,R/54,8,471
+322,1:04:23,Jennifer Stevens,Larkspur Ca,44,F,Invitational/322 1:15:23/430,N/10,11,665
+324,1:04:24,Maura Thurman,Sausalito CA,43,F,Invitational/324 1:14:24/412,P/22,10,138
+323,1:04:24,Michael Shwe,San Francisco CA,36,M,Invitational/323 1:05:24/167,Z/50,1,334
+325,1:04:25,Nancy DeMattei,San Jose CA,45,F,Invitational/325 1:16:25/449,M/20,12,513
+326,1:04:28,Ron Morgan,Spring Valley CA,69,M,Invitational/326 1:24:28/523,D/2,20,222
+327,1:04:28,Robert Goldfien,Mill Valley CA,48,M,Invitational/327 1:09:28/279,V/16,5,275
+328,1:04:29,Michael Riordan,Mill Valley CA,48,M,Invitational/328 1:09:29/281,V/17,5,148
+329,1:04:32,Regan Joost,Kentfield CA,15,F,Invitational/329 1:14:32/418,P/23,10,322
+330,1:04:33,Maeve Burke,Mill Valley CA,49,F,Invitational/330 1:16:33/453,M/21,12,266
+331,1:04:33,Deborah Hannaford,San Anselmo CA,51,F,Invitational/331 1:16:33/454,M/22,12,466
+332,1:04:34,Adam Sachs,San Francisco CA,43,M,Invitational/332 1:07:34/226,X/38,3,227
+333,1:04:36,Steve Seifert,Kirkwood MD,36,M,Invitational/333 1:05:36/174,Z/51,1,341
+334,1:04:36,Russell Clough,Palo Alto CA,61,M,Invitational/334 1:17:36/470,L/12,13,494
+335,1:04:37,Lois Fleming,Oakland CA,59,F,Invitational/335 1:24:37/524,D/3,20,337
+336,1:04:38,Chris Glave,Mill Valley CA,41,M,Invitational/336 1:06:38/197,Y/47,2,447
+337,1:04:38,William Patterson,Ross CA,41,M,Invitational/337 1:06:38/198,Y/48,2,229
+339,1:04:39,Tim Aregger,Larkspur CA,48,M,Invitational/339 1:09:39/290,V/18,5,348
+338,1:04:39,Rick Jones,Tiburon CA,47,M,Invitational/338 1:08:39/258,W/26,4,439
+340,1:04:40,Jeff Edwards,San Francisco CA,44,M,Invitational/340 1:07:40/230,X/39,3,279
+341,1:04:40,Jeff Thomas,San Rafael CA,12,M,Invitational/341 1:11:40/349,T/15,7,519
+342,1:04:41,Jason Watkins,Mill Valley CA,29,M,Invitational/342 1:04:41/150,S/11,0,274
+343,1:04:42,Laila Rezai,San Anselmo CA,27,F,Invitational/343 1:12:42/373,R/56,8,353
+344,1:04:44,Stephen Anderson,Piedmont CA,57,M,Invitational/344 1:14:44/422,P/24,10,430
+345,1:04:53,Michael Lowery,Santa Rosa CA,50,M,Invitational/345 1:10:53/329,U/17,6,333
+346,1:04:55,Trudy Purcell,Oakland CA,46,F,Invitational/346 1:16:55/459,M/23,12,203
+347,1:04:56,Jon Schleuning,Berkeley CA,36,M,Invitational/347 1:05:56/181,Z/52,1,344
+348,1:04:57,Erin Schultz,Ross CA,34,F,Invitational/348 1:12:57/377,R/57,8,511
+349,1:05:06,Jane Burgess,Atherton CA,46,F,Invitational/349 1:17:06/463,M/24,12,150
+350,1:05:07,Brian McCurdy,San Rafael CA,46,M,Invitational/350 1:09:07/268,W/27,4,623
+351,1:05:08,Michael Soltesz,Mill Valley CA,46,M,Invitational/351 1:09:08/269,W/28,4,486
+352,1:05:11,Tim Amyx,Mill Valley CA,44,M,Invitational/352 1:08:11/241,X/42,3,317
+353,1:05:13,Marcy Akard,San Francisco CA,25,F,Invitational/353 1:13:13/385,R/58,8,307
+354,1:05:14,William Menchine,Santa Cruz CA,48,M,Invitational/354 1:10:14/310,V/19,5,501
+355,1:05:15,James Maloney,San Francisco CA,42,M,Invitational/355 1:08:15/247,X/43,3,294
+356,1:05:16,Sheila Roebuck,Nicasio CA,46,F,Invitational/356 1:17:16/464,M/25,12,185
+357,1:05:18,Pete Siberell,Sierra Madre CA,45,M,Invitational/357 1:09:18/273,W/29,4,346
+358,1:05:19,George Choulos,Sausalito CA,45,M,Invitational/358 1:09:19/274,W/30,4,310
+359,1:05:20,Dennis Fisher,Livermore CA,59,M,Invitational/359 1:16:20/447,N/11,11,202
+360,1:05:22,Melissa Diehl,Novato CA,30,F,Invitational/360 1:13:22/387,R/59,8,240
+361,1:05:24,Lucy Gibbs,Mill Valley CA,16,F,Invitational/361 1:14:24/413,Q/20,9,634
+362,1:05:33,Michael Zabelin,San Francisco CA,48,M,Invitational/362 1:10:33/321,V/21,5,528
+363,1:05:37,John Long,Mill Valley CA,58,M,Invitational/363 1:16:37/455,N/13,11,215
+364,1:05:40,Greg Clementi,Petaluma CA,45,M,Invitational/364 1:09:40/292,W/32,4,288
+365,1:05:40,Monika Farrar,San Rafael Ca,32,F,Invitational/365 1:13:40/392,R/60,8,252
+366,1:05:41,Randy Cobb,Orinda CA,48,M,Invitational/366 1:10:41/327,V/22,5,622
+367,1:05:44,Bob Sanchez,Livermore CA,45,M,Invitational/367 1:09:44/294,W/33,4,306
+368,1:05:45,Jeffrey Alpert,Mill Valley CA,40,M,Invitational/368 1:07:45/234,Y/50,2,217
+369,1:05:46,Brandon Hoye,San Rafael CA,15,M,Invitational/369 1:09:46/295,W/34,4,505
+371,1:05:47,Ian Goertz,San Rafael CA,32,M,Invitational/370 1:06:47/203,Z/55,1,548
+370,1:05:47,David Kallmeyer,Larkspur CA,37,M,Invitational/372 1:06:47/205,Z/57,1,350
+372,1:05:47,Paul Weber,Petaluma CA,37,M,Invitational/371 1:06:47/204,Z/56,1,155
+373,1:05:48,Tom Jones,Sacramento CA,53,M,Invitational/373 1:12:48/374,T/17,7,418
+374,1:05:49,Thom Calandra,Sausalito CA,47,M,Invitational/374 1:09:49/297,W/35,4,618
+376,1:05:50,Elizabeth Schmohl,San Rafael CA,23,F,Invitational/376 1:13:50/398,R/62,8,589
+375,1:05:50,Tracy Radcliffe,Mill Valley CA,35,F,Invitational/375 1:13:50/397,R/61,8,242
+377,1:05:51,Kevin Cronin,St. Helena CA,52,M,Invitational/377 1:12:51/375,T/18,7,122
+378,1:05:52,David Rogers,San Francisco CA,42,M,Invitational/378 1:08:52/263,X/46,3,139
+379,1:05:52,Laurin Beckhusen,Vacaville CA,55,M,Invitational/379 1:13:52/399,R/63,8,376
+380,1:05:53,Phil Krieger,Mill Valley CA,53,M,Invitational/380 1:12:53/376,T/19,7,461
+381,1:05:55,Kim Kieckhefer,Ross CA,38,F,Invitational/381 1:13:55/401,R/64,8,406
+382,1:05:56,Robert Meckfessel,Point Reyes CA,44,M,Invitational/382 1:08:56/264,X/47,3,369
+383,1:05:58,Timothy Emanuels,Mill Valley CA,42,M,Invitational/383 1:08:58/265,X/48,3,636
+384,1:06:01,Todd Christman,Larkspur CA,44,M,Invitational/384 1:09:01/266,X/50,3,298
+385,1:06:02,Bian-Alex Petersen,Monterey CA,33,M,Invitational/385 1:07:02/213,Z/59,1,268
+386,1:06:05,Kevin McEntee,Scotts Valley CA,38,M,Invitational/386 1:08:05/238,Y/52,2,269
+387,1:06:07,Robin Reynolds,Belvedere CA,39,F,Invitational/387 1:14:07/407,R/65,8,416
+388,1:06:08,"John Kopchik, III",Oakland CA,32,M,Invitational/389 1:07:08/217,Z/60,1,600
+389,1:06:08,Sam Dillman,Davis CA,22,M,Invitational/388 1:06:08/187,S/15,0,599
+390,1:06:10,Karen Simontacchi,Forest Knolls CA,35,F,Invitational/390 1:14:10/409,R/66,8,401
+391,1:06:12,Mark Mehlert,Los Angeles CA,41,M,Invitational/391 1:08:12/242,Y/53,2,603
+393,1:06:13,Tad Straly,San Leandro Ca,33,M,Invitational/393 1:07:13/219,Z/61,1,149
+392,1:06:13,Eric Woodhouse,Mill Valley CA,41,M,Invitational/392 1:08:13/245,Y/54,2,490
+394,1:06:14,Jack Ball,Berkeley CA,63,M,Invitational/394 1:21:14/503,J/5,15,354
+395,1:06:14,William Seawell III,San Rafael CA,65,M,Invitational/395 1:21:14/504,J/6,15,650
+396,1:06:15,Michael Adams,Woodside CA,60,M,Invitational/396 1:18:15/475,M/27,12,328
+397,1:06:18,Doug Nickels,San Rafael CA,48,M,Invitational/397 1:11:18/338,V/23,5,624
+398,1:06:19,David Rubin,Greenbrae CA,47,M,Invitational/398 1:10:19/312,W/36,4,476
+399,1:06:20,Stephen Taggart,Bonita CA,41,M,Invitational/399 1:08:20/249,Y/55,2,221
+400,1:06:20,Brett Carolan,Seattle WA,32,M,Invitational/400 1:07:20/221,Z/62,1,538
+401,1:06:22,Norman Pease,Orinda CA,65,M,Invitational/401 1:21:22/505,J/7,15,237
+402,1:06:23,Richard Waldron,Mill Valley CA,40,M,Invitational/402 1:08:23/251,Y/56,2,409
+403,1:06:24,Doug Barta,Corte Madera CA,36,M,Invitational/403 1:07:24/222,Z/63,1,199
+404,1:06:26,Michael MacKenzie,Corte Madera CA,59,M,Invitational/404 1:17:26/467,N/14,11,330
+405,1:06:27,Kevin Knowles,Sausalito CA,38,M,Invitational/405 1:08:27/252,Y/57,2,419
+406,1:06:28,James Lundberg,Minneapolis MN,52,M,Invitational/406 1:13:28/391,T/20,7,581
+407,1:06:29,Raymond Umeda,Campbell CA,49,M,Invitational/407 1:11:29/344,V/24,5,445
+408,1:06:29,Ron Smith,Novato CA,50,M,Invitational/408 1:12:29/369,U/20,6,277
+409,1:06:31,Robert Epstein,San Rafael CA,41,M,Invitational/409 1:08:31/255,Y/58,2,446
+410,1:06:32,Jerry Feickert,San Geronimo CA,55,M,Invitational/410 1:14:32/419,R/69,8,614
+411,1:06:34,Greg Gillis,Hayward CA,50,M,Invitational/411 1:12:34/371,U/21,6,412
+412,1:06:35,John Peterson,San Francisco CA,40,M,Invitational/412 1:08:35/256,Y/59,2,515
+413,1:06:37,Jordan Eth,Tiburon Ca,44,M,Invitational/413 1:09:37/288,X/51,3,659
+414,1:06:37,Danny Bringer,San Ramon CA,34,M,Invitational/414 1:07:37/227,Z/64,1,435
+415,1:06:40,Trish Powell,Mill Valley CA,37,F,Invitational/415 1:14:40/421,R/70,8,292
+416,1:06:41,Jeff Spagnola,Mill Valley Ca,41,M,Invitational/416 1:08:41/259,Y/60,2,678
+417,1:06:44,Aaron Brookes,Mill Valley CA,32,M,Invitational/417 1:07:44/232,Z/65,1,133
+418,1:06:47,Steven Gallagher,Minneapolis MN,38,M,Invitational/418 1:08:47/262,Y/61,2,496
+419,1:06:55,Quinne Fokes,San Anselmo CA,43,F,Invitational/419 1:16:55/460,P/28,10,326
+420,1:07:01,Kieran Geffert,Mill Valley CA,35,F,Invitational/420 1:15:01/425,R/73,8,259
+422,1:07:04,Susan Chandler,Ketchum ID,49,F,Invitational/422 1:19:04/488,M/28,12,482
+421,1:07:04,Kaylin Mordock,San Rafael CA,30,F,Invitational/421 1:15:04/426,R/74,8,420
+423,1:07:05,Doug Myers,Ross CA,45,M,Invitational/423 1:11:05/335,W/38,4,262
+424,1:07:06,Calvin Mehlert,San Jose CA,75,M,Invitational/424 1:30:06/546,A/3,23,272
+426,1:07:11,Dave Waco,Sonoma CA,70,M,Invitational/426 1:28:11/543,C/3,21,168
+425,1:07:11,Martha Cederstrom,Woodacre CA,47,F,Invitational/425 1:19:11/489,M/29,12,332
+427,1:07:14,David Pinto,Rohnert Park CA,52,M,Invitational/427 1:14:14/410,T/21,7,156
+428,1:07:19,Benjamin Godsey,Burlingame CA,30,M,Invitational/428 1:07:19/220,S/19,0,454
+430,1:07:20,Bob Akka,San Francisco CA,43,M,Invitational/429 1:10:20/315,X/54,3,186
+429,1:07:20,Rebecca Casciani,Cupertino CA,38,F,Invitational/430 1:15:20/429,R/76,8,207
+431,1:07:21,Nancy Michaud,Novato CA,42,F,Invitational/431 1:17:21/466,P/30,10,352
+432,1:07:22,Gregory Wilson,Mill Valley CA,49,M,Invitational/432 1:12:22/364,V/25,5,170
+433,1:07:22,David Imboden,Scotts Valley CA,49,M,Invitational/433 1:12:22/365,V/26,5,256
+434,1:07:25,Frederick Stout,Greenbrae CA,52,M,Invitational/434 1:14:25/414,T/22,7,384
+435,1:07:26,Emily Van Buskirk,San Rafael CA,17,F,Invitational/435 1:16:26/450,Q/21,9,273
+436,1:07:27,Jim McGuinness,Mill Valley CA,44,M,Invitational/436 1:10:27/319,X/55,3,119
+437,1:07:28,Steven Black,Novato CA,58,M,Invitational/437 1:18:28/478,N/15,11,255
+438,1:07:29,Grant Palmer,San Anselmo CA,34,M,Invitational/438 1:08:29/254,Z/67,1,115
+439,1:07:29,Adrian Laekas,Mill Valley CA,55,M,Invitational/439 1:15:29/433,R/79,8,546
+440,1:07:30,Tim Fewell,San Anselmo CA,26,M,Invitational/440 1:07:30/224,S/21,0,315
+441,1:07:31,Mark Huffman,Oakland CA,45,M,Invitational/441 1:11:31/346,W/39,4,628
+442,1:07:32,Sam Hirabayashi,San Rafael CA,76,M,Invitational/442 1:30:32/547,A/4,23,76
+443,1:07:32,Kyle Billings,Carlsbad CA,40,M,Invitational/443 1:09:32/283,Y/62,2,390
+444,1:07:34,Daniel Babinski,Mercer Island WA,17,M,Invitational/444 1:09:34/287,Y/63,2,510
+445,1:07:37,Christine Forster,Novato CA,35,F,Invitational/445 1:15:37/436,R/80,8,118
+446,1:07:42,Susan Christman,Larkspur CA,40,F,Invitational/446 1:16:42/457,Q/22,9,297
+447,1:07:46,Mervin Giacomini,Novato CA,67,M,Invitational/447 1:25:46/533,F/5,18,386
+448,1:07:49,James Arthurs,Occidental CA,72,M,Invitational/448 1:30:49/548,A/5,23,193
+449,1:07:53,Clifford Snowman,San Anselmo CA,50,M,Invitational/449 1:13:53/400,U/24,6,106
+451,1:07:54,Robert Bunnell,Kentfield CA,52,M,Invitational/451 1:14:54/423,T/24,7,643
+450,1:07:54,Reed Bunnell,Kentfield CA,11,M,Invitational/450 1:15:54/440,R/81,8,641
+452,1:07:57,Brett Evart,San Francisco CA,50,M,Invitational/452 1:13:57/402,U/25,6,181
+453,1:07:59,Dale Closner,Ketchum ID,58,M,Invitational/453 1:18:59/487,N/16,11,567
+454,1:08:01,Roark Schultz,Ross CA,36,M,Invitational/454 1:09:01/267,Z/70,1,543
+455,1:08:03,David Moulton,San Francisco CA,65,M,Invitational/455 1:23:03/517,J/8,15,228
+456,1:08:08,Lisa Johanns,San Ramon CA,39,F,Invitational/456 1:16:08/442,R/82,8,552
+457,1:08:10,Todd Fanady,Mill Valley CA,41,M,Invitational/457 1:10:10/307,Y/64,2,316
+458,1:08:13,Christine Ramos,Ross CA,34,F,Invitational/458 1:16:13/444,R/83,8,521
+459,1:08:16,Tane Abbott,Corte Madera CA,40,M,Invitational/460 1:10:16/311,Y/65,2,573
+460,1:08:16,Shelli Gordon,Santa Rosa Ca,42,F,Invitational/459 1:18:16/476,P/32,10,663
+461,1:08:19,Debra Melvin,Larkspur CA,49,F,Invitational/461 1:20:19/495,M/30,12,176
+462,1:08:23,Paul Braa,Petaluma CA,39,M,Invitational/462 1:10:23/316,Y/66,2,441
+463,1:08:28,Billy Schmohl,San Rafael CA,21,M,Invitational/463 1:08:28/253,S/24,0,590
+464,1:08:31,Steve Radigan,Fremont CA,51,M,Invitational/464 1:14:31/417,U/26,6,413
+465,1:08:36,Robin Weiss,San Rafael CA,42,F,Invitational/465 1:18:36/481,P/33,10,166
+466,1:08:41,David O'Rourke,Novato CA,48,M,Invitational/466 1:13:41/393,V/28,5,462
+467,1:08:42,Karen Evans,Woodacre CA,44,F,Invitational/467 1:19:42/492,N/17,11,283
+468,1:08:43,Paul Seeman,Berkeley CA,48,M,Invitational/468 1:13:43/394,V/29,5,408
+469,1:08:48,Gabrielle Joffe,Kentfield CA,13,F,Invitational/469 1:19:48/494,N/18,11,563
+470,1:08:51,Matthew White,Martinez CA,44,M,Invitational/470 1:11:51/352,X/57,3,201
+471,1:08:53,Daniel Wasco,Radnor PA,44,M,Invitational/471 1:11:53/354,X/58,3,425
+472,1:08:57,Darrell White,Rohnert Park CA,49,M,Invitational/472 1:13:57/403,V/31,5,153
+473,1:08:58,George Ruiz,Carson City NV,46,M,Invitational/473 1:12:58/378,W/42,4,263
+474,1:09:09,Jake Sinclair,San Francisco CA,48,M,Invitational/474 1:14:09/408,V/32,5,677
+475,1:09:12,Janet Bodle,Greenbrae CA,54,F,Invitational/475 1:24:12/521,J/9,15,553
+476,1:09:15,Charles Alvarez,Encinitas CA,46,M,Invitational/476 1:13:15/386,W/44,4,568
+477,1:09:19,Ryan Joseph,Burlingame CA,20,M,Invitational/477 1:09:19/275,S/25,0,526
+478,1:09:25,Samantha Roger,San Rafael CA,16,F,Invitational/478 1:18:25/477,Q/25,9,633
+479,1:09:26,Russell Morgan,Reno NV,43,M,Invitational/479 1:12:26/367,X/59,3,657
+480,1:09:30,Susan Gradney,Novato CA,44,F,Invitational/480 1:20:30/497,N/20,11,532
+481,1:09:32,Mark Byers,Novato CA,55,M,Invitational/481 1:17:32/468,R/92,8,366
+483,1:09:33,Simone Oppen,Tomales CA,17,F,Invitational/483 1:18:33/479,Q/26,9,190
+482,1:09:33,Dan Dibley,Oakland CA,34,M,Invitational/482 1:10:33/322,Z/73,1,507
+484,1:09:38,Brandon Suddendorf,Tiburon CA,12,M,Invitational/484 1:16:38/456,T/25,7,655
+485,1:09:39,Rachael Honick,Mill Valley CA,17,F,Invitational/485 1:18:39/483,Q/27,9,631
+486,1:09:47,Wolfgang Zech,Mill Valley CA,61,M,Invitational/486 1:22:47/514,L/16,13,407
+487,1:09:47,Steven Patt,Cupertino CA,54,M,Invitational/487 1:17:47/472,R/96,8,417
+488,1:09:59,David Suddendorf,Tiburon CA,20,M,Invitational/488 1:09:59/303,S/27,0,653
+489,1:10:06,Stacy Miller,Sausalito Ca,35,F,Invitational/489 1:18:06/474,R/97,8,662
+490,1:10:10,Art Marthinsen,Novato CA,44,M,Invitational/490 1:13:10/379,X/61,3,128
+491,1:10:18,Joe Grantham,Dublin CA,45,M,Invitational/491 1:14:18/411,W/46,4,601
+492,1:10:27,Steve Kinsey,Forest Knolls Ca,51,M,Invitational/492 1:16:27/451,U/28,6,685
+493,1:10:30,Joseph Weigel,Somerset KY,48,M,Invitational/493 1:15:30/434,V/36,5,493
+494,1:10:37,Robert Miller,San Rafael CA,47,M,Invitational/494 1:14:37/420,W/47,4,152
+495,1:10:40,Douglas Bright,Bellingham WA,55,M,Invitational/495 1:18:40/484,R/98,8,194
+496,1:10:41,Todd Chambers,Santa Fe NM,17,M,Invitational/496 1:12:41/372,Y/82,2,658
+497,1:10:47,Brett Suddendorf,Tiburon CA,10,M,Invitational/497 1:20:47/500,P/37,10,654
+498,1:11:00,Dick Fregulia,Mill Valley CA,62,M,Invitational/498 1:25:00/527,K/10,14,621
+499,1:11:01,Yolanda Lopez,Tiburon Ca,45,F,Invitational/499 1:23:01/516,M/34,12,681
+500,1:11:05,Michael Gama,Hayward CA,44,M,Invitational/500 1:14:05/406,X/64,3,431
+501,1:11:10,John Carman,Tiburon CA,40,M,Invitational/501 1:13:10/380,Y/83,2,198
+502,1:11:24,Jenny Seyranian,Corte Madera CA,39,F,Invitational/502 1:19:24/490,R/103,8,625
+504,1:11:38,Gary Kirchubel,South Lake Tahoe C 45 M,Invitational/504,1:15:38/437,W/50,4,604,
+503,1:11:38,Paige Stewart,Davis CA,15,F,Invitational/503 1:21:38/507,P/40,10,125
+505,1:12:19,John Morris,Tiburon CA,14,M,Invitational/505 1:17:19/465,V/38,5,293
+506,1:12:26,Jim Misener,San Francisco CA,42,M,Invitational/506 1:15:26/432,X/66,3,587
+507,1:12:29,Scott Chronert,Kentfield CA,46,M,Invitational/507 1:16:29/452,W/51,4,107
+508,1:12:37,Stephen Daffron,Monticello KY,51,M,Invitational/508 1:18:37/482,U/32,6,42
+509,1:12:42,Anthony Ducomb,San Francisco CA,53,M,Invitational/509 1:19:42/493,T/27,7,442
+510,1:12:46,Barbara Frazier,Corte Madera CA,43,F,Invitational/510 1:22:46/513,P/41,10,405
+511,1:12:48,Taylour Claxton,Ross CA,13,F,Invitational/511 1:23:48/519,N/21,11,578
+512,1:12:57,Richard Laine,San Carlos CA,73,M,Invitational/512 1:35:57/552,A/8,23,508
+513,1:13:02,Shauna Sweeney,San Rafael CA,18,F,Invitational/513 1:22:02/510,Q/31,9,324
+514,1:13:03,Linda Nation,San Rafael CA,46,F,Invitational/514 1:25:03/529,M/38,12,616
+515,1:13:11,Allen Lundberg,Minneapolis MN,23,M,Invitational/515 1:13:11/382,S/34,0,580
+516,1:13:14,Robert Brown,Santa Roasa Ca,56,M,Invitational/516 1:22:14/511,Q/32,9,660
+517,1:13:23,Alden White,Chico CA,16,M,Invitational/517 1:16:23/448,X/72,3,648
+518,1:13:42,Peter Schumacher,Mill Valley Ca,42,M,Invitational/518 1:16:42/458,X/73,3,671
+519,1:14:04,Aric Bright,San Francisco CA,28,M,Invitational/519 1:14:04/405,S/36,0,585
+520,1:14:28,David Caneer,Pebble Beach CA,49,M,Invitational/520 1:19:28/491,V/41,5,632
+521,1:14:35,Stuart Cleland,Tiburon CA,44,M,Invitational/521 1:17:35/469,X/78,3,516
+522,1:14:37,Kenneth Bianchi,San Francisco CA,53,M,Invitational/522 1:21:37/506,T/29,7,682
+523,1:14:45,Michael Clark,Mill Valley CA,58,M,Invitational/523 1:25:45/532,N/23,11,595
+524,1:14:54,Bob Akers,Petaluma CA,47,M,Invitational/524 1:18:54/486,W/61,4,239
+525,1:15:20,Colin Cronin,St. Helena CA,10,M,Invitational/525 1:25:20/530,P/46,10,121
+526,1:15:20,Dan Airola,Sacramento CA,48,M,Invitational/526 1:20:20/496,V/44,5,666
+527,1:15:43,Katherine Singer,Las Vegas NV,62,F,Invitational/527 1:37:43/557,B/2,22,178
+528,1:15:46,Max Wietharn,San Jose CA,49,M,Invitational/528 1:20:46/499,V/45,5,612
+529,1:15:53,Manny Kopstein,Tiburon CA,60,M,Invitational/529 1:36:53/556,C/6,21,696
+530,1:15:55,Virginia Grillo,Novato CA,19,F,Invitational/530 1:23:55/520,R/124,8,554
+531,1:16:44,Duncan Brydon,Mill Valley CA,56,M,Invitational/531 1:25:44/531,Q/38,9,440
+532,1:17:00,Margaret Planka,Novato CA,38,F,Invitational/532 1:25:00/528,R/128,8,157
+533,1:17:00,Sean Phillips,Bothell WA,33,M,Invitational/533 1:18:00/473,Z/100,1,645
+534,1:18:06,Marianne Hill,Novato Ca,37,F,Invitational/534 1:26:06/535,R/135,8,674
+535,1:18:33,Alex Apking,Mill Valley Ca,30,M,Invitational/535 1:18:33/480,S/45,0,672
+536,1:18:55,Arrianne Vilches,Portland OR,26,F,Invitational/536 1:26:55/536,R/136,8,191
+537,1:19:21,Charlotte Ito,San Francisco CA,43,F,Invitational/537 1:29:21/544,P/55,10,123
+538,1:19:36,Courtney Carolan-Pratt,Edmonds WA,34,F,Invitational/538 1:27:36/540,R/140,8,630
+539,1:19:39,D.H. Lok,Oakland CA,49,M,Invitational/539 1:24:39/525,V/51,5,536
+540,1:19:49,Ryan Suddendorf,Tiburon CA,17,M,Invitational/541 1:21:49/509,Y/113,2,656
+541,1:19:49,Mike Gallagher,Minneapolis MN,39,M,Invitational/540 1:21:49/508,Y/112,2,525
+542,1:20:10,Jill Waters,Minneapolis MN,38,F,Invitational/542 1:28:10/542,R/144,8,400
+543,1:20:20,Will Mitchell,Moraga CA,40,M,Invitational/543 1:22:20/512,Y/114,2,607
+544,1:20:25,Christine Callinan,Mill Valley CA,22,F,Open/1,1:03:25/13,R/11,8 1209
+545,1:21:00,Ross Dowland,Desert Hills AZ,48,M,Open/2,1:01:00/4,V/2,5 1764
+546,1:21:02,Alexander Varner,San Rafael CA,17,M,Open/3,58:02/1,Y/7,2 1744
+547,1:21:07,"Louis Encalada, Jr.",Fairfield CA,58,M,Invitational/544 1:32:07/549,N/29,11,638
+548,1:21:09,Moriah Underhill,San Rafael CA,24,F,Open/4,1:04:09/16,R/13,8 1166
+549,1:21:16,Matt McCormick,San Rafael CA,40,M,Invitational/545 1:23:16/518,Y/116,2,289
+550,1:21:23,Heather Levine-Chesler,Mill Valley CA,27,F,Open/5,1:04:23/18,R/14,8 1475
+551,1:21:32,Bill Dodson,Sunnyvale CA,68,M,Open/6,1:15:32/166,E/2,19 1674
+552,1:21:46,Eamon Cooke,San Anselmo CA,60,M,Invitational/546 1:33:46/550,M/53,12,131
+553,1:21:53,Stephen Kroll,Denver CO,62,M,Invitational/547 1:35:53/551,K/14,14,661
+554,1:21:54,Bobby Hines,Novato Ca,47,M,Invitational/548 1:25:54/534,W/74,4,684
+555,1:22:00,Allen Scott,Danville CA,62,M,Invitational/549 1:36:00/553,K/15,14,606
+556,1:22:03,Tom Romary,Mercer Island WA,37,M,Open/7,58:03/2,Z/15,1 1729
+557,1:22:26,Michael Walraven,San Anselmo CA,54,M,Open/8,1:05:26/22,R/20,8 1482
+558,1:22:39,John Smeltzer,Mill Valley CA,39,M,Invitational/550 1:24:39/526,Y/121,2,196
+559,1:22:43,Bill Higgins,Mill Valley Ca,53,M,Invitational/551 1:29:43/545,T/42,7,664
+560,1:22:51,Byron Melendy,La Crescenta CA,61,M,Open/9,1:10:51/72,L/5,13 1558
+561,1:23:00,Brandon Sos,San Rafael CA,18,M,Open/10,59:00/3,Z/18,1 1817
+563,1:23:17,Jacque Taylor,Petaluma CA,11,F,Open/11,1:12:17/97,K/3,14 1003
+562,1:23:17,Christian Petersen,Richfield MN,36,M,Invitational/552 1:24:17/522,Z/112,1,399
+564,1:23:39,Don Lindsey,Petaluma CA,42,M,Open/12,1:01:39/9,X/14,3 1829
+565,1:23:59,Ben Pechner,Cordelia CA,16,M,Invitational/553 1:26:59/537,X/93,3,640
+566,1:24:15,Eliza Harding,Sausalito CA,33,F,Open/13,1:07:15/38,R/25,8 1401
+567,1:24:18,Jeffrey Goulding,Martinez CA,44,M,Invitational/554 1:27:18/539,X/95,3,649
+568,1:24:29,Monica Olkowiski,Bellvue CO,30,F,Open/14,1:07:29/41,R/26,8 1899
+569,1:24:32,Robert Kuslits,Antioch Ca,16,M,Open/15,1:02:32/11,X/16,3 1553
+570,1:25:08,John Hommeyer,San Francisco CA,37,M,Open/16,1:01:08/5,Z/27,1 1858
+571,1:25:16,Erik Mathon,Mill Valley CA,36,M,Open/17,1:01:16/7,Z/28,1 1325
+572,1:25:23,Laura O'Shea,Corte Madera CA,32,F,Open/18,1:08:23/51,Q/9,8 1819
+573,1:25:24,Barbara Robben,Berkeley CA,69,F,Invitational/555 1:48:24/565,A/12,23,102
+574,1:25:28,Stacy Wilcox,San Anselmo CA,37,F,Open/19,1:08:28/53,R/31,8 1063
+575,1:25:34,Alison Bunnell,Kentfield CA,13,F,Invitational/556 1:36:34/554,N/32,11,642
+576,1:26:02,Erik Solli,Mill Valley CA,10,M,Open/20,1:11:02/74,P/13,10 1683
+577,1:26:04,Dan Beeman,San Rafael Ca,38,M,Invitational/557 1:28:04/541,Y/125,2,680
+578,1:26:07,Lisa Youmans,Petaluma CA,41,F,Open/21,1:11:07/75,P/15,10 1112
+579,1:26:13,Jasper Halekas,Berkeley CA,27,M,Open/22,1:01:13/6,S/6,0 1787
+580,1:26:19,Paul Miers,Reno NV,37,M,Open/23,1:02:19/10,Z/31,1 1749
+581,1:26:34,Jay Thayer,Tiburon CA,28,M,Open/24,1:01:34/8,S/7,0 1299
+582,1:26:35,Thomas Dugan,Mill Valley CA,38,M,Open/25,1:03:35/14,Y/27,2 1557
+583,1:26:48,Tess Dennison,Corte Madera CA,8,F,Open/26,1:24:48/365,A/1,23 1028
+584,1:26:51,Heidi Hugo,Mill Valley CA,43,F,Invitational/558 1:36:51/555,P/67,10,247
+585,1:27:19,Drew Howes,San Anselmo CA,13,M,Open/27,1:08:19/49,U/13,6 1712
+586,1:27:22,James Puckett,Mill Valley CA,41,M,Open/28,1:04:22/17,Y/32,2 1029
+587,1:27:26,Thoma Tracy,San Rafael CA,43,M,Open/29,1:05:26/23,X/22,3 1149
+588,1:27:26,Jennifer Gammon,San Anselmo CA,34,F,Open/30,1:10:26/66,R/38,8 1680
+589,1:27:34,Hans Roenau,Tiburon CA,75,M,Invitational/559 1:50:34/566,A/13,23,175
+590,1:27:37,Gil Dowd,Novato CA,40,M,Open/31,1:04:37/19,Y/34,2 1645
+591,1:27:44,Damian Johnston,Sonoma CA,36,M,Open/32,1:03:44/15,Z/41,1 1642
+592,1:27:45,Thomas Bender,Birmingham AL,27,M,Open/33,1:02:45/12,S/8,0 1833
+594,1:27:58,David Baker-Robinson,Fairfax CA,8,M,Open/35,1:17:58/224,J/4,15 1676
+593,1:27:58,Margaret Preslik,Walnut Creek CA,47,F,Open/34,1:14:58/148,M/15,12 1399
+595,1:27:59,Liz Gill,San Anselmo CA,17,F,Open/36,1:11:59/92,Q/15,9 1911
+596,1:28:05,Sarah Grandin,San Francisco CA,15,F,Open/37,1:13:05/113,P/16,10 1690
+597,1:28:22,Lisa McCain,Palo Alto CA,37,F,Open/38,1:11:22/79,R/42,8 1407
+598,1:28:33,Tyler Dibble,Tiburon CA,17,M,Open/39,1:05:33/24,Y/40,2 1852
+599,1:28:38,Nicholas Lihman,Novato CA,16,M,Open/40,1:06:38/31,X/28,3 1882
+600,1:28:39,Mark Lenz,San Francisco CA,44,M,Open/41,1:06:39/33,X/30,3 1119
+601,1:28:42,Eric Warner,San Anselmo CA,41,M,Open/42,1:05:42/25,Y/41,2 1573
+602,1:28:53,Jennifer Price,Portland OR,30,F,Open/43,1:11:53/90,R/50,8 1908
+603,1:29:05,Jonathan Nava,Antioch Ca,15,M,Open/44,1:08:05/48,W/23,4 1929
+604,1:29:10,Jared DeBock,Chico CA,16,M,Open/45,1:07:10/37,X/36,3 1916
+605,1:29:14,Lisa Hilbert,Petaluma CA,41,F,Open/46,1:14:14/136,P/20,10 1225
+606,1:29:17,Nancy Vernon,San Anselmo CA,42,F,Open/47,1:14:17/138,P/21,10 1080
+607,1:29:24,Sunny Blende,Sausalito CA,52,F,Open/48,1:17:24/212,L/11,13 1025
+608,1:29:28,Ron Svinth,Petaluma CA,43,M,Open/49,1:07:28/40,X/37,3 1333
+609,1:29:31,Nicole Palkovsky,Mill Valley CA,30,F,Open/50,1:12:31/102,R/55,8 1007
+610,1:29:32,Karl Hoagland,Fairfax CA,38,M,Open/51,1:06:32/30,Y/46,2 1168
+611,1:29:41,Whitney Stenberg,Novato CA,17,F,Open/52,1:13:41/123,Q/16,9 1780
+612,1:29:43,Paul Aronowitz,Mill Valley CA,44,M,Open/53,1:07:43/42,X/40,3 1140
+613,1:29:44,Susan Santo,Mill Valley CA,40,F,Open/54,1:13:44/125,Q/17,9 1201
+614,1:29:51,Frank Rollo,Kentfield CA,39,M,Open/55,1:06:51/35,Y/49,2 1646
+615,1:29:53,Charlotte Helvestine,Ross CA,18,F,Open/56,1:13:53/128,Q/18,9 1704
+616,1:29:56,Carrie Barrett,Mill Valley CA,43,F,Open/57,1:14:56/147,P/25,10 1694
+617,1:30:01,Jim Coulter,San Francisco CA,43,M,Open/58,1:08:01/46,X/41,3 1580
+618,1:30:06,David Dachauer,San Anselmo CA,27,M,Open/59,1:05:06/20,S/12,0 1162
+619,1:30:08,Phillip Buckley,San Rafael CA,25,M,Open/60,1:05:08/21,S/13,0 1164
+620,1:30:10,Irene Herman,San Francisco CA,53,F,Open/61,1:19:10/245,K/7,14 1879
+621,1:30:14,Robin Hextrum,Stinson Beach CA,16,F,Open/62,1:14:14/137,Q/19,9 1753
+622,1:30:15,Jay Brignon,Mill Valley Ca,58,M,Invitational/560 1:41:15/562,N/36,11,687
+623,1:30:15,Sam Sherry,Mill Valley CA,18,M,Open/63,1:06:15/28,Z/53,1 1771
+624,1:30:16,Alan Krepack,Mill Valley CA,50,M,Open/64,1:11:16/77,U/18,6 1502
+625,1:30:19,Marlin Gilbert,San Francisco CA,42,M,Open/65,1:08:19/50,X/44,3 1527
+626,1:30:22,Thomas Wootton,San Rafael CA,14,M,Open/66,1:10:22/64,V/20,5 1040
+627,1:30:25,Joe Ramos,Ross CA,42,M,Open/67,1:08:25/52,X/45,3 1890
+628,1:30:25,Bonnie Bates,Tiburon CA,43,F,Open/68,1:15:25/160,P/26,10 1450
+630,1:30:27,Bill Talmage,San Rafael CA,58,M,Open/70,1:16:27/185,N/12,11 1504
+629,1:30:27,William Fisher,San Francisco CA,46,M,Open/69,1:09:27/59,W/31,4 1870
+631,1:30:29,David Ferris,Mill Valley CA,34,M,Open/71,1:06:29/29,Z/54,1 1385
+632,1:30:36,Carmen Rivers,Mill Valley CA,47,F,Open/72,1:17:36/215,M/26,12 1107
+633,1:30:43,Don Spencer,San Francisco CA,52,M,Open/73,1:12:43/108,T/16,7 1321
+634,1:30:48,Jeff Wuopio,Petaluma CA,35,M,Open/74,1:06:48/34,Z/58,1 1050
+635,1:30:50,Emma Oppen,Tomales CA,15,F,Invitational/561 1:40:50/561,P/74,10,647
+636,1:30:53,Jonathon Judkins,Fairfax CA,13,M,Open/75,1:11:53/91,U/19,6 1758
+637,1:30:56,Paul Berensmeier,Forest Knolls CA,41,M,Open/76,1:07:56/43,Y/51,2 1058
+638,1:31:00,Chris Leuaggi,Mill Valley CA,43,M,Open/77,1:09:00/56,X/49,3 1204
+639,1:31:03,Scott Clark,San Francisco CA,30,M,Open/78,1:06:03/26,S/14,0 1051
+640,1:31:09,Aaron Ferguson,Sacramento CA,30,M,Open/79,1:06:09/27,S/16,0 1707
+641,1:31:11,James Gloystein,Novato CA,52,M,Invitational/562 1:38:11/558,T/49,7,402
+642,1:31:14,Kristin Gloystein,Novato CA,11,F,Open/80,1:20:14/267,K/8,14 1615
+643,1:31:23,Brock Wagstaff,Larkspur CA,55,M,Open/81,1:14:23/140,R/67,8 1790
+644,1:31:29,Nick Hoffmire,Corte Madera CA,11,M,Open/82,1:14:29/141,R/68,8 1725
+645,1:31:38,Gregory Fish,San Anselmo CA,20,M,Open/83,1:06:38/32,S/17,0 1673
+646,1:31:38,Alan Burr,Mill Valley CA,42,M,Open/84,1:09:38/60,X/52,3 1866
+647,1:31:39,Jen Nichols,Mill Valley CA,42,F,Open/85,1:16:39/187,P/27,10 1423
+648,1:31:43,Jason Roberts,San Rafael CA,45,M,Open/86,1:10:43/70,W/37,4 1601
+649,1:31:45,Amy Chamberlain,Palo Alto CA,30,F,Open/87,1:14:45/144,R/71,8 1099
+650,1:31:49,Sam McClellan,Greenbrae CA,50,M,Open/88,1:12:49/111,U/22,6 1498
+651,1:31:50,Mark Tipton,Piedmont CA,42,M,Open/89,1:09:50/61,X/53,3 1587
+652,1:31:54,Jenner Currier,Corte Madera CA,11,M,Open/90,1:14:54/146,R/72,8 1660
+653,1:31:56,Nick Magnuson,Mill Valley CA,10,M,Open/91,1:16:56/200,P/29,10 1344
+654,1:31:58,Sher Dhillon,Campbell CA,30,M,Open/92,1:06:58/36,S/18,0 1638
+655,1:32:02,Chris Golec,Kentfield CA,37,M,Open/93,1:08:02/47,Z/66,1 1593
+656,1:32:15,Paul Giampaoli,San Anselmo Ca,54,M,Invitational/563 1:40:15/559,R/180,8,693
+657,1:32:19,Anna Giacomini,Saint Paul MN,38,F,Open/94,1:15:19/158,R/75,8 1567
+658,1:32:23,Richard Hogue,Beaverton OR,51,M,Open/95,1:13:23/119,U/23,6 1605
+659,1:32:24,Aaron Burke,San Francisco CA,24,M,Open/96,1:07:24/39,S/20,0 1917
+660,1:32:26,Jennifer Dirksen,Seattle WA,31,F,Open/97,1:15:26/162,R/77,8 1767
+661,1:32:28,Amy Moran,San Jose CA,29,F,Open/98,1:15:28/163,R/78,8 1766
+662,1:32:30,Menno Van Lookeren Campag San Francisco CA,42 M,Open/99,,1:10:30/67,X/56,3 1456,
+663,1:32:32,Denise Toombs,San Anselmo CA,43,F,Open/100 1:17:32/214,P/31,10 1438,
+664,1:32:41,Thomas Stephens,San Rafael CA,48,M,Open/101 1:12:41/107,V/27,5 1509,
+665,1:32:42,"William Joost, Jr.",Kentfield CA,53,M,Open/102 1:14:42/143,T/23,7 1142,
+666,1:32:45,Paula Fausone-Souza,Petaluma CA,40,F,Open/103 1:16:45/192,Q/23,9 1086,
+667,1:32:52,Peter Elliman,San Francisco CA,34,M,Open/104 1:08:52/54,Z/68,1 1453,
+668,1:32:58,Mark Schrumpf,Larkspur CA,22,M,Open/105 1:07:58/44,S/22,0 1432,
+669,1:32:58,Michael Fort,Tiburon CA,20,M,Open/106 1:07:58/45,S/23,0 1435,
+670,1:32:59,Larry Brewer,Everett WA,35,M,Open/107 1:08:59/55,Z/69,1 1821,
+671,1:33:08,Thaddaeus Bohne,Ross CA,34,M,Open/108 1:09:08/57,Z/71,1 1845,
+672,1:33:10,Donna McKenna,Petaluma CA,52,F,Open/109 1:21:10/284,L/13,13 1827,
+673,1:33:14,Carmen Dett,Corte Madera CA,36,F,Open/110 1:16:14/177,R/84,8 1868,
+674,1:33:15,Robert Cook,Fairfax CA,70,M,Open/111 1:29:15/457,C/4,21 1216,
+675,1:33:20,Jim Leonhard,San Rafael CA,55,M,Open/112 1:16:20/181,R/85,8 1473,
+676,1:33:26,Evan Arkush,San Francisco CA,34,M,Open/113 1:09:26/58,Z/72,1 1843,
+677,1:33:26,Jana Hildebrand,Mill Valley CA,36,F,Open/114 1:16:26/184,R/86,8 1021,
+678,1:33:28,Jeffery Nemy,San Francisco CA,45,M,Open/115 1:12:28/100,W/40,4 1427,
+679,1:33:29,Gary Gallaher,Orinda CA,61,M,Open/116 1:21:29/292,L/14,13 1409,
+680,1:33:30,Mark Self,Cary NC,46,M,Open/117 1:12:30/101,W/41,4 1627,
+681,1:33:40,James Bordegaray,Santa Fe NM,41,M,Open/118 1:10:40/68,Y/67,2 1030,
+682,1:33:42,Lisa Miller,San Jose CA,42,F,Open/119 1:18:42/235,P/34,10 1670,
+683,1:33:44,Ian Ransley,Richmond CA,41,M,Open/120 1:10:44/71,Y/68,2 1878,
+684,1:33:50,Vitor Nogueira,Mill Valley CA,11,M,Open/121 1:16:50/194,R/87,8 1785,
+685,1:33:51,Kathleen Helmer,Mill Valley CA,29,F,Open/122 1:16:51/196,R/88,8 1706,
+686,1:33:53,Sarah Cantrell,Berkeley CA,30,F,Open/123 1:16:53/198,R/89,8 1220,
+687,1:33:54,Heather Royer,Berkeley CA,28,F,Open/125 1:16:54/199,R/90,8 1127,
+688,1:33:54,John Dodson,Antioch Ca,38,M,Open/124 1:10:54/73,Y/69,2 1926,
+690,1:33:56,John Anderson,Santa Rosa CA,49,M,Open/127 1:13:56/130,V/30,5 1430,
+689,1:33:56,Caroline Adams,Kentfield CA,12,F,Open/126 1:20:56/280,M/31,12 1071,
+691,1:34:00,Stephen Stern,Larkspur CA,58,M,Open/128 1:20:00/259,N/19,11 1069,
+692,1:34:03,Russell Pillard,Santa Rosa CA,62,M,Open/129 1:23:03/323,K/9,14 1425,
+693,1:34:04,George Barry,Tiburon CA,47,M,Open/130 1:13:04/112,W/43,4 1885,
+694,1:34:13,Eric Multhaup,Mill Valley CA,56,M,Open/131 1:18:13/229,Q/24,9 1505,
+695,1:34:19,Christine Simpson,Ross CA,35,F,Open/132 1:17:19/210,R/91,8 1078,
+696,1:34:24,Charles Lesem,Larkspur CA,41,M,Open/133 1:11:24/80,Y/70,2 1188,
+697,1:34:25,Stan Lisiewicz,Glendale CA,68,M,Open/134 1:28:25/437,E/4,19 1807,
+698,1:34:26,Julian Martinez,Walnut Creek CA,41,M,Open/135 1:11:26/82,Y/71,2 1400,
+699,1:34:27,Joshua Rafner,Kentfield CA,47,M,Open/136 1:13:27/120,W/45,4 1499,
+700,1:34:30,Jeff Ellis,Seattle WA,39,M,Open/137 1:11:30/83,Y/72,2 1800,
+702,1:34:31,Tim McCarthy,San Rafael CA,42,M,Open/138 1:12:31/103,X/60,3 1616,
+701,1:34:31,Liz Hale,Kentfield CA,42,F,Open/139 1:19:31/252,P/35,10 1092,
+703,1:34:37,William Stock,Mill Valley CA,48,M,Open/140 1:14:37/142,V/33,5 1339,
+704,1:34:38,John Hukari,Mill Valley CA,39,M,Open/141 1:11:38/84,Y/73,2 1700,
+705,1:34:39,Dale McKenna,South San Francisc 52 F,Open/142,1:22:39/314,L/15,13 1828,,
+706,1:34:40,Christopher Saldivar,San Francisco CA,39,M,Open/143 1:11:40/85,Y/74,2 1094,
+707,1:34:40,Tim Mautz,San Anselmo CA,40,M,Open/144 1:11:40/86,Y/75,2 1012,
+709,1:34:41,Robert Cornelius,Los Gatos CA,40,M,Open/146 1:11:41/87,Y/76,2 1294,
+708,1:34:41,Chris Lucey,San Mateo CA,37,M,Open/145 1:10:41/69,Z/74,1 1886,
+710,1:34:42,Miles Staly,Peru IN,54,M,Open/147 1:17:42/216,R/93,8 1810,
+711,1:34:44,Joe Stranzl,Fairfax CA,38,M,Open/148 1:11:44/88,Y/77,2 1815,
+712,1:34:45,Natasha LaBelle,San Anselmo CA,19,F,Open/149 1:17:45/217,R/94,8 1675,
+714,1:34:46,Bob Lilly,Boulder Creek CA,55,M,Open/151 1:17:46/218,R/95,8 1861,
+713,1:34:46,Kevin Erdman,Ross CA,40,M,Open/150 1:11:46/89,Y/78,2 1891,
+715,1:34:50,Eric Schrumpf,Larkspur CA,26,M,Open/152 1:09:50/62,S/26,0 1426,
+716,1:34:52,Sam Louras,Orinda CA,51,F,Open/153 1:21:52/300,M/32,12 1521,
+717,1:34:59,Anitra Seitamo,Fairfax CA,59,F,Open/154 1:29:59/472,D/4,20 1221,
+718,1:35:00,Gavin Archbald,Oakland CA,28,M,Open/155 1:10:00/63,S/28,0 1219,
+719,1:35:06,Neil Rogers,Fairfax CA,13,M,Open/156 1:16:06/175,U/27,6 1745,
+720,1:35:12,Dake Herrero,Orinda CA,52,M,Open/157 1:17:12/204,T/26,7 1379,
+721,1:35:13,Austin Sos,San Rafael CA,14,M,Open/158 1:15:13/152,V/34,5 1818,
+722,1:35:16,Ashley Hyche,San Francisco CA,32,M,Open/159 1:11:16/78,Z/75,1 1349,
+723,1:35:22,Isaac Zacharias,Santa Rosa CA,28,M,Open/160 1:10:22/65,S/29,0 1262,
+724,1:35:23,Eric Heller,Redwood Shores CA,41,M,Open/161 1:12:23/98,Y/79,2 1101,
+725,1:35:25,Mariellen Stern,Larkspur CA,45,F,Open/162 1:22:25/310,M/33,12 1070,
+726,1:35:25,McCandless Sutton,San Rafael CA,18,M,Open/163 1:11:25/81,Z/76,1 1246,
+727,1:35:26,Mark McInerney,San Francisco CA,40,M,Open/164 1:12:26/99,Y/80,2 1606,
+728,1:35:28,Gayle Burns,Corte Madera CA,57,F,Open/165 1:28:28/439,F/6,18 1184,
+729,1:35:29,Barton Palmer,Petaluma CA,48,M,Open/166 1:15:29/164,V/35,5 1282,
+730,1:35:30,Kathleen Mahoney,Ross CA,43,F,Open/167 1:20:30/272,P/36,10 1472,
+731,1:35:34,Gary Semling,San Rafael CA,41,M,Open/168 1:12:34/105,Y/81,2 1495,
+733,1:35:43,James Danse,Bolinas CA,56,M,Open/170 1:19:43/256,Q/28,9 1808,
+732,1:35:43,David Champagne,Novato CA,42,M,Open/169 1:13:43/124,X/62,3 1053,
+734,1:35:44,Stephen Seldin,Davis CA,14,M,Open/171 1:15:44/170,V/37,5 1536,
+735,1:35:47,Nick Hansen,Ramona CA,65,M,Open/172 1:25:47/377,J/10,15 1897,
+736,1:35:54,Tracy Kenward,Santa Cruz CA,34,F,Open/173 1:18:54/239,R/99,8 1122,
+737,1:36:02,Brian Peter,Alamo CA,36,M,Open/174 1:12:02/93,Z/77,1 1592,
+738,1:36:04,Tom Vargas,Redwood City CA,42,M,Open/175 1:14:04/132,X/63,3 1337,
+739,1:36:05,Steve Jaber,Mill Valley CA,51,M,Open/176 1:17:05/202,U/29,6 1133,
+740,1:36:06,Matt Hannigan,San Jose CA,37,M,Open/177 1:12:06/94,Z/78,1 1837,
+741,1:36:07,Jerry Thomas,Mill Valley Ca,54,M,Open/178 1:19:07/244,R/100,8 1526,
+743,1:36:09,Jeff Hubeli,Redondo Beach CA,45,M,Open/179 1:15:09/151,W/48,4 1717,
+742,1:36:09,Philip Smith,Sausalito CA,65,M,Invitational/564 1:51:09/567,J/19,15,598
+744,1:36:10,Carol Farrer,San Rafael CA,42,F,Open/180 1:21:10/285,P/38,10 1135,
+745,1:36:12,Elizabeth Rono,Novato CA,31,F,Open/181 1:19:12/247,R/101,8 1693,
+746,1:36:12,Matt Dodge,San Carlos CA,28,M,Open/182 1:11:12/76,S/30,0 1689,
+747,1:36:12,Mary Haller,Petaluma CA,43,F,Open/183 1:21:12/287,P/39,10 1103,
+749,1:36:13,Todd Ritola,Larkspur CA,35,M,Open/185 1:12:13/95,Z/79,1 1044,
+748,1:36:13,Herb Bool,San Rafael CA,40,M,Open/184 1:13:13/117,Y/84,2 1056,
+750,1:36:16,Mark Miller,Mill Valley CA,51,M,Open/186 1:17:16/209,U/30,6 1247,
+751,1:36:17,Paul Solli,Mill Valley CA,46,M,Open/187 1:15:17/157,W/49,4 1685,
+752,1:36:22,Gretchen Vierstra,San Francisco CA,28,F,Open/188 1:19:22/248,R/102,8 1657,
+753,1:36:25,Margaret Curtis,Mill Valley CA,63,F,Open/189 1:34:25/545,A/6,23 1304,
+754,1:36:30,William Berger,Antioch Ca,17,M,Open/190 1:13:30/122,Y/85,2 1930,
+755,1:36:31,David Shelton,San Francisco CA,36,M,Open/191 1:12:31/104,Z/80,1 1734,
+756,1:36:37,Jack Saroyan,San Francisco CA,67,M,Open/192 1:29:37/464,F/7,18 1590,
+757,1:36:40,Joe Nation,San Rafael CA,46,M,Invitational/565 1:40:40/560,W/82,4,617
+758,1:36:44,Marcia Skall,Ross CA,45,F,Open/193 1:23:44/340,M/35,12 1076,
+760,1:36:47,Brian Rini,Mill Valley CA,33,M,Open/195 1:12:47/109,Z/81,1 1476,
+759,1:36:47,Lewis Daniels,San Rafael CA,68,M,Open/194 1:30:47/486,E/5,19 1446,
+761,1:36:50,Alan Vitolo,San Francisco CA,51,M,Open/196 1:17:50/219,U/31,6 1055,
+762,1:36:53,Heidi Meyer,Kentfield CA,66,F,Open/197 1:34:53/555,A/7,23 1017,
+763,1:36:59,Gina Seaborg,Mill Valley CA,46,F,Open/198 1:23:59/346,M/36,12 1478,
+765,1:37:03,Lee Holland,Alturas CA,67,M,Open/200 1:30:03/474,F/8,18 1419,
+764,1:37:03,Lee Aubry,Mill Valley CA,45,F,Open/199 1:24:03/350,M/37,12 1068,
+766,1:37:06,Michael Messer,Antioch CA,17,M,Open/201 1:14:06/133,Y/86,2 1578,
+767,1:37:09,John Atwater,San Francisco CA,41,M,Open/202 1:14:09/134,Y/87,2 1457,
+768,1:37:09,John Brennan,Oakland CA,36,M,Open/203 1:13:09/114,Z/82,1 1332,
+769,1:37:10,Leslie Curry,Santa Rosa CA,39,F,Open/204 1:20:10/263,R/104,8 1433,
+770,1:37:11,Berkeley Belknap,San Francisco CA,32,F,Open/205 1:20:11/264,Q/29,8 1046,
+771,1:37:12,Charles Baker,San Francisco CA,36,M,Open/206 1:13:12/116,Z/83,1 1613,
+772,1:37:14,Raymond Bolanos,Redwood City CA,42,M,Open/207 1:15:14/153,X/65,3 1222,
+773,1:37:14,Thomas Simms,St. Helena CA,25,M,Open/208 1:12:14/96,S/31,0 1507,
+774,1:37:21,Chris Vargas,Redwood City CA,37,M,Open/209 1:13:21/118,Z/84,1 1342,
+775,1:37:24,Jennifer Erickson,Greenbrae CA,29,F,Open/210 1:20:24/270,R/105,8 1820,
+776,1:37:25,Debrah Miller,Walnut Creek CA,54,F,Open/211 1:27:25/412,J/11,15 1376,
+777,1:37:29,William Dagley,San Rafael CA,44,M,Open/212 1:15:29/165,X/67,3 1576,
+778,1:37:29,Michael Price,Portland OR,33,M,Open/213 1:13:29/121,Z/85,1 1937,
+779,1:37:33,William Gilmore,Mill Valley CA,42,M,Open/214 1:15:33/167,X/68,3 1034,
+780,1:37:39,Pepi Morel,Mill Valley CA,26,M,Open/215 1:12:39/106,S/32,0 1723,
+781,1:37:40,Robert Sterling,San Rafael CA,46,M,Open/216 1:16:40/188,W/52,4 1206,
+782,1:37:44,Dennis Garboden,Eugene OR,37,M,Open/217 1:13:44/126,Z/86,1 1583,
+783,1:37:45,Michael Cowan,Oakland CA,44,M,Open/218 1:15:45/171,X/69,3 1864,
+784,1:37:47,Kenneth Calegari,Concord CA,44,M,Open/221 1:15:47/172,X/70,3 1211,
+785,1:37:47,Matthew Samson,San Rafael CA,25,M,Open/220 1:12:47/110,S/33,0 1253,
+786,1:37:47,Gary Pattee,Oak Park CA,47,M,Open/219 1:16:47/193,W/53,4 1591,
+787,1:37:50,John (Jack) Powell,Novato CA,35,M,Open/222 1:13:50/127,Z/87,1 1709,
+788,1:37:52,Sally Tracy,Mill Valley CA,17,F,Open/223 1:21:52/301,Q/30,9 1141,
+789,1:37:52,Tom Ager,San Anselmo CA,46,M,Open/224 1:16:52/197,W/54,4 1603,
+790,1:37:54,Terry McGaw,Ross CA,42,F,Open/225 1:22:54/318,P/42,10 1065,
+791,1:37:55,Cooper Milledge,Corte Madera CA,35,M,Open/226 1:13:55/129,Z/88,1 1278,
+792,1:37:57,John Coffer,Vacaville CA,49,M,Open/227 1:17:57/223,V/39,5 1572,
+793,1:37:58,Bud Parer,Novato CA,40,M,Open/228 1:14:58/149,Y/88,2 1560,
+794,1:37:59,Janeen Smith,Larkspur CA,38,F,Open/229 1:20:59/281,R/106,8 1134,
+795,1:38:00,Sean Garry,Sunnyvale CA,35,M,Open/230 1:14:00/131,Z/89,1 1372,
+796,1:38:09,Phil Phythian,Mill Valley CA,69,M,Open/231 1:33:09/523,D/5,20 1831,
+797,1:38:11,Dave Moore,Larkspur CA,28,M,Open/232 1:13:11/115,S/35,0 1239,
+799,1:38:12,Taylor Chapman,Mill Valley CA,14,M,Open/233 1:18:12/228,V/40,5 1266,
+798,1:38:12,Stephen Hoffmire,Corte Madera CA,44,M,Open/234 1:16:12/176,X/71,3 1724,
+800,1:38:13,Stephen Lyons,Aptos CA,37,M,Open/235 1:14:13/135,Z/90,1 1394,
+801,1:38:13,Paul Grifo,Fairfax CA,45,M,Open/236 1:17:13/207,W/55,4 1761,
+802,1:38:14,Dan Forster,Novato CA,38,M,Open/237 1:15:14/154,Y/89,2 1249,
+803,1:38:16,Barry Denlinger,Tustin CA,39,M,Open/238 1:15:16/156,Y/90,2 1248,
+804,1:38:17,Charles Morris II,Tiburon CA,11,M,Open/239 1:21:17/289,R/107,8 1417,
+805,1:38:21,Don Madronich,Sebastopol CA,58,M,Open/240 1:24:21/359,N/22,11 1024,
+806,1:38:22,Chris Billington,Montara CA,39,M,Open/241 1:15:22/159,Y/91,2 1641,
+807,1:38:23,Ann Marie Scott,Danville CA,16,F,Invitational/566 1:47:23/564,Q/53,9,594
+808,1:38:25,Mark Grimm,Glendale MO,40,M,Open/242 1:15:25/161,Y/92,2 1733,
+809,1:38:28,Daniel DeForrest,St. Petersburg FL,60,M,Open/243 1:25:28/371,M/39,12 1933,
+810,1:38:29,A. John Gambs,Tiburon CA,57,M,Open/244 1:23:29/331,P/43,10 1636,
+811,1:38:31,Amy Sonstein,San Rafael CA,33,F,Open/245 1:21:31/294,R/108,8 1439,
+812,1:38:31,Jerry Moskowitz,Mill Valley CA,66,M,Open/246 1:30:31/481,G/8,17 1060,
+813,1:38:38,Laura Undlin,Orinda CA,37,F,Open/247 1:21:38/296,R/109,8 1392,
+814,1:38:41,Tom Berns,Corte Madera CA,56,M,Open/248 1:22:41/315,Q/34,9 1813,
+815,1:38:42,Freddy Martin,Perley MN,39,M,Open/249 1:15:42/169,Y/93,2 1773,
+816,1:38:44,Richard Wallace,Aptos CA,44,M,Open/250 1:16:44/191,X/74,3 1104,
+817,1:38:46,Sherryl Taylor,Mill Valley CA,60,F,Open/251 1:34:46/552,C/5,21 1524,
+818,1:38:49,Ron Pharis,Mill Valley CA,57,M,Open/252 1:23:49/342,P/44,10 1199,
+819,1:38:54,William Papendick,San Rafael CA,55,M,Open/253 1:21:54/302,R/110,8 1212,
+820,1:38:55,Zio Ziegler,Mill Valley CA,15,M,Open/254 1:17:55/221,W/56,4 1301,
+821,1:38:56,John Longley,Mill Valley CA,41,M,Open/255 1:15:56/173,Y/94,2 1554,
+822,1:38:57,Diane Rice,Belvedere CA,45,F,Open/256 1:25:57/383,M/40,12 1066,
+823,1:38:58,Betsy Barsamian-Teman,Orinda CA,51,F,Open/257 1:25:58/385,M/41,12 1368,
+824,1:38:59,Dave Devincenzi,Petaluma CA,36,M,Open/258 1:14:59/150,Z/91,1 1508,
+825,1:39:02,Todd Mikolajczyk,San Rafael CA,41,M,Open/259 1:16:02/174,Y/95,2 1302,
+826,1:39:02,Daniel Dahlgren,Mill Valley CA,42,M,Open/260 1:17:02/201,X/75,3 1356,
+827,1:39:02,Michael Rogers,Fairfax CA,45,M,Open/261 1:18:02/226,W/57,4 1746,
+828,1:39:08,Michael Frideger,San Anselmo CA,55,M,Open/262 1:22:08/305,R/111,8 1328,
+829,1:39:11,Hal Offen,San Francisco CA,53,M,Open/263 1:21:11/286,T/28,7 1097,
+831,1:39:12,Andrew Moran,Pittsburg CA,43,M,Open/265 1:17:12/205,X/76,3 1138,
+830,1:39:12,Eli Morris,Tiburon CA,9,M,Open/264 1:26:12/390,M/42,12 1416,
+832,1:39:13,Andrew Mathieson,Kentfield CA,46,M,Open/266 1:18:13/230,W/58,4 1047,
+833,1:39:14,David Strand,Larkspur CA,60,M,Open/267 1:26:14/392,M/43,12 1656,
+834,1:39:15,Edward Hugo,Mill Valley CA,42,M,Open/268 1:17:15/208,X/77,3 1019,
+835,1:39:17,Kathleen Farley,Cupertino CA,32,F,Open/269 1:22:17/307,Q/33,8 1777,
+836,1:39:18,Jon Wells,Mill Valley CA,57,M,Open/271 1:24:18/357,P/45,10 1292,
+838,1:39:18,Michael Pharis,Mill Valley CA,29,M,Open/270 1:14:18/139,S/37,0 1343,
+837,1:39:18,Vinny Fausone,Petaluma CA,11,M,Open/272 1:22:18/308,R/112,8 1004,
+839,1:39:19,Hailey Hayman,Belvedere CA,11,F,Open/273 1:28:19/433,K/11,14 1515,
+840,1:39:19,Aza Ziegler,Mill Valley CA,11,F,Open/274 1:28:19/434,K/12,14 1479,
+841,1:39:20,Kerrigan Bennett,Oakland CA,38,M,Open/275 1:16:20/182,Y/96,2 1009,
+842,1:39:22,Kelley Charlton,Mill Valley CA,12,F,Open/276 1:26:22/394,M/44,12 1669,
+843,1:39:23,Patrick Charlton,Mill Valley CA,11,M,Open/277 1:22:23/309,R/113,8 1847,
+844,1:39:28,Jim Ottenheimer,Livermore CA,48,M,Open/278 1:19:28/249,V/42,5 1408,
+845,1:39:29,Natalie Macias,San Rafael CA,18,F,Open/279 1:23:29/332,Q/35,9 1049,
+847,1:39:30,Bruce Smith,Kentfield CA,46,M,Open/281 1:18:30/234,W/59,4 1311,
+846,1:39:30,Kirk Pappas,Santa Rosa CA,41,M,Open/280 1:16:30/186,Y/97,2 1114,
+848,1:39:33,Roland Lee,Novato CA,54,M,Open/282 1:22:33/312,R/114,8 1871,
+849,1:39:37,Michael Jordan,Kenwood CA,31,M,Open/283 1:15:37/168,Z/92,1 1470,
+850,1:39:41,Patricia Ziegler,Mill Valley CA,54,F,Open/284 1:29:41/466,J/12,15 1481,
+851,1:39:45,Matthew Small,Mill Valley CA,28,M,Open/285 1:14:45/145,S/38,0 1856,
+852,1:39:47,Mark Magers,Oakland CA,45,M,Open/286 1:18:47/236,W/60,4 1545,
+853,1:39:57,Alison Kreshin,Larkspur CA,44,F,Open/287 1:25:57/384,N/24,11 1254,
+854,1:39:58,Larissa Pease,Seattle WA,27,F,Open/288 1:22:58/321,R/115,8 1370,
+855,1:39:59,John Hood,Mill Valley CA,47,M,Open/289 1:18:59/240,W/62,4 1193,
+856,1:40:01,Charles Matz,Chico CA,46,M,Open/290 1:19:01/242,W/63,4 1874,
+857,1:40:10,Mark Cutmore,Berkeley CA,41,M,Open/291 1:17:10/203,Y/98,2 1108,
+858,1:40:11,Steve Beecroft,Mill Valley CA,46,M,Open/292 1:19:11/246,W/64,4 1487,
+859,1:40:12,Todd Stevenot,Petaluma CA,40,M,Open/293 1:17:12/206,Y/99,2 1570,
+860,1:40:12,Michael Hui,San Gabriel CA,48,M,Open/294 1:20:12/265,V/43,5 1631,
+862,1:40:15,Gerhardt Konig,San Anselmo CA,25,M,Open/296 1:15:15/155,S/39,0 1682,
+861,1:40:15,Allan Goldberg,San Francisco Ca,35,M,Open/295 1:16:15/178,Z/93,1 1925,
+863,1:40:18,Carlos Botas,Larkspur CA,37,M,Open/297 1:16:18/179,Z/94,1 1283,
+864,1:40:20,George Veh,Mill Valley CA,41,M,Open/298 1:17:20/211,Y/100,2 1293,
+865,1:40:25,Cathy Rice-Caddell,Novato CA,37,F,Open/299 1:23:25/330,R/116,8 1850,
+866,1:40:28,Patricia Spilman,Mill Valley CA,43,F,Open/300 1:25:28/372,P/47,10 1043,
+867,1:40:29,John Evans,San Geronimo CA,54,M,Open/301 1:23:29/333,R/117,8 1257,
+868,1:40:36,Gabrielle Bjornson,Overland Prk KS,42,F,Open/302 1:25:36/375,P/48,10 1757,
+870,1:40:38,Richard Kozlow,San Francisco CA,56,M,Open/304 1:24:38/364,Q/37,9 1565,
+869,1:40:38,Grier Mathews,Corte Madera CA,38,F,Open/303 1:23:38/335,R/118,8 1145,
+871,1:40:39,Fernando Rodriguez,San Rafael CA,57,M,Open/305 1:25:39/376,P/49,10 1520,
+873,1:40:41,Marie Jorajuria,Sausalito CA,38,F,Open/307 1:23:41/338,R/120,8 1512,
+872,1:40:41,Walter Underhill,San Rafael CA,55,M,Open/306 1:23:41/337,R/119,8 1169,
+874,1:40:42,Jared Marchese,Corte Madera CA,15,M,Open/308 1:19:42/255,W/65,4 1477,
+876,1:40:43,Raymond Grechman,Greenbrae CA,37,M,Open/310 1:16:43/189,Z/95,1 1465,
+875,1:40:43,Sharon French,Mill Valley CA,38,F,Open/309 1:23:43/339,R/121,8 1296,
+878,1:40:45,Laura Mchale,Kailua-Kona Hi,55,F,Open/312 1:31:45/501,H/1,16 1540,
+877,1:40:45,Alex Romero,Marin City CA,12,M,Open/311 1:22:45/316,T/30,7 1537,
+879,1:40:46,Michael Lukza,Hercules CA,48,M,Open/313 1:20:46/277,V/46,5 1073,
+880,1:40:47,Beth Paulson,Fair Oaks CA,44,F,Open/314 1:26:47/397,N/25,11 1355,
+881,1:40:50,Wynee Sade,Mill Valley CA,30,F,Open/315 1:23:50/343,R/122,8 1369,
+882,1:40:50,Michael Seifer,Mill Valley CA,35,M,Open/316 1:16:50/195,Z/96,1 1334,
+883,1:40:51,Scott Morgan,Novato CA,43,M,Open/317 1:18:51/237,X/79,3 1136,
+884,1:40:51,Nicki Cutler,San Anselmo CA,35,F,Open/318 1:23:51/344,R/123,8 1497,
+885,1:40:52,Charles Morris,Tiburon CA,43,M,Open/319 1:18:52/238,X/80,3 1415,
+886,1:40:59,William Spinrad,Kentfield CA,12,M,Open/320 1:22:59/322,T/31,7 1538,
+887,1:41:00,Joelle Connolly,Larkspur CA,33,F,Open/321 1:24:00/347,R/125,8 1677,
+888,1:41:00,Jerry Overaa,Lafayette CA,61,M,Open/322 1:29:00/449,L/17,13 1381,
+889,1:41:02,Laurel Wagstaff,Larkspur CA,15,F,Open/323 1:26:02/386,P/50,10 1791,
+890,1:41:03,Serena Teipel,Kentfield CA,32,F,Open/324 1:24:03/351,Q/36,8 1596,
+891,1:41:04,Michael Edelstein,San Francisco CA,44,M,Open/325 1:19:04/243,X/81,3 1146,
+892,1:41:06,Sam Filetti,Mill Creek WA,38,M,Open/326 1:18:06/227,Y/101,2 1688,
+893,1:41:14,Kelly McFarlane,Mill Valley CA,10,F,Open/327 1:32:14/508,H/2,16 1237,
+894,1:41:16,Amelia Burke,Belvedere CA,10,F,Open/328 1:32:16/510,H/3,16 1461,
+895,1:41:16,Ann Charlton,Mill Valley CA,44,F,Open/329 1:27:16/409,N/26,11 1668,
+896,1:41:19,Aaron Snyder,San Anselmo CA,30,M,Open/330 1:16:19/180,S/40,0 1144,
+897,1:41:20,Ray Wilkes,Fairfax CA,67,M,Open/331 1:34:20/544,F/9,18 1511,
+899,1:41:24,Bill Bridges,Eagle Point OR,33,M,Open/333 1:17:24/213,Z/97,1 1202,
+898,1:41:24,Glen Barras,Corte Madera CA,38,M,Open/332 1:18:24/232,Y/102,2 1739,
+900,1:41:25,Riley Newman,San Rafael CA,20,M,Open/334 1:16:25/183,S/41,0 1156,
+901,1:41:26,Kimberly Ventre,Menlo Park CA,38,F,Open/335 1:24:26/360,R/126,8 1754,
+902,1:41:27,Roger Crist,Ketchum ID,64,M,Open/336 1:31:27/497,J/13,15 1912,
+903,1:41:31,John Brewer,San Francisco CA,46,M,Open/337 1:20:31/273,W/66,4 1551,
+904,1:41:33,Sergio Silva,San Anselmo CA,48,M,Open/338 1:21:33/295,V/47,5 1054,
+905,1:41:35,David Wootton,San Rafael CA,16,M,Open/339 1:19:35/253,X/82,3 1500,
+906,1:41:36,Susan Beecrott,Mill Valley CA,38,F,Open/340 1:24:36/363,R/127,8 1486,
+907,1:41:36,Morgan Albertoli,San Rafael CA,16,M,Invitational/567 1:44:36/563,X/112,3 1938,
+908,1:41:43,Chad Falk,Novato CA,27,M,Open/341 1:16:43/190,S/42,0 1165,
+909,1:41:44,Katie Martin,San Anselmo CA,64,F,Open/342 1:39:44/617,A/9,23 1191,
+910,1:41:47,Kelly Tenthorey,Granite Bay CA,42,F,Open/343 1:26:47/398,P/51,10 1531,
+911,1:41:47,Sacha Bunge,Mill Valley CA,49,F,Open/344 1:28:47/445,M/45,12 1373,
+912,1:41:53,Mark Barbour,Santa Cruz CA,34,M,Open/345 1:17:53/220,Z/98,1 1863,
+913,1:41:56,Carlos Escobedo,San Rafael CA,33,M,Open/346 1:17:56/222,Z/99,1 1519,
+914,1:42:04,Howard Jones,Martinez CA,50,M,Open/347 1:23:04/324,U/33,6 1367,
+915,1:42:05,Mark Narlesky,Sacramento CA,42,M,Open/348 1:20:05/261,X/83,3 1210,
+916,1:42:05,Thomas Sturges,Orinda CA,60,M,Open/349 1:29:05/453,M/46,12 1365,
+917,1:42:08,Bob Rule,Walnut Creek CA,52,M,Open/350 1:24:08/355,T/32,7 1604,
+918,1:42:09,Randy Macht,Louisville CO,43,M,Open/351 1:20:09/262,X/84,3 1849,
+919,1:42:10,Kathleen Harms,Mill Valley CA,28,F,Open/352 1:25:10/367,R/129,8 1243,
+920,1:42:11,Jennifer Snell,San Francisco CA,28,F,Open/353 1:25:11/368,R/130,8 1242,
+921,1:42:12,Chris Jensen,San Mateo CA,53,M,Open/354 1:24:12/356,T/33,7 1569,
+922,1:42:13,Clay Perry,Novato CA,33,M,Open/355 1:18:13/231,Z/101,1 1541,
+923,1:42:29,Daniel Pisenti,Mill Valley CA,41,M,Open/356 1:19:29/250,Y/103,2 1336,
+925,1:42:33,Dean Waterbury,San Ramon CA,52,M,Open/358 1:24:33/362,T/34,7 1205,
+924,1:42:33,Angie Funtanilla,San Francisco CA,32,F,Open/357 1:25:33/373,R/131,8 1840,
+926,1:42:39,Laurie Wentzel,San Anselmo CA,42,F,Open/359 1:27:39/417,P/52,10 1077,
+927,1:42:42,Niel Moeller,Seattle WA,45,M,Open/360 1:21:42/297,W/67,4 1743,
+928,1:42:44,Walt Schwartz,Petaluma CA,44,M,Open/361 1:20:44/275,X/85,3 1468,
+929,1:42:47,Anna Purcell,Oakland CA,16,F,Invitational/568 1:51:47/568,Q/55,9 1936,
+930,1:42:49,Emma Williams,Oakland CA,17,F,Open/362 1:26:49/400,Q/39,9 1742,
+931,1:42:50,Jeffrey Lerman,San Rafael CA,47,M,Open/363 1:21:50/299,W/68,4 1316,
+932,1:42:51,Christina Machello,San Rafael CA,31,F,Open/364 1:25:51/379,R/132,8 1143,
+933,1:42:52,Nicole Calmels,Novato CA,24,F,Open/365 1:25:52/381,R/133,8 1825,
+934,1:42:54,Scott Moyer,Novato CA,41,M,Open/366 1:19:54/257,Y/104,2 1489,
+935,1:42:55,Billy Farrer,San Rafael CA,49,M,Open/367 1:22:55/320,V/48,5 1006,
+936,1:42:55,Anne Vollen,San Francisco CA,39,F,Open/368 1:25:55/382,R/134,8 1229,
+937,1:42:56,Ginny Olson,San Anselmo CA,56,F,Open/369 1:34:56/557,G/9,17 1179,
+938,1:42:58,Vivian McClure,Greenbrae CA,52,F,Open/370 1:30:58/489,L/18,13 1089,
+939,1:42:59,David Moskowitz,Mill Valley CA,27,M,Open/371 1:17:59/225,S/43,0 1064,
+940,1:43:01,Mike Webb,Santa Rosa CA,40,M,Open/372 1:20:01/260,Y/105,2 1445,
+941,1:43:02,Emmanuel Zokpodo,Sacramento CA,42,M,Open/373 1:21:02/282,X/86,3 1351,
+943,1:43:04,Andrew Kallet,Corte Madera CA,47,M,Open/375 1:22:04/304,W/69,4 1552,
+942,1:43:04,Scott Boutwell,Mill Valley CA,48,M,Open/374 1:23:04/325,V/49,5 1224,
+944,1:43:10,Christine Ping,Sebastopol CA,52,F,Open/376 1:31:10/492,L/19,13 1174,
+945,1:43:16,Kent Wilson,Sacramento CA,52,M,Open/377 1:25:16/370,T/35,7 1865,
+946,1:43:22,Tim Yee,Rescue CA,48,M,Open/378 1:23:22/328,V/50,5 1546,
+947,1:43:23,Roy Harvey,Mill Valley CA,77,M,Open/379 1:41:23/640,A/10,23 1760,
+948,1:43:29,Christopher Simkins,San Rafael CA,29,M,Open/380 1:18:29/233,S/44,0 1622,
+949,1:43:30,Brad Herner,Novato CA,36,M,Open/381 1:19:30/251,Z/102,1 1250,
+950,1:43:33,David Erskine,Mill Valley CA,53,M,Open/382 1:25:33/374,T/36,7 1471,
+951,1:43:36,Paula Johnson,Ross CA,43,F,Open/383 1:28:36/441,P/53,10 1382,
+952,1:43:43,Patrice O'Leary,Santa Rosa CA,16,F,Open/384 1:27:43/418,Q/40,9 1460,
+953,1:43:43,Derek L'Leary,Santa Rosa CA,39,M,Open/385 1:20:43/274,Y/106,2 1463,
+954,1:43:44,Kris Johnson,Mill Valley CA,41,M,Open/386 1:20:44/276,Y/107,2 1326,
+956,1:43:46,Kaitlan McGuinness,Mill Valley CA,16,F,Open/388 1:27:46/419,Q/41,9 1213,
+955,1:43:46,Eric Peterson,Mill Valley CA,40,M,Open/387 1:20:46/278,Y/108,2 1910,
+957,1:43:48,Michael Finn,Tiburon CA,13,M,Open/389 1:24:48/366,U/34,6 1715,
+958,1:43:53,Gordon Gellner,Mill Valley CA,56,M,Open/390 1:27:53/424,Q/42,9 1189,
+959,1:43:55,Terry McKinney,Mill Valley CA,50,F,Open/391 1:30:55/488,M/47,12 1544,
+960,1:43:57,Kevin Wilcox,San Anselmo CA,37,M,Open/392 1:19:57/258,Z/103,1 1062,
+962,1:44:00,Tom Keller,San Francisco CA,30,M,Open/394 1:19:00/241,S/46,0 1098,
+961,1:44:00,Aaron Lieberman,San Rafael CA,16,M,Open/393 1:22:00/303,X/87,3 1183,
+963,1:44:02,Peggy Sousa,San Anselmo CA,45,F,Open/395 1:31:02/491,M/48,12 1052,
+964,1:44:03,Jim Dimon,Greenbrae CA,52,M,Open/396 1:26:03/388,T/37,7 1402,
+965,1:44:05,Amy Blumenthal,San Francisco CA,34,F,Open/397 1:27:05/402,R/137,8 1306,
+966,1:44:07,Lynne Nelson,Eagan MN,42,F,Open/398 1:29:07/454,P/54,10 1620,
+967,1:44:08,Jonathan Ziesing,Larkspur CA,11,M,Open/399 1:27:08/405,R/138,8 1279,
+968,1:44:13,Curtis Press,Mill Valley CA,36,M,Open/400 1:20:13/266,Z/104,1 1197,
+969,1:44:14,Duane Campbell,Chula Vista CA,40,M,Open/401 1:21:14/288,Y/109,2 1877,
+970,1:44:15,Debbie St.Marie,Everett WA,49,F,Open/402 1:31:15/494,M/49,12 1822,
+971,1:44:16,Gina Marotto,Larkspur CA,17,F,Open/403 1:28:16/431,Q/43,9 1736,
+972,1:44:20,Peter Towle,Mill Valley CA,37,M,Open/404 1:20:20/268,Z/105,1 1429,
+973,1:44:22,Kevin Saedi,Chicago IL,36,M,Open/405 1:20:22/269,Z/106,1 1632,
+974,1:44:24,Anthony Tesler,Antioch CA,17,M,Open/406 1:21:24/291,Y/110,2 1842,
+975,1:44:24,George Simkins,Chicago IL,34,M,Open/407 1:20:24/271,Z/107,1 1883,
+976,1:44:25,John Schrumpf,Larkspur CA,54,M,Open/408 1:27:25/413,R/139,8 1428,
+977,1:44:28,Mary Beth Alyward,Novato CA,45,F,Open/409 1:31:28/498,M/50,12 1115,
+978,1:44:29,Jonathan Mahrer,Mill Valley CA,41,M,Open/410 1:21:29/293,Y/111,2 1375,
+979,1:44:30,Gerald Cahill,Mill Valley CA,58,M,Open/411 1:30:30/480,N/27,11 1340,
+980,1:44:32,Krissa Daly,Reno NV,42,F,Open/412 1:29:32/460,P/56,10 1889,
+982,1:44:35,Catherine Bianco,Sausalito CA,42,F,Open/414 1:29:35/462,P/57,10 1059,
+981,1:44:35,Helen Sheaff,Moraga CA,61,F,Open/413 1:41:35/643,B/3,22 1380,
+983,1:44:36,Dina Anchordoguy-Rabo,Castro Valley CA,29,F,Open/415 1:27:36/416,R/141,8 1681,
+984,1:44:38,Brad Thompson,Lafayette CA,45,M,Open/416 1:23:38/336,W/70,4 1410,
+985,1:44:41,Fernando Rodriguez,San Rafael CA,30,M,Open/417 1:19:41/254,S/47,0 1177,
+986,1:44:45,Andy Mascheroni,San Anselmo CA,46,M,Open/418 1:23:45/341,W/71,4 1494,
+987,1:44:46,Chris Lyons,Fairfax CA,39,F,Open/419 1:27:46/420,R/142,8 1830,
+988,1:44:47,Hendy Dayton,San Francisco CA,43,F,Open/420 1:29:47/469,P/58,10 1857,
+989,1:44:54,Debbie Black,Greenbrae CA,44,F,Open/421 1:30:54/487,N/28,11 1083,
+990,1:44:54,Moses Vaughan,Mill Valley CA,42,M,Open/422 1:22:54/319,X/88,3 1013,
+991,1:44:59,Lisa Lukianoff,Mill Valley CA,38,F,Open/423 1:27:59/426,R/143,8 1699,
+992,1:45:02,Kevin Haroff,Greenbrae CA,47,M,Open/424 1:24:02/348,W/72,4 1300,
+993,1:45:04,Patrick Delaney,Larkspur CA,34,M,Open/425 1:21:04/283,Z/108,1 1106,
+994,1:45:05,Fred Andersen,Mill Valley CA,51,M,Open/426 1:26:05/389,U/35,6 1255,
+995,1:45:06,Steve DiSalvo,San Rafael CA,53,M,Open/427 1:27:06/403,T/38,7 1562,
+996,1:45:10,Tom Trombadore,Mill Valley CA,42,M,Open/428 1:23:10/327,X/89,3 1629,
+997,1:45:14,Erick Steinberg,Mill Valley CA,52,M,Open/429 1:27:14/407,T/39,7 1418,
+998,1:45:16,Sally Kwak,Berkeley CA,31,F,Open/430 1:28:16/432,R/145,8 1057,
+999,1:45:22,Ismael Becerra,San Rafael CA,37,M,Open/431 1:21:22/290,Z/109,1 1186,
+1000,1:45:23,Mike Webb,Mill Valley CA,54,M,Open/432 1:28:23/435,R/146,8 1277,
+1001,1:45:25,Laura Cox,Mill Valley CA,32,F,Open/433 1:28:25/438,Q/44,8 1314,
+1002,1:45:28,Kristy McGuinness,Mill Valley CA,18,F,Open/434 1:29:28/459,Q/45,9 1190,
+1004,1:45:29,Craig Sultan,Mill Valley CA,41,M,Open/436 1:22:29/311,Y/115,2 1124,
+1003,1:45:29,Lisa Magnuson,Mill Valley CA,41,F,Open/435 1:30:29/479,P/59,10 1345,
+1005,1:45:30,Paul McDonald,Pleasant Hill CA,62,M,Open/437 1:34:30/547,K/13,14 1585,
+1006,1:45:36,Robyn Moyer,Novato CA,41,F,Open/438 1:30:36/483,P/60,10 1488,
+1007,1:45:40,Ginger Apperson,Novato CA,46,F,Open/439 1:32:40/513,M/51,12 1492,
+1008,1:45:41,Catherine Yona,Kentfield CA,33,F,Open/440 1:28:41/443,R/147,8 1530,
+1009,1:45:55,Craig Avis,Antioch Ca,22,M,Open/441 1:20:55/279,S/48,0 1928,
+1010,1:45:56,Rockue Schatz,San Rafael CA,44,M,Open/442 1:23:56/345,X/90,3 1207,
+1011,1:45:57,Mike Murray,Los Angeles CA,54,M,Open/443 1:28:57/448,R/148,8 1678,
+1012,1:46:00,Pablo Villasenor,San Rafael CA,55,M,Open/444 1:29:00/450,R/149,8 1187,
+1014,1:46:02,Gordon Moran,Ross CA,14,M,Open/446 1:26:02/387,V/52,5 1651,
+1013,1:46:02,Cynthia Peterson,Larkspur CA,45,F,Open/445 1:33:02/519,M/52,12 1081,
+1015,1:46:03,Wade Smith,Larkspur CA,42,M,Open/447 1:24:03/352,X/91,3 1023,
+1016,1:46:07,Zachary Maslow,Mill Valley CA,12,M,Open/448 1:28:07/428,T/40,7 1444,
+1017,1:46:09,Roy Bauerle,Santa Cruz CA,54,M,Open/449 1:29:09/455,R/150,8 1634,
+1018,1:46:12,Julian Newman,San Rafael CA,14,M,Open/450 1:26:12/391,V/53,5 1155,
+1019,1:46:23,Cary Hills,Eagle Point OR,39,M,Open/451 1:23:23/329,Y/117,2 1196,
+1020,1:46:24,Michael Dziedzic,San Rafael CA,53,M,Open/452 1:28:24/436,T/41,7 1288,
+1021,1:46:29,Tom Mathews,Corte Madera CA,38,M,Open/453 1:23:29/334,Y/118,2 1129,
+1022,1:46:35,Kathleen Green-Barbour,Santa Cruz CA,34,F,Open/454 1:29:35/463,R/151,8 1862,
+1023,1:46:37,Judson Clark,San Luis Obispo CA 32 M,Open/455,1:22:37/313,Z/110,1 1269,,
+1024,1:46:41,Candace McDonald,Castro Valley CA,22,F,Open/456 1:29:41/467,R/152,8 1765,
+1025,1:46:45,James Austin,San Francisco CA,35,M,Open/457 1:22:45/317,Z/111,1 1126,
+1027,1:46:48,Dan Reid,San Francisco CA,24,M,Open/459 1:21:48/298,S/49,0 1147,
+1026,1:46:48,Nina Creedman,San Francisco CA,26,F,Open/458 1:29:48/470,R/153,8 1550,
+1028,1:46:50,Donald Bordenave,Concord CA,46,M,Open/460 1:25:50/378,W/73,4 1310,
+1029,1:46:53,Richard Schmotter,Tiburon CA,58,M,Open/461 1:32:53/517,N/30,11 1018,
+1030,1:47:02,Martin Yee,Redwood City CA,41,M,Open/462 1:24:02/349,Y/119,2 1208,
+1031,1:47:04,Bruce Campbell,Big Sur CA,40,M,Open/463 1:24:04/353,Y/120,2 1718,
+1032,1:47:05,Nancy Polsky,Kentfield CA,46,F,Open/464 1:34:05/540,M/54,12 1844,
+1033,1:47:14,Will Whalen,Larkspur CA,30,M,Open/465 1:22:14/306,S/50,0 1289,
+1034,1:47:17,Tom Wichelmann,Santa Cruz CA,62,M,Open/466 1:36:17/577,K/16,14 1330,
+1035,1:47:18,Marguerite Elliot,Ross CA,54,F,Open/467 1:37:18/590,J/14,15 1074,
+1036,1:47:23,Andrew Schwartz,Mill Valley CA,49,M,Open/468 1:27:23/411,V/54,5 1466,
+1037,1:47:26,Heather Anttila,Mill Valley CA,47,F,Open/469 1:34:26/546,M/55,12 1130,
+1038,1:47:28,Donnie Pereira,S. Lake Tahoe CA,46,M,Open/470 1:26:28/395,W/75,4 1922,
+1039,1:47:32,Lizanne Suter,San Francisco CA,46,F,Open/471 1:34:32/549,M/56,12 1589,
+1040,1:47:34,Michelle Johnston,Fairfax Ca,39,F,Open/472 1:30:34/482,R/154,8 1755,
+1041,1:47:43,John Stauffer,San Francisco CA,51,M,Open/473 1:28:43/444,U/36,6 1600,
+1042,1:47:47,Sisi Damner,Ross CA,57,F,Open/474 1:40:47/633,F/10,18 1088,
+1044,1:47:51,Frederick Flowers,Orinda CA,68,M,Open/476 1:41:51/645,E/6,19 1273,
+1043,1:47:51,Rick Hetzel,Los Angeles CA,43,M,Open/475 1:25:51/380,X/92,3 1698,
+1045,1:48:03,Steven Israel,Orinda CA,62,M,Open/477 1:37:03/587,K/17,14 1384,
+1046,1:48:04,Edward Sherman,Rohnert Park CA,51,M,Open/478 1:29:04/452,U/37,6 1178,
+1047,1:48:04,Laurie Stoumen,Sebastopol CA,50,F,Open/479 1:35:04/558,M/57,12 1251,
+1048,1:48:07,Alan Husby,Everett WA,48,M,Open/480 1:28:07/429,V/55,5 1719,
+1049,1:48:08,Eric Follestad,Greenbrae CA,30,M,Open/481 1:23:08/326,S/51,0 1312,
+1051,1:48:10,Alan Burnett,South San Francisc 58 M,Open/483,1:34:10/541,N/31,11 1823,,
+1050,1:48:10,Charlie Edwards,San Francisco CA,12,M,Open/482 1:30:10/476,T/43,7 1626,
+1052,1:48:12,Fred Howes,San Anselmo CA,48,M,Open/484 1:28:12/430,V/56,5 1713,
+1053,1:48:21,Robyn Bender,Washington DC,33,F,Open/485 1:31:21/496,R/155,8 1832,
+1054,1:48:31,Timothy Dixon,Mill Valley CA,35,M,Open/486 1:24:31/361,Z/113,1 1105,
+1055,1:48:34,James Waters,Pacifica CA,56,M,Open/487 1:32:34/512,Q/46,9 1848,
+1056,1:48:37,Kathy Colletto,Cool CA,61,F,Open/488 1:45:37/671,B/4,22 1227,
+1057,1:48:42,Kim Crossley,Moraga CA,43,F,Open/489 1:33:42/534,P/61,10 1383,
+1058,1:48:47,Brian Salmon,Mill Valley CA,10,M,Open/490 1:33:47/535,P/62,10 1234,
+1059,1:48:47,Katharina Simkins,San Rafael CA,22,F,Open/491 1:31:47/503,R/156,8 1623,
+1060,1:48:50,Elizabeth Salmon,Mill Valley CA,43,F,Open/492 1:33:50/536,P/63,10 1236,
+1061,1:49:05,Carlos Preciado,Novato CA,30,M,Open/493 1:24:05/354,S/52,0 1230,
+1062,1:49:10,Al Dossa,Hillsborough CA,64,M,Open/494 1:39:10/610,J/15,15 1320,
+1063,1:49:12,Derik Anderson,San Rafael CA,35,M,Open/495 1:25:12/369,Z/114,1 1404,
+1064,1:49:14,Bob Bertram,Mill Valley CA,43,M,Open/496 1:27:14/408,X/94,3 1695,
+1065,1:49:19,Rafael Rodriguez,San Rafael CA,28,M,Open/497 1:24:19/358,S/53,0 1514,
+1066,1:49:20,Bill Haddon,Corte Madera CA,61,M,Open/498 1:37:20/591,L/20,13 1014,
+1067,1:49:21,Jonathan Rutchik,Mill Valley CA,39,M,Open/499 1:26:21/393,Y/122,2 1175,
+1068,1:49:22,Timothy Moran,Ross CA,43,M,Open/500 1:27:22/410,X/96,3 1919,
+1069,1:49:28,Erland Jensen,Mill Valley CA,61,M,Open/501 1:37:28/593,L/21,13 1001,
+1070,1:49:29,Rick Ferm,Mill Valley CA,44,M,Open/502 1:27:29/415,X/97,3 1324,
+1071,1:49:34,Thomas Bliska,Mill Valley CA,49,M,Open/503 1:29:34/461,V/57,5 1327,
+1072,1:49:41,Lorna Stevens,Ross CA,50,F,Open/504 1:36:41/579,M/58,12 1090,
+1073,1:49:43,Paul Marotto,Larkspur CA,51,M,Open/505 1:30:43/485,U/38,6 1575,
+1074,1:49:45,Richard Wootton,San Rafael CA,48,M,Open/506 1:29:45/468,V/58,5 1039,
+1075,1:49:45,Alan Weber,Mill Valley CA,65,M,Open/507 1:39:45/619,J/16,15 1061,
+1076,1:49:46,Ross Talmage,San Rafael CA,16,M,Open/508 1:27:46/421,X/98,3 1041,
+1077,1:49:46,Clark Callander,San Francisco CA,44,M,Open/509 1:27:46/422,X/99,3 1564,
+1078,1:49:48,Dave Cady,Danville CA,40,M,Open/510 1:26:48/399,Y/123,2 1397,
+1079,1:49:51,Keli Honsberger,San Rafael CA,36,F,Open/511 1:32:51/516,R/157,8 1619,
+1080,1:49:55,Linda Dunne,Mill Valley CA,37,F,Open/512 1:32:55/518,R/158,8 1786,
+1082,1:49:59,Simone Lassi,Mill Valley CA,45,F,Open/514 1:36:59/585,M/59,12 1093,
+1081,1:49:59,John Newman,San Rafael CA,49,M,Open/513 1:29:59/473,V/59,5 1153,
+1083,1:50:03,Marina Ortega,Burlingame CA,37,F,Open/515 1:33:03/521,R/159,8 1609,
+1084,1:50:06,Amanda Dillon,Antioch Ca,24,F,Open/516 1:33:06/522,R/160,8 1927,
+1085,1:50:08,Loren Snell,Fair Oaks CA,49,M,Open/517 1:30:08/475,V/60,5 1354,
+1086,1:50:10,Erik Sherley,Novato CA,41,M,Open/518 1:27:10/406,Y/124,2 1443,
+1087,1:50:11,Laura Campbell,San Francisco CA,35,F,Open/519 1:33:11/525,R/161,8 1233,
+1088,1:50:13,Charles Evans Jr.,Ross CA,61,M,Open/520 1:38:13/599,L/22,13 1045,
+1089,1:50:16,Larry Anderson,San Rafael CA,62,M,Open/521 1:39:16/613,K/18,14 1318,
+1090,1:50:18,Heidi Halsted,Mill Valley CA,10,F,Open/522 1:41:18/638,H/4,16 1335,
+1091,1:50:19,Reinhold Ullrich,Rolling Hills CA,76,M,Open/523 1:48:19/690,A/11,23 1598,
+1092,1:50:21,Julie Sheridan,Oakland CA,29,F,Open/524 1:33:21/527,R/162,8 1244,
+1093,1:50:22,Leigh Henman,Ross CA,43,F,Open/525 1:35:22/562,P/64,10 1290,
+1094,1:50:24,Thomas Hannigan,Fairfield CA,63,M,Open/526 1:40:24/629,J/17,15 1836,
+1095,1:50:27,Ellen Spring,Thomaston ME,50,F,Open/527 1:37:27/592,M/60,12 1652,
+1096,1:50:40,Jeremy Littman,Novato CA,50,M,Open/528 1:31:40/500,U/39,6 1876,
+1097,1:50:41,Chet Bauerle,Santa Cruz CA,18,M,Open/529 1:26:41/396,Z/115,1 1633,
+1098,1:50:44,Malcolm Singer,Las Vegas NV,62,M,Open/530 1:39:44/618,K/19,14 1406,
+1099,1:50:47,Scott Halsted,Mill Valley CA,43,M,Open/531 1:28:47/446,X/100,3 1574,
+1100,1:50:49,David Spencer,Beverly Hills CA,43,M,Open/532 1:28:49/447,X/101,3 1371,
+1101,1:50:50,Alison Howard,Mill Valley CA,41,F,Open/533 1:35:50/570,P/65,10 1264,
+1102,1:50:57,Frank Markowitz,San Mateo CA,46,M,Open/534 1:29:57/471,W/76,4 1896,
+1103,1:50:58,Robert Briggs,Los Angeles CA,34,M,Open/535 1:26:58/401,Z/116,1 1128,
+1104,1:50:59,Robert Hemstock,Mill Valley CA,55,M,Open/536 1:33:59/538,R/163,8 1295,
+1105,1:51:02,Bob Mercer,Mill Valley CA,43,M,Open/537 1:29:02/451,X/102,3 1032,
+1106,1:51:04,Dana Slavik,San Anselmo CA,40,M,Open/538 1:28:04/427,Y/126,2 1102,
+1107,1:51:06,Jack Van Horn,San Rafael CA,57,M,Open/539 1:36:06/573,P/66,10 1730,
+1108,1:51:21,Mercedes Escobedo,San Rafael CA,58,F,Open/540 1:45:21/669,E/7,19 1228,
+1109,1:51:25,Suzanne Calmels,Novato CA,52,F,Open/541 1:39:25/614,L/23,13 1824,
+1110,1:51:26,Kenneth Fischer,Morago CA,56,M,Open/542 1:35:26/563,Q/47,9 1352,
+1113,1:51:38,Greg Fernbacher,Orinda CA,41,M,Open/543 1:28:38/442,Y/127,2 1387,
+1111,1:51:38,Harry Cordellos,72 m,Invitational/569,2:14:38/571,A/19,23,697,
+1112,1:51:38,Michael Pechner,Cordelia CA,56,M,Invitational/570 2:14:38/572,A/20,23,639
+1114,1:51:45,Jacqui Boland,Tiburon CA,35,F,Open/544 1:34:45/551,R/164,8 1732,
+1115,1:51:46,Peter Mandell,San Francisco CA,51,M,Open/545 1:32:46/515,U/40,6 1907,
+1116,1:51:46,Shubie Gulati,Greenbrae CA,38,F,Open/546 1:34:46/553,R/165,8 1776,
+1117,1:51:47,Matthew Spence,Mill Valley CA,35,M,Open/547 1:27:47/423,Z/117,1 1217,
+1118,1:51:54,Bridgette Grillo,Novato CA,15,F,Open/548 1:36:54/584,P/68,10 1722,
+1119,1:51:55,Alex Dunne,Mill Valley CA,35,M,Open/549 1:27:55/425,Z/118,1 1784,
+1120,1:52:06,James High,Davis Ca,30,M,Open/550 1:27:06/404,S/54,0 1214,
+1121,1:52:09,Ellie Heckscher,San Rafael CA,28,F,Open/551 1:35:09/559,R/166,8 1350,
+1122,1:52:11,Bob Agazzi,Walnut Creek CA,52,M,Open/552 1:34:11/542,T/44,7 1038,
+1123,1:52:13,Michael Muldoon,Mill Valley CA,42,M,Open/553 1:30:13/477,X/103,3 1442,
+1124,1:52:15,Clifford Skinner,San Rafael CA,49,M,Open/554 1:32:15/509,V/61,5 1647,
+1125,1:52:16,Howard Gillis,Mill Valley CA,52,M,Open/555 1:34:16/543,T/45,7 1374,
+1126,1:52:18,Mike Daly,Reno NV,50,M,Open/556 1:33:18/526,U/41,6 1887,
+1127,1:52:19,Gerald Freedman,Mill Valley CA,62,M,Open/557 1:41:19/639,K/20,14 1118,
+1128,1:52:24,Aaron Fausone,Petaluma CA,40,M,Open/558 1:29:24/458,Y/128,2 1111,
+1130,1:52:26,Brian Crosby,So. San Francisco,27,M,Open/560 1:27:26/414,S/55,0 1894,
+1129,1:52:26,John Salmanowitz,Tiburon CA,51,M,Open/559 1:33:26/530,U/42,6 1649,
+1131,1:52:27,Keli Niemi,Modesto CA,24,F,Open/561 1:35:27/564,R/167,8 1747,
+1132,1:52:28,Dawn Niceler,San Rafael CA,34,F,Open/562 1:35:28/565,R/168,8 1405,
+1133,1:52:29,Amnon Goodman,San Francisco CA,51,M,Open/563 1:33:29/531,U/43,6 1285,
+1134,1:52:30,Molly Makrogianis,San Francisco CA,27,F,Open/564 1:35:30/566,R/169,8 1727,
+1135,1:52:31,Jamie Radcliff,Novato CA,45,F,Open/565 1:39:31/615,M/61,12 1483,
+1136,1:52:35,Georgianna Farren,Larkspur CA,53,F,Open/566 1:41:35/642,K/21,14 1653,
+1137,1:52:36,David Gartner,San Francisco CA,32,M,Open/567 1:28:36/440,Z/119,1 1769,
+1138,1:52:37,Jennifer Bailard,San Carlos CA,15,F,Open/568 1:37:37/594,P/69,10 1215,
+1139,1:52:37,Janet Rogers,Walnut Creek CA,46,F,Open/569 1:39:37/616,M/62,12 1002,
+1141,1:52:38,Chuck Louden,San Francisco CA,41,M,Open/571 1:29:38/465,Y/129,2 1067,
+1140,1:52:38,Carlton Fisher,San Francisco CA,12,M,Open/570 1:34:38/550,T/46,7 1869,
+1142,1:52:40,Ann Loving,Fair Oaks CA,40,F,Open/572 1:36:40/578,Q/48,9 1491,
+1144,1:52:41,Denis Huston,Orinda CA,43,M,Open/574 1:30:41/484,X/104,3 1359,
+1143,1:52:41,Michael Niemi,Modesto CA,50,M,Open/573 1:33:41/533,U/44,6 1748,
+1145,1:52:43,Thomas Maguire,San Rafael CA,67,M,Open/575 1:45:43/674,F/11,18 1854,
+1146,1:52:45,Erica Greulich,Berkeley CA,27,F,Open/576 1:35:45/568,R/170,8 1121,
+1147,1:52:49,Mary Tierney,Mill Valley CA,38,F,Open/577 1:35:49/569,R/171,8 1072,
+1148,1:52:52,Jon Nakamura,San Rafael CA,46,M,Open/578 1:31:52/505,W/77,4 1125,
+1150,1:52:57,Jane Prosperi,Fairfax VA,41,F,Open/580 1:37:57/597,P/70,10 1628,
+1149,1:52:57,Cheryl Palen,Tucson AZ,49,F,Open/579 1:39:57/624,M/63,12 1778,
+1151,1:52:58,Mary Husby,Everett WA,45,F,Open/581 1:39:58/625,M/64,12 1687,
+1152,1:53:00,Joe McBride,San Rafael CA,50,M,Open/582 1:34:00/539,U/45,6 1015,
+1153,1:53:01,Bonnie Harvey,Phoenix AZ,56,F,Open/583 1:45:01/666,G/10,17 1750,
+1154,1:53:02,David Camp,Campbell CA,43,M,Open/584 1:31:02/490,X/105,3 1900,
+1155,1:53:03,John Blecka,San Rafael CA,49,M,Open/585 1:33:03/520,V/62,5 1451,
+1156,1:53:04,Max Nichols,Mill Valley CA,11,M,Open/586 1:36:04/572,R/172,8 1424,
+1158,1:53:07,Stephen Lyons,Quentin Vill. CA,62,M,Invitational/571 2:07:07/570,K/26,14,19
+1157,1:53:07,Billie Post,Quentin Village Ca 50 F,Invitational/572,2:05:07/569,M/83,12,683,
+1159,1:53:08,Michael Coffee,Tiburon CA,57,M,Open/587 1:38:08/598,P/71,10 1182,
+1160,1:53:08,Skip Smith,Tiburon CA,55,M,Open/588 1:36:08/574,R/173,8 1194,
+1161,1:53:10,Richard Albright,San Francisco CA,36,M,Open/589 1:29:10/456,Z/120,1 1087,
+1162,1:53:18,Karla Gamboa,Mill Valley CA,46,F,Open/590 1:40:18/628,M/65,12 1485,
+1163,1:53:19,Eric Henerlau,Corte Madera CA,43,M,Open/591 1:31:19/495,X/106,3 1031,
+1164,1:53:22,Jay Cleland,Tiburon CA,49,M,Open/592 1:33:22/528,V/63,5 1458,
+1165,1:53:25,Mike Grinnell,Tiburon CA,48,M,Open/593 1:33:25/529,V/64,5 1192,
+1166,1:53:34,Bruce Magnuson,Lake Oswego OR,47,M,Open/594 1:32:34/511,W/78,4 1809,
+1167,1:53:36,Lynne Stevens,Berkeley CA,57,F,Open/595 1:46:36/682,F/12,18 1506,
+1168,1:53:39,Cullyn Vaeth,Mill Valley CA,43,F,Open/596 1:38:39/606,P/72,10 1305,
+1169,1:53:44,Rebecca Sanchez,Alameda CA,29,F,Open/597 1:36:44/580,R/174,8 1679,
+1170,1:53:48,Celest Krepack,Mill Valley CA,44,F,Open/598 1:39:48/621,N/33,11 1501,
+1171,1:53:50,Dennis Hassler,San Rafael CA,69,M,Open/599 1:48:50/695,D/6,20 1710,
+1172,1:53:51,William Rollinson,Saratoga CA,43,M,Open/600 1:31:51/504,X/107,3 1630,
+1173,1:53:53,Kathy Mindham,Greenbrae CA,42,F,Open/601 1:38:53/608,P/73,10 1079,
+1174,1:53:54,John Garratt,San Rafael CA,59,M,Open/602 1:39:54/623,N/34,11 1582,
+1175,1:53:55,Michael Brown,Mill Valley CA,51,M,Open/603 1:34:55/556,U/46,6 1731,
+1176,1:54:03,Nancy Troxa,Walnut Creek CA,65,F,Open/604 1:52:03/711,A/14,23 1386,
+1177,1:54:06,Mel Ziegler,Mill Valley CA,58,M,Open/605 1:40:06/626,N/35,11 1480,
+1178,1:54:10,Sandra Caldwell,Orinda CA,67,F,Open/606 1:52:10/712,A/15,23 1361,
+1180,1:54:15,Elizabeth Huntington,San Anselmo CA,37,F,Open/607 1:37:15/589,R/175,8 1881,
+1181,1:54:15,John Morken,Larkspur CA,39,M,Open/608 1:31:15/493,Y/130,2 1735,
+1179,1:54:15,Frankie Musco,San Jose CA,53,M,Open/609 1:36:15/576,T/47,7 1617,
+1182,1:54:27,Brian Harms,Mill Valley CA,34,M,Open/610 1:30:27/478,Z/121,1 1265,
+1183,1:54:32,Eric Parks,Mill Valley CA,48,M,Open/611 1:34:32/548,V/65,5 1853,
+1184,1:54:35,Elizabeth Tighe,Sausalito CA,60,F,Open/612 1:50:35/702,C/7,21 1151,
+1185,1:54:39,Christopher Nelson,St. Louis Park MN,39,M,Open/613 1:31:39/499,Y/131,2 1621,
+1186,1:54:43,Ronald Gilson,San Francisco CA,56,M,Open/614 1:38:43/607,Q/49,9 1571,
+1187,1:54:49,Chris Valentino,Novato CA,48,M,Open/615 1:34:49/554,V/66,5 1137,
+1188,1:55:00,Fred Morfit,San Anselmo CA,52,M,Open/616 1:37:00/586,T/48,7 1388,
+1189,1:55:16,Mary Donohoe,San Francisco CA,25,F,Open/617 1:38:16/600,R/176,8 1655,
+1190,1:55:36,Michelle Melrose-Brown,San Anselmo Ca,33,F,Open/618 1:38:36/605,R/177,8 1503,
+1191,1:55:47,John Casey,Sacramento CA,36,M,Open/619 1:31:47/502,Z/122,1 1661,
+1192,1:55:51,Bean Anderson,San Francisco CA,51,M,Open/620 1:36:51/583,U/47,6 1449,
+1194,1:55:54,Jack Newman,San Rafael CA,16,M,Open/622 1:33:54/537,X/108,3 1154,
+1193,1:55:54,Lisa Newman,San Rafael CA,47,F,Open/621 1:42:54/650,M/66,12 1152,
+1195,1:55:56,Toby Silver,San Francisco CA,36,M,Open/623 1:31:56/506,Z/123,1 1851,
+1196,1:56:06,Karen Sturges,Orinda CA,53,F,Open/624 1:45:06/667,K/22,14 1395,
+1197,1:56:34,Jackie Horwitz,Orinda CA,66,F,Open/625 1:54:34/720,A/16,23 1353,
+1198,1:56:40,Michael Schmitz,Alameda Ca,40,M,Open/626 1:33:40/532,Y/132,2 1931,
+1199,1:56:46,Lee Manter,Alameda CA,49,M,Open/628 1:36:46/581,V/67,5 1599,
+1201,1:56:46,Michael Chrisman,Corte Madera CA,34,M,Open/629 1:32:46/514,Z/124,1 1639,
+1200,1:56:46,Colleen Bourque,Emeryville CA,22,F,Open/627 1:39:46/620,R/178,8 1799,
+1202,1:56:50,David Catzel,Greenbrae CA,49,M,Open/630 1:36:50/582,V/68,5 1161,
+1203,1:56:52,Ali Nakhai,Eugene OR,56,M,Open/631 1:40:52/634,Q/50,9 1768,
+1204,1:57:00,Philip Graumand,Mill Valley CA,12,M,Open/632 1:39:00/609,T/50,7 1686,
+1205,1:57:06,Greg Walsh,Mill Valley CA,27,M,Open/633 1:32:06/507,S/56,0 1241,
+1206,1:57:07,Sarah McDonald,Pleasant Hill CA,27,F,Open/634 1:40:07/627,R/179,8 1586,
+1207,1:57:10,Steven Mear,Austin TX,34,M,Open/635 1:33:10/524,Z/125,1 1662,
+1208,1:57:11,Deidre Wilson,Sacramento CA,46,F,Open/636 1:44:11/657,M/67,12 1650,
+1209,1:57:14,Cecilia Schultz,Ross CA,13,F,Open/637 1:43:14/653,N/37,11 1903,
+1210,1:57:15,Suzanne Suwanda,Fairfax CA,48,F,Open/638 1:44:15/659,M/68,12 1291,
+1211,1:57:21,Guido Zito,Corte Madera CA,62,M,Open/639 1:46:21/680,K/23,14 1756,
+1212,1:57:27,MJ Jobrack-Sweeney,San Rafael CA,13,M,Open/640 1:38:27/603,U/48,6 1452,
+1213,1:57:29,Holly Shear,Mill Valley CA,50,F,Open/641 1:44:29/663,M/69,12 1484,
+1214,1:57:37,Glen Weirick,San Rafael CA,48,M,Open/642 1:37:37/595,V/69,5 1148,
+1215,1:57:42,Mark Panetta,Berwyn PA,42,M,Open/643 1:35:42/567,X/109,3 1846,
+1216,1:57:44,Jeanie Sheridan,Danville CA,55,F,Open/644 1:48:44/693,H/5,16 1261,
+1217,1:57:45,John O'Neal,Moraga CA,54,M,Open/645 1:40:45/632,R/181,8 1362,
+1218,1:57:57,Alexandra Teipel,Kentfield CA,30,F,Open/646 1:40:57/635,R/182,8 1594,
+1219,1:57:57,W. Alex Teipel,Kentfield CA,60,M,Open/647 1:44:57/665,M/70,12 1595,
+1220,1:57:58,Joanna Goff,Redwood City CA,25,F,Open/648 1:40:58/636,R/183,8 1654,
+1221,1:58:08,Hugh Kuhn,Mill Valley CA,46,M,Open/649 1:37:08/588,W/79,4 1185,
+1222,1:58:10,Matt Miller,Mill Valley CA,39,M,Open/650 1:35:10/560,Y/133,2 1313,
+1223,1:58:14,Fred Ptucha,Santa Rosa CA,59,M,Open/651 1:44:14/658,N/38,11 1275,
+1224,1:58:19,Amir Garrison,Corte Madera CA,63,M,Open/652 1:48:19/689,J/18,15 1447,
+1225,1:58:32,Julie Rosenberg,Mill Valley CA,34,F,Open/653 1:41:32/641,R/184,8 1323,
+1226,1:58:35,Allan Sproul,Healdsburg CA,52,M,Open/654 1:40:35/631,T/51,7 1315,
+1227,1:58:51,Stanton Orser,Mill Valley CA,73,M,Open/655 1:56:51/727,A/17,23 1779,
+1228,1:58:52,James Smith,Mill Valley CA,50,M,Open/657 1:39:52/622,U/49,6 1322,
+1229,1:58:52,Hal Russek,San Anselmo CA,47,M,Open/656 1:37:52/596,W/80,4 1298,
+1230,1:58:59,David Schmitz,San Anselmo CA,38,M,Open/658 1:35:59/571,Y/134,2 1914,
+1231,1:59:01,Richard Buckley,Mill Valley CA,56,M,Open/659 1:43:01/652,Q/51,9 1307,
+1232,1:59:22,Justin Gooding,Del Mar CA,37,M,Open/660 1:35:22/561,Z/126,1 1011,
+1233,1:59:39,Otis McCain,Lafayette CA,68,M,Open/661 1:53:39/718,E/8,19 1358,
+1234,1:59:45,Deborah Kochan,Kensington CA,44,F,Open/662 1:45:45/676,N/39,11 1110,
+1235,1:59:45,Stefanie Jordan,Sonoma CA,30,F,Open/663 1:42:45/649,R/185,8 1905,
+1236,1:59:46,Barry Schenbaum,Mill Valley CA,53,M,Open/664 1:41:46/644,T/52,7 1556,
+1237,2:00:08,Peter Berry,Oakland CA,36,M,Open/665 1:36:08/575,Z/127,1 1010,
+1238,2:00:22,Clover Lee,Mill Valley CA,17,F,Open/666 1:44:22/661,Q/52,9 1226,
+1239,2:00:27,Caroline Spinrad,Kentfield CA,41,F,Open/667 1:45:27/670,P/75,10 1539,
+1240,2:00:30,Billy Clarkson,Kansas City MO,16,M,Open/668 1:38:30/604,X/110,3 1932,
+1241,2:00:35,Misty Gaswint,So. Lake Tahoe CA,48,F,Open/669 1:47:35/688,M/71,12 1841,
+1242,2:00:56,Jamie Dillon,San Anselmo CA,29,F,Open/670 1:43:56/654,R/186,8 1096,
+1243,2:00:56,Melissa Frowd,Novato CA,24,F,Open/671 1:43:56/655,R/187,8 1535,
+1244,2:01:20,Zohra Ziani,San Rafael CA,24,F,Open/672 1:44:20/660,R/188,8 1534,
+1245,2:01:31,Margie Smith,Kentfield CA,45,F,Open/673 1:48:31/692,M/72,12 1309,
+1246,2:01:33,Stephen Padilla,Seal Beach CA,45,M,Open/674 1:40:33/630,W/81,4 1644,
+1247,2:02:05,Fernando Ulloa,Mill Valley CA,52,M,Open/675 1:44:05/656,T/53,7 1240,
+1248,2:02:17,Geoffrey Flint,Mill Valley CA,31,M,Open/676 1:38:17/601,Z/128,1 1793,
+1250,2:02:23,Jesse Apperson,Novato CA,48,M,Open/678 1:42:23/648,V/70,5 1490,
+1249,2:02:23,Leslie Apperson,Novato CA,10,F,Open/677 1:53:23/716,H/6,16 1493,
+1251,2:02:28,Patricia Boucos,Pheonix AZ,55,F,Open/679 1:53:28/717,H/7,16 1763,
+1252,2:02:39,Heidi Carman,Tiburon CA,38,F,Open/680 1:45:39/672,R/189,8 1297,
+1254,2:02:43,Robin Simkins,Chicago IL,34,F,Open/682 1:45:43/675,R/190,8 1884,
+1253,2:02:43,Mackenzie Nickels,San Rafael CA,12,F,Open/681 1:49:43/698,M/73,12 1329,
+1255,2:02:54,Hyo Kim,Alamo CA,53,M,Open/683 1:44:54/664,T/54,7 1117,
+1256,2:02:58,Griffin Edwards,San Francisco CA,14,F,Open/684 1:48:58/696,N/40,11 1625,
+1257,2:02:59,Sam Bruce,Durham NC,48,M,Open/685 1:42:59/651,V/71,5 1811,
+1258,2:03:11,Keely Pereira,S. Lake Tahoe CA,12,F,Open/686 1:50:11/700,M/74,12 1923,
+1259,2:03:16,Scott Stranzl,Novato CA,35,M,Open/687 1:39:16/612,Z/129,1 1814,
+1260,2:03:21,James Oddson,Sunnyvale CA,28,M,Open/688 1:38:21/602,S/57,0 1431,
+1261,2:03:24,Brett Smith,Kentfield CA,13,M,Open/689 1:44:24/662,U/50,6 1816,
+1262,2:03:26,Tom Daly,Greenbrae CA,60,M,Open/690 1:50:26/701,M/75,12 1888,
+1263,2:03:29,Atlas Toombs-Tanguay,San Anselmo CA,10,M,Open/691 1:48:29/691,P/76,10 1437,
+1264,2:03:34,Brennan Bertram,Mill Valley CA,11,M,Open/692 1:46:34/681,R/191,8 1696,
+1265,2:03:35,Sharon Fox,San Rafael CA,47,F,Open/693 1:50:35/703,M/76,12 1692,
+1266,2:03:41,Merle Meyers,Mill Valley CA,52,M,Open/694 1:45:41/673,T/55,7 1581,
+1267,2:03:51,Peggy Semling,San Rafael CA,37,F,Open/695 1:46:51/683,R/192,8 1496,
+1268,2:03:51,Monica Petrucela,San Rafael CA,37,F,Open/696 1:46:51/684,R/193,8 1263,
+1269,2:03:53,Becky Steere,Mill Valley CA,45,F,Open/697 1:50:53/704,M/77,12 1803,
+1270,2:03:54,Cooper Parkerson,Mill Valley CA,11,M,Open/698 1:46:54/685,R/194,8 1412,
+1271,2:03:55,Nolan Mattox,Mill Valley Ca,12,M,Open/699 1:45:55/678,T/56,7 1223,
+1272,2:04:09,Joan Evans,Woodacre CA,59,F,Open/700 1:59:09/730,D/7,20 1259,
+1273,2:04:10,Ronnie La Dow,Sebastopol CA,65,F,Open/701 2:02:10/735,A/18,23 1267,
+1274,2:04:11,Gabrielle Pereira,S. Lake Tahoe CA,47,F,Open/702 1:51:11/707,M/78,12 1921,
+1275,2:04:12,Gerardo Navarro,San Rafael CA,27,M,Open/703 1:39:12/611,S/58,0 1795,
+1276,2:04:15,Dave McLaughlin,Millbrae CA,42,M,Open/704 1:42:15/647,X/111,3 1895,
+1277,2:04:16,Atoosa Rezai,San Francisco CA,37,F,Open/705 1:47:16/686,R/195,8 1281,
+1278,2:04:48,Angela Rafner,Kentfield CA,40,F,Open/706 1:48:48/694,Q/54,9 1008,
+1279,2:04:52,Christopher Warner,San Anselmo CA,51,M,Open/707 1:45:52/677,U/51,6 1561,
+1280,2:04:57,Lorna Newlin,Sausalito CA,46,F,Open/708 1:51:57/710,M/79,12 1120,
+1281,2:05:12,Kendal Smeeth,Moraga CA,53,F,Open/709 1:54:12/719,K/24,14 1357,
+1282,2:05:13,Juan Juavez,Albany CA,36,M,Open/710 1:41:13/637,Z/130,1 1543,
+1283,2:05:47,Peter Sheaff,Moraga CA,68,M,Open/711 1:59:47/731,E/9,19 1377,
+1284,2:06:03,Donald Army,San Rafael CA,32,M,Open/712 1:42:03/646,Z/131,1 1584,
+1285,2:06:21,Colleen Fox,Lockwood CA,49,F,Open/713 1:53:21/715,M/80,12 1548,
+1286,2:06:40,Lisa Anderson,Santa Rosa CA,35,F,Open/714 1:49:40/697,R/196,8 1252,
+1287,2:06:46,Trine Miller,San Anselmo CA,33,F,Open/715 1:49:46/699,R/197,8 1805,
+1288,2:06:55,Gary Oefinger,Petaluma CA,45,M,Open/716 1:45:55/679,W/83,4 1737,
+1289,2:07:18,Thomas Steere,Mill Valley CA,43,M,Open/718 1:45:18/668,X/113,3 1804,
+1290,2:07:18,McKenna Steere,Mill Valley CA,14,F,Open/717 1:53:18/714,N/41,11 1802,
+1291,2:07:33,Stephen Granat,San Rafael CA,62,M,Open/719 1:56:33/726,K/25,14 1860,
+1292,2:07:35,Bonnie Sullivan,Stinson Beach CA,50,F,Open/720 1:54:35/721,M/81,12 1378,
+1293,2:08:05,Laura Moran,Ross CA,39,F,Open/721 1:51:05/706,R/198,8 1920,
+1294,2:08:21,Megan Purtill,Moraga CA,35,F,Open/722 1:51:21/708,R/199,8 1624,
+1295,2:08:32,Jeffrey Miller,San Rafael CA,47,M,Open/723 1:47:32/687,W/84,4 1268,
+1296,2:08:38,Diane Kargard,San Anselmo CA,37,F,Open/724 1:51:38/709,R/200,8 1095,
+1297,2:09:12,Roy Beauchamp,Mill Valley CA,60,M,Open/725 1:56:12/724,M/82,12 1643,
+1298,2:09:39,Katherine Merrill,Kensington CA,38,F,Open/726 1:52:39/713,R/201,8 1109,
+1299,2:11:07,Janet Riggio,Tiburon CA,58,F,Open/727 2:05:07/736,E/10,19 1364,
+1300,2:11:22,Joseph Grantham,Prairie Village KS 69 M,Open/728,2:06:22/738,D/8,20 1588,,
+1301,2:12:57,Andy Richards,Hillsborough CA,42,M,Open/729 1:50:57/705,X/114,3 1640,
+1302,2:13:10,"Patrick Magee, Sr.",San Francisco CA,61,M,Open/730 2:01:10/733,L/24,13 1414,
+1303,2:13:24,Jenny Lam,San Francisco CA,23,F,Open/731 1:56:24/725,R/202,8 1918,
+1304,2:15:53,John Maitox,Mill Valley CA,52,M,Open/732 1:57:53/728,T/57,7 1176,
+1305,2:15:54,Ross Parkerson,Mill Valley CA,46,M,Open/733 1:54:54/722,W/85,4 1411,
+1306,2:19:06,Gianfranco Giometti,San Francisco CA,33,M,Open/734 1:55:06/723,Z/132,1 1231,
+1307,2:20:51,John Rosenbaum,Tiburon CA,44,M,Open/735 1:58:51/729,X/115,3 1525,
+1308,2:22:34,Penni Gladstone,Mill Valley CA,50,F,Open/736 2:09:34/739,M/84,12 1711,
+1309,2:22:50,Richard Hynes,Greenbrae CA,66,M,Open/737 2:14:50/741,G/11,17 1319,
+1310,2:23:31,Bruce Martin,Valley Springs CA,42,M,Open/738 2:01:31/734,X/116,3 1100,
+1311,2:23:33,Annette Johnson,Somerset NJ,66,F,Open/739 2:21:33/744,A/21,23 1875,
+1312,2:23:47,Willie Sugay,San Francisco CA,34,M,Open/740 1:59:47/732,Z/133,1 1906,
+1313,2:25:36,Karen Bronstein,Corte Madera CA,40,F,Open/741 2:09:36/740,Q/56,9 1338,
+1314,2:30:39,David Rodriguez,San Rafael CA,25,M,Open/742 2:05:39/737,S/59,0 1331,
+1315,2:30:39,Bert Mann,Mill Valley CA,59,M,Open/743 2:16:39/742,N/42,11 1533,
+1316,2:32:35,Jane McCullough,Alameda CA,53,F,Open/744 2:21:35/745,K/27,14 1618,
+1317,2:35:29,Elena Navarro,San Rafael CA,28,F,Open/745 2:18:29/743,R/203,8 1794,
+1318,2:38:30,Richard Mollberg,Concord CA,62,M,Open/746 2:27:30/746,K/28,14 1396,
+1319,2:40:10,Mary Hirschfeld,Belvedere CA,65,F,Open/747 2:38:10/748,A/22,23 1132,
+1320,2:43:43,Cathy Plantenga,Pasadena CA,53,F,Open/748 2:32:43/747,K/29,14 1577,
+1321,4:15:00,Jamie Davis,Novato CA,34,M,Invitational/573 4:16:00/573,Z/134,1,586
+1322,4:20:00,Jack Kirk,Mariposa CA,96,M,Invitational/574 4:43:00/575,A/24,23,101
+1323,4:20:01,Ken Wilson,Fairfax CA,45,M,Invitational/575 4:24:01/574,W/86,4,619
+1324,4:40:00,Tony Stratta,San Francisco CA,73,M,Open/749 4:38:00/749,A/23,23 1547,

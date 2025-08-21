@@ -1,0 +1,1252 @@
+place_overall,name,clock_time,head_start,actual_time,time_place,race,race_place,age,sex,bib,group
+1,Megan McGowan,0:42:09,16,0:58:09,0,Invitational,-,10,F,1,G
+2,Shirley M Matson,0:43:22,16,0:59:22,0,Invitational,-,51,F,171,G
+3,Jim Bowers,0:46:32,8,0:54:32,0,Invitational,-,53,M,609,Q
+4,Joan H Ottaway,0:47:09,14,1:01:09,0,Invitational,-,48,F,654,J
+5,Mike G McManus,0:47:18,0,0:47:18,0,Invitational,-,26,M,3,S
+6,Eve Pell,0:47:22,19,1:06:22,0,Invitational,-,55,F,2,D
+7,Link Lindquist,0:47:27,17,1:04:27,0,Invitational,-,64,M,9,F
+8,Russ Kiernan,0:48:53,8,0:56:53,0,Invitational,-,54,M,105,Q
+9,Tim Minor,0:48:55,1,0:49:55,0,Invitational,-,34,M,4,Y
+10,Roger K Daniels,0:49:00,10,0:59:00,0,Invitational,-,56,M,7,N
+11,Robert J Malain,0:49:20,18,1:07:20,0,Invitational,-,65,M,8,E
+12,Guy V Palmer,0:50:19,1,0:51:19,0,Invitational,-,33,M,72,Y
+13,AnnaMarie K Hagans,0:50:25,8,0:58:25,0,Invitational,-,31,F,11,Q
+14,Leslie McMullin,0:50:27,10,1:00:27,0,Invitational,-,41,F,36,N
+15,Robert J Alexander,0:50:57,2,0:52:57,0,Invitational,-,39,M,20,X
+16,Robert G Dickinson,0:51:23,1,0:52:23,0,Invitational,-,35,M,18,Y
+17,Peter R Carter,0:51:30,6,0:57:30,0,Invitational,-,13,M,19,T
+18,Stephen P Lyons,0:51:37,6,0:57:37,0,Invitational,-,51,M,10,T
+19,Kelly Lawson,0:51:43,8,0:59:43,0,Invitational,-,31,F,111,Q
+20,Alec Isabeau,0:52:06,0,0:52:06,0,Invitational,-,30,M,34,S
+21,Christie B Pastalka,0:52:06,10,1:02:06,0,Invitational,-,44,F,22,N
+22,Bruce K Mace,0:52:10,1,0:53:10,0,Invitational,-,33,M,117,Y
+23,Ronald C Brown,0:52:11,2,0:54:11,0,Invitational,-,38,M,61,X
+24,Steve Ottaway,0:52:13,2,0:54:13,0,Invitational,-,39,M,655,X
+25,Bradford C Bryon,0:52:14,1,0:53:14,0,Invitational,-,34,M,25,Y
+26,Jon H Sargent,0:52:17,3,0:55:17,0,Invitational,-,16,M,28,W
+27,Alan B Reynolds,0:52:21,0,0:52:21,0,Invitational,-,28,M,161,S
+28,Steve Stephens,0:52:25,5,0:57:25,0,Invitational,-,48,M,51,U
+29,Lloyd Kahn,0:52:30,10,1:01:30,0,Invitational,-,57,M,21,N
+30,Darryl Beardall,0:52:38,9,1:01:38,0,Invitational,-,55,M,12,P
+31,Ken W Grace,0:52:46,1,0:53:46,0,Invitational,-,35,M,24,Y
+32,Butch Alexander,0:52:47,2,0:54:47,0,Invitational,-,38,M,29,X
+33,Don McCarthy,0:52:53,5,0:57:53,0,Invitational,-,48,M,35,U
+34,Kurt Ryan,0:52:55,1,0:53:55,0,Invitational,-,34,M,38,Y
+35,George A Frazier,0:53:00,4,0:57:00,0,Invitational,-,45,M,57,V
+36,Don S Pickett,0:53:03,17,1:10:03,0,Invitational,-,64,M,56,F
+37,John L Swyers,0:53:12,7,1:00:12,0,Invitational,-,52,M,23,R
+38,Kay Willoughby-Zeman,0:53:12,20,1:13:12,0,Invitational,-,56,F,6,C
+39,Richard U Laine,0:53:16,15,1:08:16,0,Invitational,-,62,M,16,H
+40,Mike J Lopez,0:53:19,1,0:54:19,0,Invitational,-,34,M,39,Y
+41,Michael D Hoy,0:53:33,6,0:59:33,0,Invitational,-,50,M,58,T
+42,Leroy T Kotchevar,0:53:49,2,0:55:49,0,Invitational,-,38,M,494,X
+43,Greg D Nacco,0:53:51,1,0:54:51,0,Invitational,-,32,M,17,Y
+44,Donn DeAngelo,0:53:59,4,0:57:59,0,Invitational,-,46,M,46,V
+45,Mark P Richtman,0:53:59,1,0:54:59,0,Invitational,-,37,M,225,Y
+46,Jim B Hampton,0:54:01,4,0:58:01,0,Invitational,-,45,M,563,V
+47,Daniel D Rusk,0:54:10,1,0:55:10,0,Invitational,-,32,M,486,Y
+48,Gary E Smith,0:54:15,1,0:55:15,0,Invitational,-,37,M,551,Y
+49,John C Burton,0:54:17,22,1:16:17,0,Invitational,-,69,M,659,A
+50,Morton J Gray,0:54:21,13,1:07:21,0,Invitational,-,60,M,280,K
+51,Paul G Skokowski,0:54:22,1,0:55:22,0,Invitational,-,36,M,42,Y
+52,Scott R Strait,0:54:23,1,0:55:23,0,Invitational,-,37,M,26,Y
+53,Edward E Domning,0:54:26,0,0:54:26,0,Invitational,-,30,M,558,S
+54,James J Williams,0:54:32,6,1:00:32,0,Invitational,-,51,M,64,T
+55,Richard R Clark,0:54:39,8,1:02:39,0,Invitational,-,53,M,342,Q
+56,Jennifer A Maxwell,0:54:41,8,1:02:41,0,Invitational,-,27,F,439,Q
+57,Robert E Hayden,0:54:44,2,0:56:44,0,Invitational,-,40,M,431,X
+58,Mike Santos,0:54:45,0,0:54:45,0,Invitational,-,27,M,62,S
+59,Everett C Riggle,0:54:48,12,1:06:48,0,Invitational,-,59,M,471,L
+60,Jeff B Stoots,0:54:51,5,0:59:51,0,Invitational,-,14,M,648,U
+61,John Q Cobourn,0:54:57,4,0:58:57,0,Invitational,-,45,M,14,V
+62,Edward Ferry,0:55:01,6,1:01:01,0,Invitational,-,50,M,69,T
+63,Bert C Johnson,0:55:10,5,1:00:10,0,Invitational,-,49,M,67,U
+64,Ann  E Hardham,0:55:13,15,1:10:13,0,Invitational,-,49,F,48,H
+65,Bruce M Linscott,0:55:16,1,0:56:16,0,Invitational,-,34,M,43,Y
+66,Robert McNelly,0:55:20,17,1:12:20,0,Invitational,-,64,M,66,F
+67,Joe Cosgrove,0:55:22,1,0:56:22,0,Invitational,-,31,M,544,Y
+68,Preston D Sitterly,0:55:25,3,0:58:25,0,Invitational,-,44,M,76,W
+69,Jerry D Lyerly,0:55:25,7,1:02:25,0,Invitational,-,52,M,468,R
+70,David R Hannaford,0:55:36,2,0:57:36,0,Invitational,-,41,M,52,X
+71,Robert Groff,0:55:43,8,1:03:43,0,Invitational,-,53,M,40,Q
+72,Robert B McLennan,0:55:45,3,0:58:45,0,Invitational,-,43,M,53,W
+73,Tom Lyons,0:55:46,0,0:55:46,0,Invitational,-,26,M,63,S
+74,Todd K Stevens,0:55:55,0,0:55:55,0,Invitational,-,20,M,90,S
+75,Geoff B Vaughan,0:55:59,0,0:55:59,0,Invitational,-,27,M,275,S
+76,Patricia M Story,0:56:01,10,1:06:01,0,Invitational,-,43,F,45,N
+77,James A Clever,0:56:09,10,1:06:09,0,Invitational,-,56,M,68,N
+78,Dave E Waco,0:56:13,12,1:08:13,0,Invitational,-,59,M,472,L
+79,Robert Eichstaedt,0:56:13,4,1:00:13,0,Invitational,-,45,M,163,V
+80,Hazel P Wood,0:56:26,10,1:06:26,0,Invitational,-,41,F,91,N
+81,Dimitris Sklavopoulos,0:56:31,4,1:00:31,0,Invitational,-,47,M,633,V
+82,Peter Franks,0:56:35,4,1:00:35,0,Invitational,-,46,M,405,V
+83,Eric Ellisen,0:56:38,1,0:57:38,0,Invitational,-,31,M,162,Y
+84,James L Clark,0:56:42,1,0:57:42,0,Invitational,-,35,M,199,Y
+85,Jamie Wendel (Rivers),"0:56,44",10,1:06:44,0,Invitational,-,41,F,54,N
+86,Wayne B Hinrichs,0:56:50,4,1:00:50,0,Invitational,-,45,M,433,V
+87,Bruce D Degan,0:56:55,5,1:01:55,0,Invitational,-,49,M,265,U
+88,Mark S Williams,0:57:00,2,0:59:00,0,Invitational,-,39,M,133,X
+89,Thomas Pastalka,0:57:10,4,1:01:10,0,Invitational,-,45,M,73,V
+90,Iain Mickle,0:57:11,1,0:58:11,0,Invitational,-,31,M,394,Y
+91,Stephen G Stafford,0:57:17,1,0:58:17,0,Invitational,-,31,M,94,Y
+92,James L Collins,0:57:20,18,1:15:20,0,Invitational,-,65,M,474,E
+93,Jim Meyers,0:57:21,3,1:00:21,0,Invitational,-,43,M,86,W
+94,Jim Furman,0:57:22,4,1:01:22,0,Invitational,-,45,M,99,V
+95,Peggy LaVelle,0:57:32,8,1:05:32,0,Invitational,-,31,F,699,Q
+96,Ronald W Evans,0:57:41,1,0:58:41,0,Invitational,-,33,M,349,Y
+97,Franklin D Ruona,0:57:46,4,1:01:46,0,Invitational,-,46,M,71,V
+98,Scott Cooper,0:57:48,1,0:58:48,0,Invitational,-,33,M,673,Y
+99,John P Lawson,0:57:49,1,0:58:49,0,Invitational,-,36,M,238,Y
+100,Martin Bielik,0:57:51,2,0:59:51,0,Invitational,-,39,M,391,X
+101,Larry D Snider,0:57:52,5,1:02:52,0,Invitational,-,49,M,289,U
+102,Edda B Stickle,0:57:52,15,1:12:52,0,Invitational,-,50,F,204,H
+103,Calvin E Mehlert,0:57:56,17,1:14:56,0,Invitational,-,64,M,500,F
+104,Leon C Souza,0:57:58,8,1:05:58,0,Invitational,-,53,M,286,Q
+105,Robert L Meckfessel,0:57:59,1,0:58:59,0,Invitational,-,33,M,74,Y
+106,Greg R Donson,0:58:00,0,0:58:00,0,Invitational,-,23,M,583,S
+107,Rick D Sylvester,0:58:00,6,1:04:00,0,Invitational,-,50,M,566,T
+108,Michael P Thomas,0:58:02,2,1:00:02,0,Invitational,-,39,M,450,X
+109,Dennis M Gawalik,0:58:04,1,0:59:04,0,Invitational,-,34,M,80,Y
+110,Jim O Goldsmith,0:58:05,11,1:09:05,0,Invitational,-,58,M,87,M
+111,Michael V MacKenzie,0:58:11,5,1:03:11,0,Invitational,-,48,M,100,U
+112,Deborah D Hannaford,0:58:16,9,1:07:16,0,Invitational,-,40,F,85,P
+113,Peter M de Petra,0:58:16,5,1:03:16,0,Invitational,-,48,M,445,U
+114,Phil Phythian,0:58:22,11,1:09:22,0,Invitational,-,58,M,333,M
+115,Ken Johnson,0:58:23,2,1:00:23,0,Invitational,-,39,M,98,X
+116,Robert (Bob) D Bunnell,0:58:23,2,1:00:23,0,Invitational,-,41,M,598,X
+117,Geoff Bardsley,0:58:24,16,1:14:24,0,Invitational,-,63,M,693,G
+118,Gordon D.C. Abbott,0:58:31,5,1:03:31,0,Invitational,-,48,M,47,U
+119,Marc Lieberman,0:58:34,4,1:02:34,0,Invitational,-,46,M,97,V
+120,Kennard D  Wilson III,0:58:36,1,0:59:36,0,Invitational,-,34,M,27,Y
+121,David G Kallmeyer,0:58:37,0,0:58:37,0,Invitational,-,26,M,296,S
+122,Milano Zeman,0:58:38,6,1:04:38,0,Invitational,-,50,M,37,T
+123,Wink E Bragdon,0:58:40,9,1:07:40,0,Invitational,-,40,F,89,P
+124,John G Catts,0:58:40,2,1:00:40,0,Invitational,-,38,M,401,X
+125,George L Pollitt,0:58:42,8,1:06:42,0,Invitational,-,53,M,402,Q
+126,Robert Yelland,0:58:42,5,1:03:42,0,Invitational,-,48,M,482,U
+127,Bob Ward,0:58:44,7,1:05:44,0,Invitational,-,52,M,259,R
+128,Lori Jean Shanoff,0:58:50,8,1:06:50,0,Invitational,-,28,F,536,Q
+129,Paul W Baker,0:59:00,9,1:08:00,0,Invitational,-,55,M,550,P
+130,John D Edgcomb,0:59:06,1,1:00:06,0,Invitational,-,33,M,359,Y
+131,Timothy M Morris,0:59:13,4,1:03:13,0,Invitational,-,45,M,304,V
+132,Mary P Wells,0:59:13,8,1:07:13,0,Invitational,-,37,F,287,Q
+133,Steven L Katz,0:59:15,2,1:01:15,0,Invitational,-,41,M,467,X
+134,Martin  J  Jones,0:59:17,5,1:04:17,0,Invitational,-,49,M,50,U
+135,Floyd L Carley,0:59:17,22,1:21:17,0,Invitational,-,70,M,414,A
+136,Andy Anderson,0:59:20,6,1:05:20,0,Invitational,-,51,M,215,T
+137,Clint Goldman,0:59:20,0,0:59:20,0,Invitational,-,30,M,687,S
+138,Fred F.C. Clark,0:59:24,5,1:04:24,0,Invitational,-,48,M,636,U
+139,Clifford J Ruona,0:59:27,6,1:05:27,0,Invitational,-,51,M,589,T
+140,Jerry M Colletto,0:59:28,6,1:05:28,0,Invitational,-,51,M,78,T
+141,Vincent Fausone III,0:59:30,1,1:00:30,0,Invitational,-,31,M,60,Y
+142,Michael R Lowery,0:59:31,2,1:01:31,0,Invitational,-,39,M,512,X
+143,David E Marion,0:59:35,0,0:59:35,0,Invitational,-,27,M,620,S
+144,Ben M Jackson,0:59:35,5,1:04:35,0,Invitational,-,49,M,411,U
+145,Nancy J Camera,0:59:36,8,1:07:36,0,Invitational,-,28,F,600,Q
+146,Frederick G Stout,0:59:38,2,1:01:38,0,Invitational,-,41,M,370,X
+147,Rich  L Valdez,0:59:39,2,1:01:39,0,Invitational,-,40,M,77,X
+148,Frederick A Liebes,0:59:40,4,1:03:40,0,Invitational,-,46,M,93,V
+149,Steve L Christian,0:59:42,2,1:01:42,0,Invitational,-,41,M,548,X
+150,Walt W Stickel,0:59:48,4,1:03:48,0,Invitational,-,46,M,421,V
+151,Greg J Burke,0:59:52,4,1:03:52,0,Invitational,-,45,M,317,V
+152,George Forman,0:59:53,4,1:03:53,0,Invitational,-,46,M,156,V
+153,Toby J Pickett,0:59:55,1,1:00:55,0,Invitational,-,34,M,65,Y
+154,Irv Ray,0:59:57,2,1:01:57,0,Invitational,-,40,M,700,X
+155,Ross A Bogert,0:59:57,4,1:03:57,0,Invitational,-,46,M,149,V
+156,Don E Altman,1:00:00,3,1:03:00,0,Invitational,-,44,M,113,W
+157,Jim R Crumpler,1:00:05,3,1:03:05,0,Invitational,-,44,M,350,W
+158,Michael J Locati,1:00:05,2,1:02:05,0,Invitational,-,40,M,556,X
+159,Joseph L Minton,1:00:05,1,1:01:05,0,Invitational,-,35,M,136,Y
+160,Terry A Rivasplata,1:00:10,1,1:01:10,0,Invitational,-,37,M,327,Y
+161,Mark B Miller,1:00:13,2,1:02:13,0,Invitational,-,40,M,121,X
+162,Bill J Stechschulte,1:00:13,2,1:02:13,0,Invitational,-,41,M,347,X
+163,Eamon C Cooke,1:00:15,5,1:05:15,0,Invitational,-,49,M,294,U
+164,David W Broom,1:00:17,4,1:04:17,0,Invitational,-,47,M,356,V
+165,Gwin C Stumbaugh,1:00:19,2,1:02:19,0,Invitational,-,39,M,227,X
+166,Robert R Bebermeyer,1:00:20,6,1:06:20,0,Invitational,-,51,M,457,T
+167,Larry R Sumner,1:00:22,5,1:05:22,0,Invitational,-,48,M,282,U
+168,Michael E Myers,1:00:25,2,1:02:25,0,Invitational,-,40,M,533,X
+169,Jim A Misener,1:00:26,1,1:01:26,0,Invitational,-,31,M,455,Y
+170,Phil Bellen,1:00:31,0,1:00:31,0,Invitational,-,30,m,269,S
+171,"Berry E  Boston, Jr",1:00:33,15,1:15:33,0,Invitational,-,62,M,616,H
+172,Leonard P Tallerico,1:00:35,1,1:01:35,0,Invitational,-,33,M,185,Y
+173,Stephen L Worthy,1:00:37,4,1:04:37,0,Invitational,-,45,M,625,V
+174,Norman B Ciampi,1:00:43,8,1:08:43,0,Invitational,-,53,M,139,Q
+175,Karen D Kinzer Byrd,1:00:43,8,1:08:43,0,Invitational,-,30,F,478,Q
+176,Ray Umeda,1:00:44,2,1:02:44,0,Invitational,-,38,M,688,X
+177,Greg J Weaver,1:00:46,1,1:01:46,0,Invitational,-,36,M,218,Y
+178,Ken M Frankel,1:00:50,1,1:01:50,0,Invitational,-,32,M,410,Y
+179,Alan D Hart,1:00:54,1,1:01:54,0,Invitational,-,36,M,513,Y
+180,Gary M O'Grady,1:00:55,4,1:04:55,0,Invitational,-,47,M,575,V
+181,Jack Mello,1:01:00,10,1:11:00,0,Invitational,-,56,M,322,N
+182,Floyd E Dawson,1:01:07,10,1:11:07,0,Invitational,-,56,M,481,N
+183,Mark H Stevens,1:01:13,1,1:01:13,0,Invitational,-,33,M,415,Y
+184,Richard P Cordone,1:01:17,3,1:04:17,0,Invitational,-,43,M,147,W
+185,Thomas E Holton,1:01:26,0,1:01:26,0,Invitational,-,27,M,226,S
+186,Craig E Johnson,1:01:29,1,1:02:29,0,Invitational,-,31,M,258,Y
+187,Bill Katz,1:01:29,9,1:10:29,0,Invitational,-,55,M,168,P
+188,Ralph D Webb,1:01:30,14,1:15:30,0,Invitational,-,61,M,241,J
+189,Rick A Parfitt,1:01:31,2,1:03:31,0,Invitational,-,39,M,318,X
+190,Mike J McLoughlin,1:01:32,0,1:01:32,0,Invitational,-,30,M,498,S
+191,Joel E Tavolara,1:01:36,1,1:02:36,0,Invitational,-,18,M,95,Y
+192,Mark Latino,1:01:37,1,1:02:37,0,Invitational,-,37,M,309,Y
+193,John J Benitou,1:01:41,2,1:03:41,0,Invitational,-,41,M,244,X
+194,Robin Paine,1:01:42,10,1:11:42,0,Invitational,-,42,F,30,N
+195,Jean Luc P Servat,1:01:45,1,1:02:45,0,Invitational,-,36,M,214,Y
+196,Harry Delmer,1:01:47,5,1:06:47,0,Invitational,-,48,M,581,U
+197,Gregory F Gillis,1:01:48,2,1:03:48,0,Invitational,-,39,M,422,X
+198,Kevin H Dugan,1:01:52,1,1:02:52,0,Invitational,-,33,M,549,Y
+199,Dee K Paris,1:01:53,8,1:08:53,0,Invitational,-,36,F,235,Q
+200,Larry  D Martin,1:01:55,5,1:06:55,0,Invitational,-,48,M,508,U
+201,Roger J Gordon,1:01:55,9,1:10:55,0,Invitational,-,55,M,3333333,P
+202,Robert J Mithun,1:01:58,3,1:04:58,0,Invitational,-,43,M,123,W
+203,David A Barni,1:02:02,3,1:05:02,0,Invitational,-,44,M,70,W
+204,William J Steinman,1:02:04,16,1:18:04,0,Invitational,-,63,M,568,G
+205,Susan L Simons,1:02:06,10,1:12:06,0,Invitational,-,43,F,484,N
+206,Leslie Browne,1:02:07,11,1:13:07,0,Invitational,-,44,F,220,M
+207,JoAnne Kambur,1:02:10,22,1:24:10,0,Invitational,-,57,F,176,A
+208,Jim A Sugar,1:02:10,4,1:06:10,0,Invitational,-,46,M,222,V
+209,Joahann Frey,1:02:11,8,1:10:11,0,Invitational,-,54,M,180,Q
+210,Jeff C Hauke,1:02:11,1,1:03:11,0,Invitational,-,33,M,608,Y
+211,Russell G Clough,1:02:12,6,1:08:12,0,Invitational,-,50,M,129,T
+212,Lisa T Corbett,1:02:12,8,1:10:12,0,Invitational,-,36,F,332,Q
+213,Ron  D Bolds,1:02:20,1,1:03:20,0,Invitational,-,32,M,154,Y
+214,Stephen C Hoots,1:02:24,5,1:07:24,0,Invitational,-,48,M,465,U
+215,Barry R Blue,1:02:26,2,1:04:26,0,Invitational,-,41,M,538,X
+216,Greg H Lawson,1:02:27,5,1:07:27,0,Invitational,-,49,M,515,U
+217,Margeret L Curtis,1:02:32,17,1:19:32,0,Invitational,-,52,F,271,F
+218,Kristin V Gordon,1:02:33,15,1:17:33,0,Invitational,-,49,F,240,H
+219,Eric M Spector,1:02:33,4,1:06:33,0,Invitational,-,45,M,183,V
+220,Frank R Rosenbach III,1:02:34,1,1:03:34,0,Invitational,-,33,M,459,Y
+221,Timothy R Knowlton,1:02:34,2,1:04:34,0,Invitational,-,41,M,383,X
+222,Ralph B Kraetsch,1:02:35,19,1:21:35,0,Invitational,-,66,M,243,D
+223,David R Lorenz,1:02:35,2,1:04:35,0,Invitational,-,40,M,310,X
+224,Merv Giacomini,1:02:36,10,1:12:36,0,Invitational,-,56,M,118,N
+225,Natalie E Simi,1:02:39,8,1:10:39,0,Invitational,-,26,F,577,Q
+226,Steven M Vukazich,1:02:40,1,1:03:40,0,Invitational,-,32,M,444,Y
+227,Joaquin V Fritz,1:02:43,2,1:04:43,0,Invitational,-,39,M,84,X
+228,Thomas Mongan,1:02:44,7,1:09:44,0,Invitational,-,52,M,681,R
+229,Dave Boucke,1:02:45,3,1:05:45,0,Invitational,-,43,M,170,W
+230,Barbara Leonard Robben,1:02:46,22,1:24:26,0,Invitational,-,58,F,532,A
+231,Karen W Sturges,1:02:52,10,1:12:52,0,Invitational,-,42,F,364,N
+232,Joseph B Grantham,1:03:00,1,1:04:00,0,Invitational,-,34,M,4444444,Y
+233,Calvin O Gordon,1:03:02,3,1:06:02,0,Invitational,-,43,M,298,W
+234,Miki Miyashiro,1:03:03,2,1:05:03,0,Invitational,-,38,M,476,X
+235,Tane R Abbott,1:03:04,0,1:03:04,0,Invitational,-,29,M,385,S
+236,Richard V Rossi,1:03:09,2,1:05:09,0,Invitational,-,41,M,438,X
+237,Jude S Radeski,1:03:10,0,1:03:10,0,Invitational,-,30,M,312,S
+238,Christian W Lustic,1:03:10,3,1:06:10,0,Invitational,-,44,M,565,W
+239,Don C Johnston,1:03:14,3,1:06:14,0,Invitational,-,42,M,523,W
+240,James J Nason,1:03:15,13,1:16:15,0,Invitational,-,60,M,661,K
+241,Jeffrey D Zimmerman,1:03:16,1,1:04:16,0,Invitational,-,35,M,546,Y
+242,James h Wolfsberg,1:03:17,5,1:08:17,0,Invitational,-,48,M,424,u
+243,Jonathan K Genant,1:03:21,4,1:07:21,0,Invitational,-,15,M,388,V
+244,Earl N Norgard,1:03:26,9,1:12:26,0,Invitational,-,55,M,277,P
+245,Michael M Adams,1:03:27,5,1:08:27,0,Invitational,-,49,M,461,U
+246,Syed H.J. Zaidi,1:03:28,3,1:06:28,0,Invitational,-,42,M,514,W
+247,Russell O Morgan,1:03:32,1,1:04:32,0,Invitational,-,32,M,613,Y
+248,John E Borst,1:03:34,2,1:05:34,0,Invitational,-,40,M,559,X
+249,George A Goin,1:03:34,5,1:08:34,0,Invitational,-,49,M,303,U
+250,Todd S Christman,1:03:35,1,1:04:35,0,Invitational,-,33,M,454,Y
+251,George A Dombrovski,1:03:36,2,1:05:36,0,Invitational,-,39,M,179,X
+252,Reinhold A Ullrich,1:03:39,18,1:21:39,0,Invitational,-,65,M,440,E
+253,Doug J Canepa,1:03:39,1,1:04:39,0,Invitational,-,33,M,223,Y
+254,Laurie A Riebeling,1:03:40,8,1:11:40,0,Invitational,-,35,F,96,Q
+255,David Manookian,1:03:46,8,1:11:46,0,Invitational,-,54,M,576,Q
+256,William A Castellan,1:03:47,2,1:05:47,0,Invitational,-,38,M,529,X
+257,Greg A Myers,1:03:49,2,1:05:49,0,Invitational,-,40,M,470,X
+258,Laurie M Arnold,1:03:49,10,1:13:49,0,Invitational,-,41,F,228,N
+259,Perter M Hendricks,1:03:51,1,1:04:51,0,Invitational,-,37,M,408,Y
+260,Wyborn D Mercer,1:03:54,3,1:06:54,0,Invitational,-,44,M,372,W
+261,Terry E Somers,1:03:59,8,1:11:59,0,Invitational,-,38,F,534,Q
+262,Lindy G Miller,1:04:01,1,1:05:01,0,Invitational,-,36,M,517,Y
+263,John M Long,1:04:01,4,1:08:01,0,Invitational,-,47,M,319,V
+264,Alan J Smith,1:04:02,2,1:06:02,0,Invitational,-,40,M,261,X
+265,Gregory C Larson,1:04:04,1,1:05:04,0,Invitational,-,36,M,393,Y
+266,Lisa J Homen,1:04:05,8,1:12:05,0,Invitational,-,33,F,557,Q
+267,William D Dodge,1:04:06,6,1:10:06,0,Invitational,-,51,M,406,T
+268,Milton J Gaines,1:04:06,10,1:14:06,0,Invitational,-,57,M,596,N
+269,Gary L McCuen,1:04:07,9,1:13:07,0,Invitational,-,55,M,79,P
+270,Martin J Millyer,1:04:13,8,1:12:13,0,Invitational,-,54,M,518,Q
+271,Ulf H Werner,1:04:16,6,1:10:16,0,Invitational,-,51,M,586,T
+272,Louis J Encalada Jr,1:04:20,4,1:08:20,0,Invitational,-,47,M,528,V
+273,Bill G Willitts,1:04:21,4,1:08:21,0,Invitational,-,45,M,224,V
+274,Maura L Thurman,1:04:23,8,1:12:23,0,Invitational,-,32,F,488,Q
+275,Tom Guerin,1:04:23,2,1:06:23,0,Invitational,-,38,M,297,X
+276,Richard M Helzberg,1:04:24,6,1:10:24,0,Invitational,-,51,M,135,T
+277,Roy L Robinson,1:04:24,8,1:12:24,0,Invitational,-,54,M,360,Q
+278,Sam R Reiter,1:04:25,4,1:08:25,0,Invitational,-,47,M,120,V
+279,Shelly L Lowery,1:04:25,11,1:15:25,0,Invitational,-,14,F,519,M
+280,Henry J Castaniada,1:04:26,2,1:06:26,0,Invitational,-,38,M,525,X
+281,James T Huemmer,1:04:27,1,1:05:27,0,Invitational,-,36,M,345,Y
+282,Nancy A Michaud,1:04:30,8,1:12:30,0,Invitational,-,31,F,378,Q
+283,Clifford E Snowman,1:04:37,2,1:06:37,0,Invitational,-,39,M,434,X
+284,Alex C Montgomery,1:04:39,5,1:09:39,0,Invitational,-,49,M,206,U
+285,Judy Sutcliffe,1:04:40,15,1:19:40,0,Invitational,-,50,F,122,H
+286,Kevin T Harhoff,1:04:43,1,1:05:43,0,Invitational,-,36,M,172,Y
+287,Rick H Bragdon,1:04:49,2,1:06:49,0,Invitational,-,40,M,537,X
+288,Richard P Fregulia,1:04:51,6,1:10:51,0,Invitational,-,51,M,348,T
+289,Ted Tuescher,1:04:54,0,1:04:54,0,Invitational,-,30,M,140,S
+290,Bill Merritt,1:04:58,1,1:05:58,0,Invitational,-,36,M,254,Y
+291,Mark C Mehlert,1:04:58,0,1:04:58,0,Invitational,-,30,M,183,S
+292,Gregory D Harris,1:04:59,1,1:05:59,0,Invitational,-,31,M,643,Y
+293,Bill Hopkins,1:04:59,1,1:05:59,0,Invitational,-,36,M,611,Y
+294,Sherry L Smith,1:05:00,8,1:13:00,0,Invitational,-,30,F,606,Q
+295,Will  Twomey,1:05:03,1,1:06:03,0,Invitational,-,35,M,552,Y
+296,William A Seaborg,1:05:03,4,1:09:03,0,Invitational,-,47,M,502,V
+297,Craig Peter Flessel,1:05:03,6,1:11:03,0,Invitational,-,51,M,323,T
+298,Thomas E Reinhart,1:05:06,1,1:06:06,0,Invitational,-,37,M,217,Y
+299,Blake R Wheeler,1:05:09,1,1:06:09,0,Invitational,-,36,M,698,Y
+300,Wolfgang R Kristensen,1:05:10,2,1:07:10,0,Invitational,-,38,M,595,X
+301,Dale A Zwiaska,1:05:10,2,1:08:10,0,Invitational,-,42,M,197,W
+302,James M Arthurs,1:05:12,14,1:19:12,0,Invitational,-,61,M,209,J
+303,John F Walsh,1:05:12,1,1:06:12,0,Invitational,-,33,M,510,Y
+304,David M Strand,1:05:14,1,1:06:14,0,Invitational,-,37,M,255,Y
+305,James L Wilkins,1:05:15,5,1:10:15,0,Invitational,-,49,M,423,U
+306,Joseph M Carter,1:05:16,8,1:13:16,0,Invitational,-,11,M,300,Q
+307,Tim C Aregger,1:05:16,1,1:06:16,0,Invitational,-,37,M,384,Y
+308,Joseph P Munton,1:05:18,0,1:05:18,0,Invitational,-,27,M,670,S
+309,Erika J Gordon,1:05:18,8,1:13:18,0,Invitational,-,26,F,239,Q
+310,Jay H Jacobsen,1:05:19,4,1:09:18,0,Invitational,-,47,M,328,V
+311,Craig D Talsey,1:05:20,0,1:05:20,0,Invitational,-,30,M,352,S
+312,Janis W Hampshire,1:05:20,8,1:13:20,0,Invitational,-,39,F,181,Q
+313,Walt Vennum,1:05:21,6,1:11:21,0,Invitational,-,51,M,194,T
+314,Norman C Pease,1:05:21,8,1:13:21,0,Invitational,-,54,M,497,Q
+315,Gary L Kirchubel,1:05:21,1,1:06:21,0,Invitational,-,34,M,504,Y
+316,Ron  H Peck,1:05:22,6,1:11:22,0,Invitational,-,50,M,541,T
+317,Ben R Winslow,1:05:22,5,1:10:22,0,Invitational,-,49,M,522,U
+318,Bradford J Rippe,1:05:23,1,1:06:23,0,Invitational,-,36,M,207,Y
+319,James W Martini,1:05:25,4,1:09:25,0,Invitational,-,45,M,338,V
+320,Wolfgang W Sadee,1:05:26,6,1:11:26,0,Invitational,-,50,M,153,T
+321,Stephen P Freccero,1:05:26,1,1:06:26,0,Invitational,-,33,M,392,Y
+322,Jim B McGuinness,1:05:27,1,1:06:27,0,Invitational,-,33,M,621,Y
+323,Stephen J Snodgrass,1:05:28,1,1:06:28,0,Invitational,-,37,M,506,Y
+324,Richard H Lee,1:05:28,3,1:08:28,0,Invitational,-,43,M,460,W
+325,Walter H Bales,1:05:29,4,1:09:29,0,Invitational,-,47,M,242,V
+326,Wolfgang Zech,1:05:30,6,1:11:30,0,Invitational,-,50,M,279,T
+327,Gregory Babinski,1:05:31,3,1:08:31,0,Invitational,-,43,M,339,W
+328,Matthew R White,1:05:31,1,1:06:31,0,Invitational,-,33,M,30,Y
+329,Barbara L Magid,1:05:34,14,1:19:34,0,Invitational,-,48,F,569,J
+330,Arthur M Munoz,1:05:38,2,1:07:38,0,Invitational,-,40,M,599,X
+331,Ian C Watson,1:05:40,8,1:13:40,0,Invitational,-,54,M,503,Q
+332,Joseph M Grantham,1:05:45,11,1:16:45,0,Invitational,-,58,M,473,M
+333,Michael C O'Neil,1:06:00,21,1:27:00,0,Invitational,-,68,M,248,B
+334,Raymond D Davenport,1:06:03,1,1:07:03,0,Invitational,-,32,M,320,Y
+335,Hans Lohander,1:06:04,2,1:08:04,0,Invitational,-,39,M,274,X
+336,Cynthia Nesvig,1:06:04,8,1:14:04,0,Invitational,-,37,F,617,Q
+337,David Foran,1:06:07,1,1:07:07,0,Invitational,-,33,M,453,Y
+338,Jim F Poje,1:06:13,1,1:07:13,0,Invitational,-,32,M,477,Y
+339,Sheila A Parfitt,1:06:17,9,1:15:17,0,Invitational,-,40,F,321,P
+340,William T Seawell III,1:06:18,8,1:14:18,0,Invitational,-,54,M,442,Q
+341,Martha C Cederstrom,1:06:20,8,1:14:20,0,Invitational,-,36,F,158,Q
+342,Patti A Coffee,1:06:22,8,1:14:22,0,Invitational,-,36,F,493,Q
+343,Bernhard Hiller,1:06:25,1,1:07:25,0,Invitational,-,35,M,591,Y
+344,Heidi K Hugo,1:06:26,8,1:14:26,0,Invitational,-,32,F,127,Q
+345,Kasey McKinley,1:06:27,18,1:24:27,0,Invitational,-,52,F,285,E
+346,Brian E Jordan,1:06:28,1,1:07:28,0,Invitational,-,37,M,159,Y
+347,Andrew Farrell,1:06:29,1,1:07:29,0,Invitational,-,36,M,116,Y
+348,Suzanne G Swanson,1:06:30,9,1:15:30,0,Invitational,-,40,F,186,P
+349,Flynn P McClanahan,1:06:31,7,1:13:31,0,Invitational,-,12,M,665,R
+350,Stephen L Anderson,1:06:32,4,1:10:32,0,Invitational,-,46,M,234,V
+351,Steven Stenberg,1:06:36,1,1:07:36,0,Invitational,-,31,M,189,Y
+352,David R Imboden,1:06:37,2,1:08:37,0,Invitational,-,38,M,610,X
+353,Mo Riddiford,1:06:37,1,1:07:37,0,Invitational,-,31,M,114,Y
+354,Ronald L Kinney,1:06:42,14,1:20:42,0,Invitational,-,61,M,340,J
+355,Anitra K Seitamo,1:06:45,14,1:20:45,0,Invitational,-,48,F,127,J
+356,Robert S Anthony,1:06:46,10,1:16:46,0,Invitational,-,57,M,371,N
+357,Rex W Kamphefner,1:06:46,2,1:08:46,0,Invitational,-,39,M,268,X
+358,Richard T  Morrissey III,1:06:49,1,1:07:49,0,Invitational,-,31,M,612,Y
+359,Lisa M Tomasi,1:06:50,8,1:14:50,0,Invitational,-,26,F,627,Q
+360,Terence Clark,1:06:51,5,1:11:51,0,Invitational,-,49,M,381 I 4,U
+361,David J Warren,1:06:52,10,1:16:52,0,Invitational,-,56,M,601,N
+362,Thomas M Hannigan,1:06:54,7,1:13:54,0,Invitational,-,52,M,325,R
+363,T.J. Campbell,1:06:55,8,1:14:55,0,Invitational,-,31,F,432,Q
+364,Daniel J Klos,1:06:57,0,1:06:57,0,Invitational,-,19,M,331,S
+365,Mark Winitz,1:06:59,3,1:09:59,0,Invitational,-,42,M,382,W
+366,Allen E Hastings,1:07:02,10,1:17:02,0,Invitational,-,57,M,505,N
+367,Kay F Martin,1:07:04,18,1:25:04,0,Invitational,-,53,F,335,E
+368,Rob  Robinson,1:07:05,5,1:12:05,0,Invitational,-,48,M,295,U
+369,Ray  A Young,1:07:07,8,1:15:07,0,Invitational,-,53,M,526,Q
+370,Leslie Acoca,1:07:08,10,1:17:08,0,Invitational,-,42,F,663,N
+371,Paul D Randolph,1:07:11,6,1:13:11,0,Invitational,-,51,M,418,T
+372,Kip Larrieu,1:07:14,0,1:07:14,0,Invitational,-,30,M,683,S
+373,Larry J Gomez,1:07:15,4,1:11:15,0,Invitational,-,46,M,250,V
+374,Dennis K Fisher,1:07:18,5,1:12:18,0,Invitational,-,48,M,520,U
+375,Marilou H McFarlane,1:07:19,8,1:15:19,0,Invitational,-,31,F,590,Q
+376,Paul E Casaudoumecq,1:07:20,0,1:07:20,0,Invitational,-,27,M,573,S
+377,Doug J Starr,1:07:22,2,1:09:22,0,Invitational,-,39,M,256,X
+378,Bob Schaar,1:07:22,2,1:09:22,0,Invitational,-,38,M,516,X
+379,Reidun Valo,1:07:23,8,1:15:23,0,Invitational,-,30,F,369,Q
+380,Stan E Roe,1:07:28,1,1:08:28,0,Invitational,-,36,M,489,Y
+381,Morgan A Peterson,1:07:33,10,1:17:33,0,Invitational,-,57,M,334,N
+382,Mark G Horton,1:07:34,1,1:08:34,0,Invitational,-,35,M,198,Y
+383,Daniel P Borgfeldt,1:07:34,0,1:07:34,0,Invitational,-,23,M,624,S
+384,Gary C Smith,1:07:34,3,1:10:34,0,Invitational,-,44,M,686,W
+385,Sheldon L Stenberg,1:07:35,1,1:08:35,0,Invitational,-,35,M,588,Y
+386,David A Simundson,1:07:36,4,1:11:36,0,Invitational,-,47,M,229,V
+387,Francis B Schlageter,1:07:37,13,1:20:37,0,Invitational,-,60,M,635,K
+388,Gary J Whittaker,1:07:39,1,1:08:39,0,Invitational,-,31,M,626,Y
+389,Ralph M Del Campo,1:07:41,5,1:12:41,0,Invitational,-,48,M,368,U
+390,Erinie J Furtado,1:07:41,1,1:08:41,0,Invitational,-,36,M,216,Y
+391,Ron R Murray,1:07:44,5,1:12:44,0,Invitational,-,49,M,582,U
+392,William P Brazill,1:07:45,4,1:11:45,0,Invitational,-,47,M,346,V
+393,Arne M Larsen,1:07:46,1,1:08:46,0,Invitational,-,33,M,543,Y
+394,Charles Kuyk III,1:07:46,2,1:09:46,0,Invitational,-,41,M,276,X
+395,Katherine S Singer,1:07:48,16,1:23:48,0,Invitational,-,51,F,125,G
+396,Ray A Morris,1:07:50,19,1:26:50,0,Invitational,-,66,M,499,D
+397,Bill Stock,1:07:52,1,1:08:52,0,Invitational,-,37,M,288,Y
+398,Jerry R Binnings,1:07:54,10,1:17:54,0,Invitational,-,56,M,326,N
+399,Dominic M Spinetta,1:07:55,8,1:15:55,0,Invitational,-,54,M,403,Q
+400,Kenneth A Coren,1:07:56,3,1:10:56,0,Invitational,-,42,m,367,W
+401,Kenneth G Robinson,1:07:57,4,1:11:57,0,Invitational,-,46,M,531,V
+402,Richard A Nelson,1:07:58,1,1:08:58,0,Invitational,-,33,M,358,Y
+403,Takeo Hope,1:07:59,2,1:09:59,0,Invitational,-,17,M,307,X
+404,Tyler C Smith,1:08:00,8,1:16:00,0,Invitational,-,11,M,650,Q
+405,Susie Shattuck,1:08:04,8,1:16:04,0,Invitational,-,39,F,196,Q
+406,Timothy S Napier,1:08:05,1,1:09:05,0,Invitational,-,34,M,313,Y
+407,Paula M Lyons,1:08:07,8,1:16:07,0,Invitational,-,27,F,527,Q
+408,Michael E Madvay,1:08:10,3,1:11:10,0,Invitational,-,43,M,496,W
+409,Michael B Cohen,1:08:11,0,1:08:11,0,Invitational,-,20,M,644,S
+410,Gary A Hafley,1:08:11,2,1:10:11,0,Invitational,-,39,M,377,X
+411,James Hult,1:08:12,4,1:12:12,0,Invitational,-,45,M,618,V
+412,Robert  Sandberg,1:08:12,3,1:11:12,0,Invitational,-,44,M,375,W
+413,Michael H Levine,1:08:14,4,1:12:14,0,Invitational,-,45,M,142,V
+414,Karen L Stenberg,1:08:14,8,1:16:14,0,Invitational,-,30,F,203,Q
+415,William W Washauer,1:08:15,2,1:10:15,0,Invitational,-,41,M,400,X
+416,Therese J Kollerer,1:08:17,8,1:16:17,0,Invitational,-,37,F,315,Q
+417,Paul G Robinson,1:08:18,3,1:11:18,0,Invitational,-,42,M,485,W
+418,Hans G Roenau,1:08:18,17,1:25:18,0,Invitational,-,64,M,103,F
+419,Eric D Leitner,1:08:20,1,1:09:20,0,Invitational,-,32,M,451,Y
+420,James A Soderberg,1:08:21,3,1:11:21,0,Invitational,-,42,M,284,W
+421,Donald G Madronich,1:08:22,4,1:12:22,0,Invitational,-,47,M,188,V
+422,Rod Ussing,1:08:22,1,1:09:22,0,Invitational,-,34,M,561,Y
+423,Donald C Elsener,1:08:23,1,1:09:23,0,Invitational,-,36,M,141,Y
+424,James H Morris,1:08:25,3,1:11:25,0,Invitational,-,42,M,152,W
+425,William M Smartt,1:08:27,5,1:13:27,0,Invitational,-,49,M,545,U
+426,Philip M Krieger,1:08:30,3,1:11:30,0,Invitational,-,42,M,329,W
+427,Richard H Wallace,1:08:33,5,1:13:33,0,Invitational,-,48,M,260,U
+428,Bill A Anderson,1:08:34,8,1:16:34,0,Invitational,-,53,M,540,Q
+429,David M Greenberg,1:08:42,5,1:13:42,0,Invitational,-,49,M,353,U
+430,Tomi Gomory,1:08:43,3,1:11:43,0,Invitational,-,44,M,290,W
+431,Thomas H Stephens,1:08:48,1,1:09:48,0,Invitational,-,37,M,452,Y
+432,John P Browne,1:08:48,2,1:10:48,0,Invitational,-,38,M,487,X
+433,Barry R Norback,1:08:49,6,1:14:49,0,Invitational,-,50,M,272,T
+434,Terry A Hatcher,1:08:53,2,1:10:53,0,Invitational,-,41,M,412,X
+435,Cary G Littel,1:08:56,8,1:16:56,0,Invitational,-,31,F,542,Q
+436,Nancy Markey,1:08:57,9,1:17:57,0,Invitational,-,40,F,201,P
+437,Dean A Tatsuno,1:08:57,3,1:11:57,0,Invitational,-,42,M,193,W
+438,Robert F Epstein,1:08:58,0,1:08:58,0,Invitational,-,30,M,387,S
+439,Susan Duvall,1:09:00,8,1:17:00,0,Invitational,-,35,F,314,Q
+440,Ken R Boeri,1:09:01,4,1:13:01,0,Invitational,-,45,M,143,V
+441,Michael Smith,1:09:04,4,1:13:04,0,Invitational,-,46,M,365,V
+442,Maeve Garvey,1:09:05,8,1:17:05,0,Invitational,-,38,F,109,Q
+443,Eric J Woodhouse,1:09:06,0,1:09:06,0,Invitational,-,30,M,231,S
+444,Carlo R Rocca,1:09:07,14,1:23:07,0,Invitational,-,61,M,88,J
+445,Rory K Little,1:09:08,1,1:10:08,0,Invitational,-,36,M,638,Y
+446,Keith Whittingslow,1:09:09,8,1:17:09,0,Invitational,-,53,M,584,Q
+447,Jonathan P Popenoe,1:09:10,1,1:10:10,0,Invitational,-,35,M,200,Y
+448,Elaine A Smith,1:09:13,13,1:22:13,0,Invitational,-,47,F,278,K
+449,James Brent Perry,1:09:13,2,1:11:13,0,Invitational,-,40,M,330,X
+450,James J Waters,1:09:13,4,1:13:13,0,Invitational,-,45,M,267,V
+451,Agent Orange,1:09:13,1,1:10:13,0,Invitational,-,34,M,562,Y
+452,Steven B Oliphant,1:09:13,6,1:15:13,0,Invitational,-,51,M,357,T
+453,Kathy M Colletto,1:09:14,15,1:24:14,0,Invitational,-,50,F,351,H
+454,David F Caneer,1:09:17,2,1:11:17,0,Invitational,-,38,M,187,X
+455,Rodney R Gillespie,1:09:17,2,1:11:17,0,Invitational,-,41,M,703,X
+456,Jim M Zell,1:09:19,4,1:13:19,0,Invitational,-,47,M,399,V
+457,John Tubbs,1:09:20,10,1:19:20,0,Invitational,-,56,M,270,N
+458,Kevin T Heaney,1:09:21,2,1:11:21,0,Invitational,-,38,M,205,X
+459,Jeff S Goulding,1:09:23,1,1:10:23,0,Invitational,-,33,M,602,Y
+460,Gordon J Gellner,1:09:24,4,1:13:24,0,Invitational,-,45,M,390,V
+461,Michael P Chavin,1:09:24,2,1:11:24,0,Invitational,-,40,M,642,X
+462,Richard G Curley,1:09:28,2,1:11:28,0,Invitational,-,39,M,174,X
+463,Danny N Richey,1:09:29,4,1:13:29,0,Invitational,-,46,M,553,V
+464,Jay R English,1:09:30,7,1:16:30,0,Invitational,-,52,M,666,R
+465,Eileen J McGowan,1:09:33,20,1:29:33,0,Invitational,-,55,F,593,C
+466,Lawrence B Finne,1:09:34,6,1:15:34,0,Invitational,-,51,M,167,T
+467,Mark C Farrar,1:09:37,2,1:11:37,0,Invitational,-,38,M,464,X
+468,Robert D McClure,1:09:38,5,1:14:38,0,Invitational,-,49,M,437,U
+469,Antonio F Vianna,1:09:41,5,1:14:41,0,Invitational,-,48,M,233,U
+470,Thomas Wilson,1:09:43,7,1:16:43,0,Invitational,-,52,M,697,R
+471,Kirk N Amyx,1:09:44,1,1:10:44,0,Invitational,-,31,M,108,Y
+472,Russell L Pillard,1:09:48,6,1:15:48,0,Invitational,-,51,M,273,T
+473,James A Pinto,1:10:03,1,1:11:03,0,Invitational,-,37,M,380,Y
+474,Suzanne Suwanda,1:10:05,8,1:18:05,0,Invitational,-,37,F,679,Q
+475,Jim M Miller,1:10:11,8,1:18:11,0,Invitational,-,54,M,173,Q
+476,Ira M Pollack,1:10:13,1,1:11:13,0,Invitational,-,33,M,490,Y
+477,Jack S Van Horn,1:10:14,4,1:14:14,0,Invitational,-,46,M,251,V
+478,Michael D Lagios,1:10:15,8,1:18:15,0,Invitational,-,53,M,177,Q
+479,William E Talmage,1:10:16,4,1:14:16,0,Invitational,-,47,M,379,V
+480,Walt Schwartz,1:10:17,1,1:11:17,0,Invitational,-,33,M,361,Y
+481,Richard L Hayden,1:10:17,8,1:18:17,0,Invitational,-,54,M,262,Q
+482,Brad  R Smith,1:10:18,2,1:12:18,0,Invitational,-,39,M,480,X
+483,Jon  F Alexander,1:10:18,1,1:11:18,0,Invitational,-,37,M,146,Y
+484,Stefano D Filippelli,1:10:20,1,1:11:20,0,Invitational,-,18,M,676,Y
+485,Kevin M McGowan,1:10:20,0,1:10:20,0,Invitational,-,29,M,184,S
+486,Emanuel Z Kopstein,1:10:21,5,1:15:21,0,Invitational,-,49,M,131,U
+487,Robert W Entwisle,1:10:23,4,1:14:23,0,Invitational,-,45,M,646,V
+488,Norman M Lopez,1:10:25,2,1:12:25,0,Invitational,-,40,M,291,X
+489,Richard A Munger,1:10:25,3,1:13:25,0,Invitational,-,43,M,397,W
+490,Mark A Northcross,1:10:26,2,1:12:26,0,Invitational,-,39,M,658,X
+491,Fred L Dunn,1:10:29,16,1:26:29,0,Invitational,-,63,M,247,G
+492,Angus A Macfarlane,1:10:30,3,1:13:30,0,Invitational,-,44,M,479,W
+493,Chuck Miller,1:10:34,3,1:13:34,0,Invitational,-,42,M,376,W
+494,Albert C Long,1:10:41,14,1:24:41,0,Invitational,-,61,M,150,J
+495,Steven L Hoffmire,1:10:43,1,1:11:43,0,Invitational,-,33,M,264,Y
+496,Jeffrey A Grant,1:10:43,2,1:12:43,0,Invitational,-,39,M,293,X
+497,Ralph J Navarro,1:10:46,3,1:13:46,0,Invitational,-,44,M,316,W
+498,David Zinchini,1:10:53,4,1:14:53,0,Invitational,-,46,M,175,V
+499,Kevin W Louie,1:10:58,1,1:11:58,0,Invitational,-,37,M,622,Y
+500,Robert J Harper,1:11:00,4,1:15:00,0,Invitational,-,47,M,148,V
+501,Jerry G South,1:11:00,1,1:23:00,0,Invitational,-,59,M,221,L
+502,Gareth M Fong,1:11:01,2,1:13:01,0,Invitational,-,40,M,324,X
+503,Rich  Glasson,1:11:02,2,1:13:02,0,Invitational,-,39,m,696,X
+504,Norm  Heller,1:11:05,8,1:19:05,0,Invitational,-,54,M,355,Q
+505,Steven Kompf,1:11:10,3,1:14:10,0,Invitational,-,43,M,301,W
+506,William F Conrow,1:11:17,5,1:16:17,0,Invitational,-,48,M,192,U
+507,David B Wilson,1:11:22,1,1:12:22,0,Invitational,-,32,M,605,Y
+508,Peter L Mandell,1:11:24,2,1:13:24,0,Invitational,-,40,M,134,X
+509,Jonathan D Joseph,1:11:31,1,1:12:31,0,Invitational,-,36,M,212,Y
+510,Jeffrey L Houston,1:11:41,1,1:12:41,0,Invitational,-,34,M,580,Y
+511,Kevin Lorne,1:11:44,1,1:12:44,0,Invitational,-,36,M,213,Y
+512,Michael M Vance,1:11:54,6,1:17:54,0,Invitational,-,51,M,664,T
+513,Brian C Crawford,1:12:20,1,1:13:20,0,Invitational,-,32,M,501,Y
+514,Larry G Holder,1:12:33,4,1:16:33,0,Invitational,-,45,M,246,V
+515,Sandy J Pitts,1:12:33,8,1:20:33,0,Invitational,-,39,F,245,Q
+516,Francis S Navarro,1:12:35,0,1:12:35,0,Invitational,-,22,M,237,S
+517,Duncan H Brydon,1:12:36,4,1:16:36,0,Invitational,-,45,M,594,V
+518,Kenneth I Fink,1:12:38,1,1:13:38,0,Invitational,-,35,M,449,Y
+519,Maximilian M Heckscher,1:12:48,2,1:14:48,0,Invitational,-,17,M,614,X
+520,Warren J Harms,1:12:52,6,1:18:52,0,Invitational,-,50,M,144,T
+521,Dean D Flippo,1:12:59,6,1:18:59,0,Invitational,-,51,M,354,T
+522,Mickey J McGuirk,1:13:02,1,1:14:02,0,Invitational,-,37,M,165,Y
+523,Paul G Williams,1:13:11,8,1:21:11,0,Invitational,-,54,M,306,Q
+524,Robert C Agazzi,1:13:13,2,1:15:13,0,Invitational,-,41,M,126,X
+525,Michael K Sims,1:13:20,2,1:15:20,0,Invitational,-,41,M,639,X
+526,Gail Killefer,1:13:21,8,1:21:21,0,Invitational,-,38,F,615,Q
+527,James C Wells,1:13:27,4,1:17:27,0,Invitational,-,45,M,435,V
+528,Sherri C Guinn,1:13:34,12,1:25:34,0,Invitational,-,46,F,208,L
+529,John G Kaplanis,1:13:35,1,1:14:35,0,Invitational,-,31,M,578,Y
+530,Larry J Johnson,1:13:41,4,1:17:41,0,Invitational,-,46,M,311,V
+531,Claude J Bishop,1:14:00,3,1:17:00,0,Invitational,-,42,M,166,W
+532,John W Paine,1:14:01,4,1:18:01,0,Invitational,-,47,M,115,V
+533,Francie B Hoffmire,1:14:04,8,1:22:04,0,Invitational,-,30,F,263,Q
+534,Janet R Cassidy,1:14:08,9,1:23:08,0,Invitational,-,40,F,507,P
+535,Debra J Melvin,1:14:33,8,1:22:33,0,Invitational,-,38,F,363,Q
+536,Linda J Thuman,1:14:38,8,1:22:38,0,Invitational,-,34,F,299,Q
+537,Gary A Cullen,1:14:40,2,1:16:40,0,Invitational,-,41,M,292,X
+538,Gary B Mcpherson,1:14:47,4,1:18:47,0,Invitational,-,46,M,82,V
+539,Robert A Leuzinger,1:14:49,0,1:14:49,0,Invitational,-,30,M,652,S
+540,Doug Akagi,1:14:55,5,1:19:55,0,Invitational,-,48,M,119,U
+541,Greg R Moore,1:14:59,1,1:15:59,0,Invitational,-,32,M,524,Y
+542,Monika Zech,1:15:10,8,1:23:10,0,Invitational,-,19,F,674,Q
+543,Stan Oberg,1:15:20,4,1:19:20,0,Invitational,-,47,M,585,V
+544,Moriah M Underhill,1:15:24,12,1:27:24,0,Invitational,-,13,F,81,L
+545,James Garrett,1:15:30,3,1:18:30,0,Invitational,-,43,M,678,W
+546,John C Wintersteen,1:15:42,7,1:22:42,0,Invitational,-,52,M,106,R
+547,Mark M Reese,1:15:50,3,1:18:50,0,Invitational,-,42,M,425,W
+548,Lewis A Daniels,1:16:00,10,1:26:00,0,Invitational,-,57,M,554,N
+549,Phillip M Smith,1:16:08,8,1:24:08,0,Invitational,-,54,M,641,Q
+550,Leon Huntting,1:16:10,5,1:21:10,0,Invitational,-,49,M,668,U
+551,Randall M Hogue,1:16:21,3,1:19:21,0,Invitational,-,43,M,219,W
+552,Michael P Figour,1:16:31,8,1:14:31,0,Invitational,-,53,M,128,Q
+553,Joe G Stadum,1:16:51,6,1:22:51,0,Invitational,-,51,M,138,T
+554,Florencia M Gascon,1:16:51,8,1:24:51,0,Invitational,-,27,F,660,Q
+555,Albert M Clark,1:16:53,22,1:13:53,0,DR,-,78,M,702,A
+556,Timothy D Fewell,1:16:54,3,1:19:54,0,Invitational,-,43,M,366,W
+557,Megan M Gridley,1:16:58,10,1:26:58,0,Invitational,-,15,F,343,N
+558,Terry Sylvester,1:17:04,12,1:29:04,0,Invitational,-,9,M,631,L
+559,Maria  Clara Tucci,1:17:13,8,1:25:13,0,Invitational,-,31,F,567,Q
+560,Sheldon Breiner,1:17:16,9,1:26:16,0,Invitational,-,55,M,416,P
+561,Andrew C Mellmer,1:17:22,17,1:34:22,0,Invitational,-,64,M,592,F
+562,Thomas M Freiburger,1:17:29,4,1:21:29,0,Invitational,-,46,M,511,V
+563,Brock F Tessman,1:17:37,3,0:55:37,0,DR,1,16,M,1642,W
+564,Jim N Van Cott,1:17:38,2,1:19:38,0,Invitational,-,40,M,667,X
+565,James E McGowan,1:17:57,10,1:27:57,0,Invitational,-,57,M,182,N
+566,Dennis H Klein,1:18:13,5,1:23:13,0,Invitational,-,49,M,657,U
+567,Paul Malone,1:18:28,5,1:23:28,0,Invitational,-,49,M,685,U
+568,Chuck K Dahlgren,1:18:29,10,1:28:29,0,Invitational,-,56,M,429,N
+569,Joanne Jordan,1:18:29,8,1:26:29,0,Invitational,-,28,F,157,Q
+570,Thomas L Stone,1:18:47,0,1:18:47,0,Invitational,-,30,M,587,S
+571,David C Gerstenberger,1:18:50,2,1:20:50,0,Invitational,-,39,M,653,X
+572,Peter A Werhanowicz,1:19:09,4,1:23:09,0,Invitational,-,47,M,634,V
+573,Matt S Granville,1:19:11,1,1:20:11,0,Invitational,-,32,M,169,Y
+574,David J Collins,1:19:19,1,0:55:19,0,DR,-,33,M,1013,Y
+575,Fred C Kreitzberg,1:19:28,11,1:30:28,0,Invitational,-,58,M,336,M
+576,Beth E Farrar,1:19:54,8,1:27:54,0,Invitational,-,38,F,463,Q
+577,Nancy M Klasky,1:20:16,8,1:28:16,0,Invitational,-,32,F,104,Q
+578,Nancy A Hazelrigg,1:21:00,8,1:04:00,0,DR,-,33,F,1295,Q
+579,John A Russel,1:21:05,13,1:09:05,0,DR,-,60,M,1691,K
+580,Charles C.K. Kuyk Jr.,1:21:09,18,1:14:09,0,DR,-,65,M,1727,E
+581,Francis L Swanson,1:21:16,5,1:26:16,0,Invitational,-,48,M,491,U
+582,William V Good,1:21:24,2,0:58:24,0,DR,-,40,M,1059,X
+583,Mike Repp,1:21:31,6,1:02:31,0,DR,-,51,M,1106,T
+584,Ed L Avol,1:21:32,2,0:58:32,0,DR,-,40,M,1364,X
+585,Thomas Knez,1:21:46,8,1:29:46,0,,-,54,M,682,Q
+586,Todd Parker,1:22:05,0,0:57:05,0,DR,-,26,M,1282,S
+587,Timothy G Amyx,1:22:07,1,1:23:07,0,Invitational,-,33,M,662,Y
+588,Nick L Crump,1:22:27,18,1:40:27,0,Invitational,-,65,M,341,E
+589,Peter T Fitzgerald,1:22:34,2,1:24:34,0,Invitational,-,39,M,448,X
+590,Bob Matulac,1:22:40,10,1:32:40,0,Invitational,-,56,M,530,N
+591,Kevin C Egger,1:22:59,0,0:57:59,0,DR,-,30,M,1232,S
+592,Fred S Dietrich,1:23:03,0,0:58:03,0,DR,-,30,M,1108,S
+593,Sally s Hughes,1:23:15,16,1:14:15,0,DR,-,51,F,1269,g
+594,Kealli A Bright,1:23:18,4,1:27:18,0,Invitational,-,15,M,420,V
+595,Johnpaul McIntosh-King,1:23:20,2,1:00:20,0,DR,-,39,M,1211,X
+596,David G Leipsic,1:23:36,0,0:58:36,0,DR,-,27,M,1008,S
+597,Pat P Koenigsberg,1:23:41,13,1:36:41,0,Invitational,-,47,F,202,K
+598,Robert T Guzikowski,1:23:48,0,0:58:48,0,DR,-,60,M,1813,S
+599,Garrett Wynn,1:24:03,0,0:59:03,0,DR,-,22,M,1589,S
+600,Jim Wanwaring,1:24:10,9,1:08:10,0,DR,-,55,M,1740,P
+601,Elizabeth A Price,1:24:18,8,1:07:18,0,DR,-,22,F,1216,Q
+602,Jennifer A Clark,1:24:21,20,1:19:21,0,DR,-,55,F,1285,C
+603,Harry F Hlavac,1:24:25,5,1:04:25,0,DR,-,48,M,1713,U
+604,Colleen S Donohue,1:24:28,8,1:07:28,0,DR,-,28,F,1387,Q
+605,Anne H Jeffrey,1:24:28,8,1:07:28,0,DR,-,37,F,1304,Q
+606,Danny Knotek,1:24:33,1,1:25:33,0,Invitational,-,34,M,675,Y
+607,Bernard B.D. Demai,1:24:35,3,1:02:35,0,DR,-,43,M,1530,W
+608,Steven L Smith,1:24:53,4,1:03:53,0,DR,-,45,M,1067,V
+609,Nektarios Butterfield,1:24:57,1,1:00:57,0,DR,-,35,M,1226,Y
+610,Brian E McRae,1:25:02,0,1:00:02,0,DR,-,26,M,1522,S
+611,Paul Giampauli,1:25:13,3,1:28:13,0,Invitational,-,43,M,570,W
+612,Richard J Ross,1:25:21,1,1:01:21,0,DR,-,32,M,1584,Y
+613,Daniel C Webb,1:25:23,0,1:00:23,0,DR,-,21,M,1742,S
+614,Wilma J Kay,1:25:26,10,1:10:26,0,DR,-,43,F,1107,N
+615,Regina Martinez,1:25:42,15,1:15:42,0,DR,-,11,F,1620,H
+616,Angelina Martinez,1:25:42,15,1:15:42,0,DR,-,11,F,1619,H
+617,Mike R Dooley,1:25:43,0,1:00:43,0,DR,-,29,M,1309,S
+618,Christine C Palmer,1:25:45,11,1:36:45,0,Invitational,-,44,F,462,M
+619,Jerry C Leith,1:25:52,10,1:35:52,0,Invitational,-,56,M,107,N
+620,Heather A Price,1:25:53,8,1:33:53,0,Invitational,-,27,F,466,Q
+621,Rolf H Nebelung,1:25:54,7,1:07:54,0,DR,-,52,M,1238,R
+622,Michael C Tiktinsky,1:26:07,4,1:05:07,0,DR,-,45,M,1242,Y
+623,Jorge V Jimenez,1:26:46,3,1:04:46,0,DR,-,16,M,1007,W
+624,Jerry Martinez,1:26:48,2,1:03:48,0,DR,-,39,M,1618,X
+625,Frances F Ankers,1:26:51,8,1:09:51,0,DR,-,35,F,1501,Q
+626,Laura M Cox,1:26:54,12,1:13:54,0,DR,-,46,F,1037,L
+627,Anthony G Laglia,1:27:14,4,1:06:14,0,DR,-,45,M,1405,V
+628,Michael J Kerns,1:27:17,2,1:04:17,0,DR,-,40,M,1344,X
+629,James D Stratta,1:27:20,0,1:02:20,0,DR,-,30,M,1086,S
+630,Denny Weigand,1:27:21,7,1:09:21,0,DR,-,52,M,1778,R
+631,Emma Zokpodo,1:27:23,1,1:03:23,0,DR,-,31,M,1111111,Y
+632,Els Tuinzing,1:27:25,22,1:49:25,0,Invitational,-,70,F,178,A
+633,Don N Bellman,1:27:32,4,1:06:32,0,DR,-,45,M,1442,V
+634,Lisa Simmons,1:27:42,8,1:10:42,0,DR,-,30,F,1495,Q
+635,Robert Flatland,1:27:47,0,1:02:47,0,DR,-,26,M,1228,S
+636,Elizabeth A Sylvester,1:27:56,10,1:37:56,0,Invitational,-,42,F,632,N
+637,Darrell B Tornow,1:27:59,6,1:33:59,0,Invitational,-,50,M,210,T
+638,Jeff P Jacobs,1:28:00,1,1:04:00,0,DR,-,37,M,1639,Y
+639,Michele W Boyer,1:28:04,8,1:11:04,0,DR,-,33,F,1095,Q
+640,Greg T Kogut,1:28:10,1,1:04:10,0,DR,-,18,M,1524,Y
+641,Kathleen M Tornow,1:28:26,15,1:43:26,0,Invitational,-,50,F,211,H
+642,George B Buehler,1:28:27,2,1:05:27,0,DR,-,38,M,1787,X
+643,James  Robertson,1:28:42,4,1:07:42,0,DR,-,15,M,1600,V
+644,John B Burns,1:28:47,5,1:08:47,0,DR,-,49,M,1014,U
+645,Todd W Hallenbeck,1:28:47,,1:04:47,0,DR,-,36,M,1069,Y
+646,Peter F Gordon,1:28:58,0,1:03:58,0,DR,-,28,M,1413,S
+647,Wendy C Ragsdale,1:29:05,8,1:12:05,0,DR,-,25,F,1631,Q
+648,Kevin R Hunter,1:29:06,1,1:05:06,0,DR,-,32,M,1410,Y
+649,John J Fitzgerald,1:29:08,5,1:09:08,0,DR,-,48,M,1235,U
+650,Richard Samuelson,1:29:10,4,1:08:10,0,DR,-,47,M,1632,V
+651,Timothy J McHugh,1:29:14,3,1:07:14,0,DR,-,44,M,1699,W
+652,Frank Royer,1:29:18,2,1:31:18,0,Invitational,-,39,M,305,X
+653,Bethann McIntosh-King,1:29:21,8,1:12:21,0,DR,-,38,F,1210,Q
+654,Ron H Derammelaere,1:29:29,5,1:09:29,0,DR,-,48,M,1473,U
+655,Michael H Costello,1:29:41,2,1:06:41,0,DR,-,41,M,1415,X
+656,Alex P Derieux,1:29:46,11,1:15:46,0,DR,-,58,M,1509,M
+657,Geoff W Baylor,1:29:53,1,1:05:53,0,DR,-,35,M,1173,Y
+658,Jerry Freeman,1:30:03,6,1:11:03,0,DR,-,50,M,1438,T
+659,Donald B  Sibbett,1:30:07,1,1:06:07,0,DR,-,33,M,1354,Y
+660,Robert B Crosby,1:30:17,2,1:07:17,0,DR,-,17,M,1654,X
+661,Gary G Specker,1:30:27,6,1:11:27,0,DR,-,50,M,1455,T
+662,Steven D LaViola,1:30:34,2,1:07:34,0,DR,-,41,M,1737,X
+663,William W Haynor,1:30:35,6,1:11:35,0,DR,-,51,M,1220,T
+664,Billie Post,1:30:36,8,1:38:36,0,Invitational,-,39,F,672,Q
+665,Mary Anne Burke,1:30:38,8,1:13:38,0,DR,-,28,F,1240,Q
+666,Craig Mead,1:31:03,2,1:08:03,0,DR,-,39,M,1627,X
+667,Bob Britton,1:31:13,5,1:11:13,0,DR,-,48,M,1450,U
+668,Steven E Tietz,1:31:15,1,1:07:15,0,DR,-,36,M,1621,Y
+669,Stanley H Buscovich,1:31:20,3,1:09:20,0,DR,-,43,M,1296,W
+670,Carol A Feagles,1:31:23,10,1:16:23,0,DR,-,41,F,1017,N
+671,Rae T Bright,1:31:23,15,1:21:23,0,DR,-,49,F,1598,H
+672,Gregory P Wilson,1:31:24,2,1:08:24,0,DR,-,38,M,1199,X
+673,Phillip B Lowton,1:31:25,2,1:08:25,0,DR,-,38,M,1015,X
+674,Bob Anderson,1:31:26,4,1:10:26,0,DR,-,47,M,1583,V
+675,Leslie Deery-Howa,1:31:28,10,1:16:28,0,DR,-,41,F,1738,N
+676,David B Abbott,1:31:30,0,1:06:30,0,DR,-,29,M,1751,S
+677,Ron Svinth,1:31:32,1,1:07:32,0,DR,-,32,M,1200,Y
+678,Peter T Healy,1:31:36,6,1:12:36,0,DR,-,50,M,1694,T
+679,Casey S Hughes,1:31:37,4,1:10:37,0,DR,-,15,M,1268,V
+680,Steven C Kelly,1:31:42,2,1:0842,0,DR,-,38,M,1735,X
+681,Ken  E Nash,1:31:44,17,1:23:44,0,DR,-,64,M,1132,F
+682,Jack B Judkins,1:31:46,2,1:08:46,0,DR,-,38,M,1376,X
+683,Theodore Richter,1:31:52,10,1:41:52,0,Invitational,-,56,M,695,N
+684,Ron Numann,1:31:53,10,1:16:53,0,DR,-,56,M,1780,N
+685,Keith J Beverly,1:31:54,4,1:10:54,0,DR,-,46,M,1078,V
+686,Lisa M Travaglini,1:31:57,8,1:14:57,0,DR,-,31,F,1221,Q
+687,Mary  C Chance,1:31:57,8,1:14:57,0,DR,-,33,F,1252,Q
+688,Tom Hale,1:31:57,1,1:07:57,0,DR,-,36,M,1390,Y
+689,Steven Reinertsen,1:31:58,0,1:06:58,0,DR,-,28,M,1134,S
+690,Michael T Raven,1:32:00,0,1:07:00,0,DR,-,41,M,1068,X
+691,Jesus V Jimenez,1:32:00,0,1:07:00,0,DR,-,30,M,1092,S
+692,Daniel B Gugielmo,1:32:02,2,1:09:02,0,DR,-,39,M,1456,C
+693,Lauren J Renken,1:32:03,8,1:15:03,0,DR,-,31,F,1615,Q
+694,Nathan K Pitts,1:32:12,8,1:15:12,0,DR,-,11,M,1676,Q
+695,Coby L Dunn,1:32:14,4,1:11:14,0,DR,-,45,M,1481,V
+696,Christopher McClure,1:32:15,6,1:13:15,0,DR,-,13,M,1156,T
+697,Beckey L Carpenter,1:32:16,8,1:15:16,0,DR,-,26,F,1170,Q
+698,Bob A Akers,1:32:18,1,1:08:18,0,DR,-,36,M,1708,Y
+699,Susan Flieder,1:32:19,8,1:15:19,0,DR,-,33,F,1480,Q
+700,Cheyenne J Sylvester,1:32:23,14,1:46:23,0,Invitational,-,12,F,630,K
+701,Rebecca A D'Aoust,1:32:30,8,1:15:30,0,DR,-,29,F,1149,Q
+702,Genaro E Elizondo,1:32:33,1,1:08:33,0,DR,-,31,M,1623,Y
+703,Alex D Drobshoff,1:32:39,1,1:08:39,0,DR,-,32,M,1502,Y
+704,Michael T Hayden,1:32:40,4,1:11:40,0,DR,-,47,M,1679,V
+705,Victor Martinez,1:32:42,2,1:09:42,0,DR,-,38,M,1658,X
+706,Norte D Oliver,1:32:45,16,1:23:45,0,DR,-,63,M,1428,G
+707,Timothy G Emanuels,1:32:56,1,1:08:56,0,DR,-,31,M,1647,Y
+708,Bill  Stone,1:32:57,0,1:07:57,0,DR,-,24,M,1518,S
+709,Richard W Couvillion,1:33:04,16,1:24:04,0,DR,-,63,M,1179,G
+710,Kristine R Malcher,1:33:04,10,1:18:04,0,DR,-,42,F,1342,N
+711,Maureen E Luca,1:33:11,10,1:18:11,0,DR,-,42,F,1034,N
+712,Harry A Scallo,1:33:12,1,1:09:12,0,DR,-,34,M,1336,Y
+713,Mitch J DeShields,1:33:16,0,1:08:16,0,DR,-,27,M,1525,S
+714,Mike McInnis,1:33:20,4,1:12:20,0,DR,-,45,M,1539,V
+715,Andrew J Winkler,1:33:21,0,1:08:21,0,DR,-,29,M,1340,S
+716,Walt Beckman,1:33:22,2,1:10:22,0,DR,-,38,M,1537,X
+717,Mika B Robinson,1:33:23,9,1:17:23,0,DR,-,40,F,1023,P
+718,Glenn D Smith,1:33:29,8,1:16:29,0,DR,-,54,M,1591,Q
+719,Mark E Melvin,1:33:32,1,1:09:32,0,DR,-,32,M,1553,Y
+720,William A Grinnell,1:33:34,0,1:08:34,0,DR,-,30,M,1686,S
+721,J.P. Coghlan,1:33:38,2,1:10:38,0,DR,-,40,M,1479,X
+722,Thomas F Sturges,1:33:38,5,1:13:38,0,DR,-,49,M,1649,U
+723,Christine E Clark,1:33:41,8,1:16:41,0,DR,-,29,F,1320,Q
+724,Richard F Wilder,1:33:45,1,1:09:45,0,DR,-,36,M,1444,Y
+725,Perkins Miller,1:33:46,0,1:08:46,0,DR,-,24,M,1453,S
+726,Michelle C Bordenave,1:33:50,8,1:16:50,0,DR,-,28,F,1488,Q
+727,Drew C Sugars,1:33:53,0,1:08:53,0,DR,-,27,M,1739,S
+728,Suzy F Elliott,1:33:53,14,1:22:53,0,DR,-,48,F,1093,J
+729,Klas A Ekluf,1:34:01,0,1:09:01,0,DR,-,21,M,1764,S
+730,John C Blecka,1:34:02,2,1:11:02,0,DR,-,38,M,1114,X
+731,Bill G Ballantine,1:34:02,20,1:29:02,0,DR,-,67,M,1445,C
+732,Sandra A Myron,1:34:04,8,1:42:04,0,Invitational,-,35,F,112,Q
+733,Paul Paul Aherne,1:34:05,1,1:10:05,0,DR,-,37,M,173,Y
+734,Jeffrey G Edwards,1:34:06,1,1:10:06,0,DR,-,33,M,1736,Y
+735,Francesca Martinez,1:34:07,15,1:24:07,0,DR,-,11,F,1617,H
+736,Robert C Fiedler,1:13:14,1,1:10:14,0,DR,-,35,M,1255,Y
+737,Lettie E Weinmann,1:34:21,8,1:17:21,0,DR,-,33,F,1084,Q
+738,Moses Vaughan,1:34:29,1,1:10:29,0,DR,-,31,M,1665,Y
+739,Joe Paul McCulloch,1:34:29,0,1:09:29,0,DR,-,30,M,1196,S
+740,Rebecca A Archey,1:34:36,15,1:24:36,0,DR,-,50,F,1048,H
+741,Tyler S Williams,1:34:41,2,1:11:41,0,DR,-,17,M,1100,X
+742,Willie H McDevitt,1:34:44,2,1:11:44,0,DR,-,39,M,1644,X
+743,Jack A Tassoni,1:34:46,1,1:10:46,0,DR,-,36,M,1146,Y
+744,Douglas R Howell,1:34:47,2,1:11:47,0,DR,-,41,M,1626,X
+745,Doug  Taylor,1:34:47,0,1:09:47,0,DR,-,28,M,1288,S
+746,Stanton Orser,1:34:48,15,1:24:48,0,DR,-,62,M,1124,H
+747,Joe H Dorsey,1:34:49,13,1:22:49,0,DR,-,60,M,1749,K
+748,Justin Connolly,1:34:52,1,1:10:52,0,DR,-,18,M,1249,Y
+749,Tim  J Connor,1:34:55,1,1:10:55,0,DR,-,35,M,1646,Y
+750,Robin J Melnick,1:34:56,0,1:09:56,0,DR,-,29,M,1801,S
+751,Lee F Pitts,1:34:58,5,1:14:58,0,DR,-,49,M,1678,U
+752,James Illhuk,1:35:00,3,1:13:00,0,DR,-,44,M,1540,W
+753,"Charles T Silvera, Jr.",1:35:06,0,1:10:06,0,DR,-,25,M,1209,S
+754,Sarah H Leipsic,1:35:07,8,1:18:07,0,DR,-,26,F,1064,Q
+755,Kevin Shanahan,1:35:11,3,1:13:11,0,DR,-,43,M,1245,W
+756,Bob Reiseck,1:35:13,7,1:42:13,0,Invitational,-,52,M,645,R
+757,Lois J Fleming,1:35:20,13,1:23:20,0,DR,-,47,F,1564,K
+758,Richard S Cramer,1:35:26,1,1:11:26,0,DR,-,36,M,1702,Y
+759,Clinton Lane,1:35:34,5,1:15:34,0,DR,-,49,M,1544,U
+760,Mike Carson,1:35:38,2,1:12:38,0,DR,-,41,M,1391,X
+761,Gary T Sumner,1:35:38,5,1:15:38,0,DR,-,48,M,1471,U
+762,Kyle Brienley,1:35:40,0,1:10:40,0,DR,-,30,M,1113,S
+763,Douglas F Harrison,1:35:43,2,1:12:43,0,DR,-,40,M,1313,X
+764,Frederick W Flowers,1:35:46,10,1:20:46,0,DR,-,57,M,1407,N
+765,Don M Swartz,1:35:48,4,1:14:48,0,DR,-,46,M,1724,V
+766,Kevin A Alexander,1:35:53,1,1:11:53,0,DR,-,33,M,1614,Y
+767,George M Shannon,1:35:53,1,1:11:53,0,DR,-,61,M,1812,Y
+768,Len Renery,1:35:53,3,1:13:53,0,DR,-,42,M,1061,W
+769,Jim R Hongola,1:35:58,4,1:14:58,0,DR,-,47,M,1771,V
+770,Mark M Mullen,1:36:00,1,1:12:00,0,DR,-,35,M,1520,Y
+771,Jon S Wells,1:36:03,4,1:15:03,0,DR,-,46,M,1504,V
+772,Jeffrey D Alpert,1:36:03,0,1:11:03,0,DR,-,29,M,1581,S
+773,Joshua M Rafner,1:36:04,1,1:12:04,0,DR,-,36,M,1558,Y
+774,John O Rassmussen,1:36:05,18,1:29:05,0,DR,-,65,M,1243,E
+775,Dale E Closner,1:36:06,4,1:15:06,0,DR,-,47,M,1394,V
+776,Dave W Mason,1:36:08,5,1:16:08,0,DR,-,49,M,1457,U
+777,Kurt P Murray,1:36:11,2,1:13:11,0,DR,-,17,M,1760,X
+778,Michael R Huhn,1:36:11,1,1:12:11,0,DR,-,37,M,1393,Y
+779,Fred C Jamison,1:36:12,5,1:16:12,0,DR,-,48,M,1555,U
+780,Nicholas Levinson,1:36:13,0,1:11:13,0,DR,-,26,M,1375,S
+781,Meridith L Misakian,1:36:21,11,1:22:21,0,DR,-,44,F,1800,M
+782,William B Callahan,1:36:28,4,1:15:28,0,DR,-,46,M,1028,V
+783,unknown,9:59:59,,9:59:59,0,,-,,,,
+784,Roger G Caswell,1:36:31,5,1:16:31,0,DR,-,49,M,1388,U
+785,Christopher Grinnell,1:36:48,2,1:13:48,0,DR,-,38,M,1804,X
+786,Thomas A Price,1:36:53,3,1:14:53,0,DR,-,44,M,1523,W
+787,John J. G. Garber,1:36:54,6,1:17:54,0,DR,-,50,M,1599,T
+788,Amanda K Montgomery,1:36:55,8,1:19:55,0,DR,-,20,F,1689,Q
+789,Lauren Les Steadman,1:36:57,8,1:19:57,0,DR,-,27,F,1312,Q
+790,Adam C Innes,1:37:00,6,1:18:00,0,DR,-,13,M,1139,T
+791,Don M Morris,1:37:02,4,1:16:02,0,DR,-,46,M,1056,V
+792,Thomas O Wichelmann,1:37:03,6,1:18:03,0,DR,-,51,M,1465,T
+793,Richard L Myers,1:37:10,6,1:18:10,0,DR,-,51,M,1587,T
+794,Steven Harrison,1:37:13,2,1:14:13,0,DR,-,38,M,1335,X
+795,Kristina Rockberg,1:37:18,14,1:26:18,0,DR,-,48,F,1188,J
+796,Mary A Magee,1:37:18,15,1:27:18,0,DR,-,49,F,1277,H
+797,Michael Fong,1:37:21,3,1:15:21,0,DR,-,42,M,1478,W
+798,Joseph M Nowak,1:37:22,1,1:13:22,0,DR,-,37,M,1685,Y
+799,Mark A Tolbert,1:37:22,1,1:13:22,0,DR,-,32,M,1380,Y
+800,Gary Serrano,1:37:27,1,1:13:27,0,DR,-,22,M,1770,Y
+801,John E Alejos,1:37:28,1,1:13:28,0,DR,-,35,M,1758,Y
+802,Mike J Alvarado,1:37:31,5,1:17:31,0,DR,-,49,M,1206,U
+803,Jonathan A Chance,1:37:32,1,1:13:32,0,DR,-,33,M,1253,Y
+804,James F Ansel,1:37:33,8,1:20:33,0,DR,-,54,M,1306,Q
+805,Scott J Carr,1:37:39,1,1:13:39,0,DR,-,33,M,1458,Y
+806,Ernest E Chillberg,1:37:42,6,1:18:42,0,DR,-,51,M,1389,T
+807,Maryls J Hayden,1:37:47,19,1:31:47,0,DR,-,54,F,1782,D
+808,Mary Bost,1:37:50,17,1:29:50,0,DR,-,52,F,1040,F
+809,Alain E Boutefeu,1:37:51,0,1:12:51,0,DR,-,29,M,1122,S
+810,Wendy H Ward,1:37:54,8,1:20:54,0,DR,-,28,F,1633,Q
+811,Don K Bowman,1:37:56,1,1:13:56,0,DR,-,37,M,1790,Y
+812,Michael A Nelson,1:38:02,3,1:16:02,0,DR,-,43,M,1257,W
+813,Douglas C Long,1:38:05,0,1:13:05,0,DR,-,26,M,1151,S
+814,Kalle Tavela,1:38:06,2,1:15:06,0,DR,-,41,M,1250,X
+815,Ronald Rouda,1:38:12,10,1:48:12,0,Invitational,-,57,M,677,N
+816,Michael Barker,1:38:13,1,1:14:13,0,DR,-,36,M,1637,Y
+817,Michael J Vlaming,1:38:16,0,1:13:16,0,DR,-,30,M,1728,S
+818,Calvin L Fong,1:38:17,2,1:15:17,0,DR,-,39,M,1759,X
+819,David Lewinsohn,1:38:17,1,1:14:17,0,DR,-,31,M,1184,Y
+820,Bill Waring,1:38:19,0,1:13:19,0,DR,-,,M,1815,L
+821,Vince D Hayes,1:38:19,0,1:13:19,0,DR,-,28,M,1207,S
+822,Wolf Hillesheim,1:38:20,4,1:17:20,0,DR,-,47,M,1194,V
+823,David C Timmer,1:38:22,3,1:16:22,0,DR,-,44,M,1327,W
+824,David S Baldwin,1:38:25,2,1:15:25,0,DR,-,41,M,1164,X
+825,Daniel B Crosby,1:38:27,4,1:17:27,0,DR,-,47,M,1653,V
+826,Jessica Vaughan,1:38:27,8,1:21:27,0,DR,-,29,F,1166,Q
+827,Pam S De Weerd,1:38:27,15,1:28:27,0,DR,-,49,F,1700,H
+828,Tia B Rosen,1:38:29,9,1:21:29,0,DR,-,35,F,1063,Q
+829,Marty J McGuinn,1:38:31,6,1:19:31,0,DR,-,51,M,1565,T
+830,Jason M Zajonc,1:38:35,0,1:13:35,0,DR,-,19,M,1292,S
+831,Mary E Cook,1:38:36,8,1:21:36,0,DR,-,25,F,1192,Q
+832,Lee S Trampleasure,1:38:40,1,1:14:40,0,DR,-,32,M,1499,Y
+833,Mark E Bonn,1:38:42,1,1:14:42,0,DR,-,37,M,1331,Y
+834,David I Wesserman,1:38:43,2,1:40:43,0,Invitational,-,40,M,647,X
+835,Neil D Hubberth,1:38:45,1,1:14:45,0,DR,-,36,M,1073,Y
+836,Teresa M Hillstrom,1:38:56,8,1:21:56,0,DR,-,29,F,1521,Q
+837,Michael R Verolini,1:39:00,1,1:15:00,0,DR,-,34,M,1325,Y
+838,Kenneth B Orchard,1:39:02,0,1:14:02,0,DR,-,27,M,1556,S
+839,Erland I Jensen,1:39:03,6,1:20:03,0,DR,-,50,M,1021,T
+840,Jackie D Feldman,1:39:07,8,1:22:07,0,DR,-,30,F,1279,Q
+841,Kathleen S King,1:39:07,10,1:24:07,0,DR,-,41,F,1193,N
+842,Zane Abedin,1:39:08,6,1:20:08,0,DR,-,13,M,1645,T
+843,John W Cook,1:39:08,4,1:18:08,0,DR,-,45,M,1096,V
+844,Sandy McNab,1:39:09,2,1:16:09,0,DR,-,40,M,1256,X
+845,Andrew Moran,1:39:10,1,1:15:10,0,DR,-,32,M,1786,Y
+846,Matt P Soloman,1:39:10,0,1:14:10,0,DR,-,30,M,1425,S
+847,Don E Bordenave,1:39:12,1,1:15:12,0,DR,-,35,M,1798,Y
+848,David A Kweder,1:39:14,8,1:22:14,0,DR,-,53,M,1814,Q
+849,Stephen K Rennels,1:39:14,2,1:16:14,0,DR,-,39,M,1765,X
+850,Barry S Weinmann,1:39:15,1,1:15:15,0,DR,-,33,M,1085,Y
+851,Mark D Reynolds,1:39:18,3,1:17:18,0,DR,-,44,M,1120,W
+852,Donamarie F Walsh,1:39:18,8,1:22:18,0,DR,-,38,F,1145,Q
+853,John M Black,1:39:20,4,1:18:20,0,DR,-,45,M,1147,V
+854,Thomas L Carley,1:39:30,1,1:15:30,0,DR,-,34,M,1105,Y
+855,Carolyn J Helton,1:39:31,8,1:22:31,0,DR,-,27,F,1500,Q
+856,Peter Hickey,1:39:31,9,1:23:31,0,DR,-,55,M,1051,P
+857,Alva J Svoboda,1:39:33,1,1:15:33,0,DR,-,34,M,1559,Y
+858,Criag J Stern,1:39:44,2,1:16:44,0,DR,-,38,M,1099,X
+859,Dan  J Mattox,1:39:49,0,1:14:49,0,DR,-,28,M,1747,S
+860,Mattew A Joseph,1:39:53,2,1:16:53,0,DR,-,38,M,1123,X
+861,Cindy D Warnep,1:39:56,8,1:22:56,0,DR,-,32,F,1796,Q
+862,Stanley E Jensen,1:39:56,2,1:16:56,0,DR,-,39,M,1684,X
+863,Rick H Wicker,1:40:00,3,1:18:00,0,DR,-,43,M,1459,W
+864,Roy Baurele,1:40:07,3,1:18:07,0,DR,-,43,M,1464,W
+865,Rich  Corella,1:40:08,4,1:19:08,0,DR,-,45,M,1314,V
+866,Sorten J Jones,1:40:10,6,1:21:10,0,DR,-,50,M,1462,T
+867,Susan E Shainholtz,1:40:11,8,1:23:11,0,DR,-,35,F,1643,Q
+868,Sarah R Pitts,1:40:13,19,1:34:13,0,DR,-,9,F,1675,D
+869,Djann Hoffman,1:40:13,4,1:19:13,0,DR,-,46,M,1046,V
+870,Tina M Heldman,1:40:14,14,1:29:14,0,DR,-,48,F,1089,J
+871,Raymond P Slater,1:40:17,2,1:17:17,0,DR,-,41,M,1793,X
+872,Riccy Garzoli,1:40:19,2,1:42:19,0,Invitational,-,38,M,701,X
+873,Eric Larra,1:40:32,1,1:16:32,0,DR,-,31,M,1112,Y
+874,Alan Weber,1:40:33,8,1:23:33,0,DR,-,54,M,1047,Q
+875,Joseph S Tyszkiewicz,1:40:34,5,1:20:34,0,DR,-,48,M,1406,U
+876,Michael J Daly,1:40:42,4,1:19:42,0,DR,-,46,M,1794,V
+877,Chris Davis,1:40:48,1,1:16:48,0,DR,-,37,M,1224,Y
+878,Fred Goldsmith,1:40:51,0,1:15:51,0,DR,-,30,M,1087,S
+879,Karen L Bryon,1:40:53,8,1:23:53,0,DR,-,31,F,1510,Q
+880,Mike A Oliver,1:40:53,4,1:19:53,0,DR,-,45,M,1463,V
+881,Gerald K Cahill,1:40:58,4,1:19:58,0,DR,-,47,M,1361,V
+882,George D Simkins,1:40:58,0,1:15:58,0,DR,-,23,M,1379,S
+883,Maureen Miller,1:40:59,8,1:23:59,0,DR,-,31,F,1162,Q
+884,Tom McClain,1:40:59,3,1:18:59,0,DR,-,42,M,1349,W
+885,Norman D Ploss,1:41:00,3,1:19:00,0,DR,-,44,M,1434,Q
+886,Joan Castagnaro-Leverin,1:41:00,14,1:30:00,0,DR,-,48,F,1054,J
+887,Bill Robinson,1:41:05,0,1:16:05,0,DR,-,28,M,1810,S
+888,Brian E Baird,1:41:09,1,1:17:09,0,DR,-,37,M,1552,Y
+889,Malcom S Weintraub,1:41:10,14,1:30:10,0,DR,-,61,M,1420,J
+890,Henry E Mazaleski,1:41:13,1,1:17:13,0,DR,-,34,M,1426,Y
+891,Richard K Einstein,1:41:14,8,1:24:14,0,DR,-,54,M,1710,Q
+892,Gary J Kiernan,1:41:16,2,1:18:16,0,DR,-,40,M,1451,X
+893,Silas Lum,1:41:18,3,1:19:18,0,DR,-,44,M,1477,W
+894,Peter J Filippelli,1:41:18,14,1:30:18,0,DR,-,61,M,1045,J
+895,Steven I Nissenson,1:41:18,3,1:19:18,0,DR,-,44,M,1227,W
+896,Susan M Crockin,1:41:28,8,1:24:28,0,DR,-,37,F,1662,Q
+897,Laurent V Dobrin-Frat,1:41:31,3,1:19:31,0,DR,-,42,M,1688,W
+898,Stephen J McCarthy,1:41:33,0,1:16:33,0,DR,-,26,M,1534,S
+899,Linda K Meier,1:41:39,8,1:24:39,0,DR,-,34,F,1357,Q
+900,Michael W Clark,1:41:44,4,1:20:44,0,DR,-,46,M,1080,V
+901,Charles J McKee,1:41:45,3,1:19:45,0,DR,-,44,M,1241,W
+902,Ray W Wilkes,1:41:45,10,1:26:45,0,DR,-,56,M,1330,N
+903,Thom  Calandra,1:41:48,1,1:17:48,0,DR,-,36,M,1775,Y
+904,Garth H Harley,1:41:48,0,1:16:48,0,DR,-,30,M,1610,S
+905,Rozanne M Stringer,1:41:49,9,1:25:49,0,DR,-,40,F,1293,P
+906,Deane Day,1:41:53,2,1:18:53,0,DR,-,39,M,1055,X
+907,Matthew D Dito,1:41:53,4,1:20:53,0,DR,-,15,M,1605,V
+908,James S Thomas,1:41:54,1,1:17:54,0,DR,-,32,M,1690,Y
+909,Steve  Manto,1:41:55,1,1:17:55,0,DR,-,37,M,1275,Y
+910,Jerry C Lillie,1:41:57,4,1:20:57,0,DR,-,45,M,1300,V
+911,Kurt C Schindler,1:41:58,3,1:19:58,0,DR,-,43,M,1362,W
+912,Kevin J Kelly,1:41:59,2,1:18:59,0,DR,-,41,M,1187,X
+913,Marc W Caproni,1:42:02,2,1:19:02,0,DR,-,39,M,1133,X
+914,Robert F Fewster,1:42:02,8,1:25:02,0,DR,-,52,M,1424,Q
+915,Mike J Teheny,1:42:03,2,1:19:03,0,DR,-,40,M,1168,X
+916,William Woolf,1:42:03,10,1:27:03,0,DR,-,57,M,1370,N
+917,Robert W Page Jr,1:42:04,4,1:21:04,0,DR,-,47,M,1223,V
+918,Jim L Sauve,1:42:12,1,1:18:12,0,DR,-,37,M,1263,Y
+919,Gail J Johnson,1:42:14,8,1:25:14,0,DR,-,27,F,1347,Q
+920,Ted R Carter,1:42:15,1,1:18:15,0,DR,-,32,M,1368,Y
+921,Denise Valkema,1:42:16,8,1:25:16,0,DR,-,32,F,1508,Q
+922,Mark M Mullen,1:42:18,0,1:17:18,0,DR,-,30,M,1398,S
+923,Jane E McCullough,1:42:21,10,1:27:21,0,DR,-,42,F,1382,N
+924,William G McDevitt,1:42:23,3,1:20:23,0,DR,-,42,M,1726,W
+925,Hunt T Payne,1:42:30,5,1:22:30,0,DR,-,49,M,1408,U
+926,Tony G Rose,1:42:34,0,1:17:34,0,DR,-,30,M,1246,S
+927,Roy V Howard,1:42:38,8,1:25:38,0,DR,-,53,M,1569,Q
+928,Sheila F Lorne,1:42:42,8,1:25:42,0,DR,-,31,F,1607,Q
+929,Don C Timmer,1:42:44,3,1:20:44,0,DR,-,43,M,1262,W
+930,Cheryl A Hernandez,1:42:44,8,1:25:44,0,DR,-,26,F,1400,Q
+931,Catherine L Ramberg,1:42:45,8,1:25:45,0,DR,-,37,F,1326,Q
+932,Steve J Malerbi,1:42:46,2,1:19:46,0,DR,-,39,M,1461,X
+933,Steven A Madvay,1:42:47,3,1:20:47,0,DR,-,42,M,1350,W
+934,John Huber,1:42:50,1,1:18:50,0,DR,-,31,M,1002,Y
+935,Robert A Simkins,1:42:53,0,1:17:53,0,DR,-,23,M,1189,S
+936,Barbara B Levinson,1:42:54,19,1:36:54,0,DR,-,54,F,1374,D
+937,William B Smith,1:42:58,3,1:20:58,0,DR,-,43,M,1125,W
+938,James A McDowell,1:43:00,3,1:21:00,0,DR,-,42,M,1158,W
+939,Glen A Pericoli,1:43:01,1,1:19:01,0,DR,-,36,M,1397,Y
+940,Dan M Welch,1:43:04,1,1:19:04,0,DR,-,33,M,1337,Y
+941,Carl J Naegele,1:43:05,8,1:26:05,0,DR,-,53,M,1489,Q
+942,Robert E Sulpizio,1:43:07,8,1:26:07,0,DR,-,53,M,1033,Q
+943,Gina Sherry,1:43:11,8,1:26:11,0,DR,-,35,F,1655,Q
+944,Al L Poncia,1:43:13,7,1:25:13,0,DR,-,52,M,1695,R
+945,Kirk Ansel,1:43:15,0,1:18:15,0,DR,-,29,M,1303,S
+946,Richard B Ansel,1:43:15,0,1:18:15,0,DR,-,29,M,1318,S
+947,Robert Verhey,1:43:18,5,1:23:18,0,DR,-,49,M,1217,U
+948,Sunny L Blende,1:43:19,10,1:28:19,0,DR,-,41,F,1366,N
+949,Donald R Thompson,1:43:23,1,1:19:23,0,DR,-,36,M,1797,Y
+950,Cynthia V Zajonc,1:43:24,8,1:26:24,0,DR,-,34,F,1163,Q
+951,Jason D Innes,1:43:27,4,1:22:27,0,DR,-,15,M,1141,V
+952,Marx L Cazenave,1:43:29,7,1:25:29,0,DR,-,52,M,1036,R
+953,Louise M Rothman-Reimer,1:43:32,15,1:33:32,0,DR,-,50,F,1574,H
+954,Henry M Siegel,1:43:32,10,1:28:32,0,DR,-,56,M,1346,N
+955,Bob Sarabia,1:43:33,3,1:21:33,0,DR,-,44,M,1185,W
+956,Jill Sweitzer,1:43:34,0,1:18:34,0,DR,-,,M,1808,J
+957,Charles H Evans,1:43:35,6,1:24:35,0,DR,-,50,M,1032,T
+958,Wallace Young,1:43:35,5,1:23:35,0,DR,-,48,M,1205,U
+959,Douglas W Friedman,1:43:37,1,1:19:37,0,DR,-,36,M,1486,Y
+960,Elizabeth A O'Hara,1:43:38,11,1:29:38,0,DR,-,44,F,1476,M
+961,Steve M Lane,1:43:39,3,1:21:39,0,DR,-,43,M,1367,W
+962,Sherman Litlle,1:43:42,2,1:20:42,0,DR,-,39,M,1681,X
+963,Charles Powell,1:43:43,1,1:19:43,0,DR,-,34,M,1161,Y
+964,Annette Davies,1:43:44,8,1:26:44,0,DR,-,26,F,1261,Q
+965,Trudy T Sandee,1:43:45,11,1:29:45,0,DR,-,45,F,1144,M
+966,Brian P Harms,1:43:46,0,1:18:46,0,DR,-,23,M,1351,S
+967,John R Underhill,1:43:47,14,1:32:47,0,DR,-,61,M,1496,J
+968,Julie Freiburger,1:43:49,10,1:28:49,0,DR,-,15,F,1272,N
+969,Dudley V Thornton,1:43:50,7,1:25:50,0,DR,-,52,M,1722,R
+970,Kevin M Kraus,1:43:51,0,1:18:51,0,DR,-,27,M,1301,S
+971,Kim C Stolte,1:43:55,8,1:26:55,0,DR,-,26,F,1680,Q
+972,Roger A Smith,1:44:00,2,1:21:00,0,DR,-,39,M,1585,X
+973,Alan R Levinson,1:44:02,2,1:21:02,0,DR,-,41,M,1365,X
+974,Thomas J Maguire,1:44:03,10,1:29:03,0,DR,-,56,M,1127,N
+975,Peter C Mitchell,1:44:05,1,1:20:05,0,DR,-,36,M,1490,Y
+976,William A Simkins,1:44:06,20,1:39:06,0,DR,-,67,M,1377,C
+977,Alice A Gilmore,1:44:07,15,1:34:07,0,DR,-,49,F,1723,H
+978,Tom D Quilici,1:44:08,3,1:22:08,0,DR,-,44,M,1717,W
+979,Scott W Ciampi,1:44:11,0,1:19:11,0,DR,-,25,M,1183,S
+980,David Blende,1:44:13,4,1:23:13,0,DR,-,47,M,1803,V
+981,Bruce D Marcucei,1:44:18,6,1:25:18,0,DR,-,50,M,1683,T
+982,Scott C Allen,1:44:20,2,1:21:20,0,DR,-,41,M,1432,X
+983,Edward B Sylvester,1:44:24,10,1:29:24,0,DR,-,56,M,1431,N
+984,Marcia Roberts,1:44:29,11,1:30:29,0,DR,-,45,F,1386,M
+985,Peter R Carlson,1:44:31,11,1:30:31,0,DR,-,58,M,1230,M
+986,Ginny L Olson,1:44:43,11,1:30:43,0,DR,-,45,F,1322,M
+987,George Bellan,1:44:44,19,2:03:44,0,Invitational,-,66,M,252,D
+988,James H Ernst,1:44:45,4,1:23:45,0,DR,-,46,M,1157,V
+989,Roger J Archey,1:44:49,5,1:24:49,0,DR,-,48,M,1049,U
+990,Kum P Altman,1:44:52,12,1:31:52,0,DR,-,46,F,1076,L
+991,Howard Sutliff,1:44:53,7,1:26:53,0,DR,-,52,M,1372,R
+992,Mark O'Flynn,1:44:58,1,1:20:58,0,DR,-,33,M,1150,Y
+993,Michael K Froehlich,1:45:05,0,1:20:05,0,DR,-,28,M,1251,S
+994,Alexandria D Zech,1:45:06,9,1:29:06,0,DR,-,16,F,1733,P
+995,Ray G Gonsalves,1:45:09,5,1:25:09,0,DR,-,49,M,1148,U
+996,Malcom S Singer,1:45:16,6,1:26:16,0,DR,-,51,M,1284,T
+997,Richard V Treakle,1:45:22,5,1:25:22,0,DR,-,48,M,1454,U
+998,Cliff K Briggin,1:45:23,1,1:21:23,0,DR,-,31,M,1616,Y
+999,Matt W Miller,1:45:24,0,1:20:24,0,DR,-,28,M,1094,S
+1000,Margaret W Hecht,1:45:24,8,1:28:24,0,DR,-,33,F,1102,Q
+1001,Dave Stringer,1:45:25,2,1:22:45,0,DR,-,40,M,1191,X
+1002,William R Zimmerman,1:45:25,2,1:22:45,0,DR,-,41,M,1417,X
+1003,John T Mendoza,1:45:31,0,1:20:31,0,DR,-,29,M,1513,S
+1004,David B Templeton,1:45:32,1,1:21:32,0,DR,-,32,M,1142,Y
+1005,Margaret E DeWitt,1:45:33,8,1:28:33,0,DR,-,32,F,1022,Q
+1006,David A Rosenfeld,1:45:45,2,1:22:45,0,DR,-,40,M,1317,X
+1007,Frank P Connelly,1:45:47,1,1:21:47,0,DR,-,36,M,1606,Y
+1008,Russell Rowen,1:45:49,4,1:24:49,0,DR,-,45,M,1266,V
+1009,John E Rosenbaum,1:45:50,1,1:21:50,0,DR,-,33,M,1103,Y
+1010,Jim R Heldman,1:45:54,8,1:28:54,0,DR,-,53,M,1090,Q
+1011,Bill A Ralyea,1:45:54,1,1:21:54,0,DR,-,37,M,1392,Y
+1012,Adrianne Chun,1:45:57,11,1:31:57,0,DR,-,44,F,1302,M
+1013,Paul G McDonald,1:45:58,6,1:26:58,0,DR,-,51,M,1416,T
+1014,Donald L Smith,1:45:59,3,1:23:59,0,DR,-,44,M,1077,W
+1015,Mike A Mentch,1:46:03,2,1:23:03,0,DR,-,39,M,1104,X
+1016,Ronald D Miller,1:46:05,1,1:22:05,0,DR,-,35,M,1381,Y
+1017,Floyd I Meyers,1:46:06,6,1:27:06,0,DR,-,50,M,1762,T
+1018,Kevin Maguire,1:46:11,1,1:22:11,0,DR,-,35,M,1280,Y
+1019,Rip Anzalone,1:46:15,3,1:24:15,0,DR,-,42,M,1115,W
+1020,Gee Heckscher,1:46:17,8,1:29:17,0,DR,-,54,M,1484,Q
+1021,John A McCracken,1:46:18,5,1:26:18,0,DR,-,48,M,1437,U
+1022,Michael Cooke,1:46:28,5,1:26:28,0,DR,-,48,M,1452,U
+1023,Ronald W Pharis,1:46:29,4,1:25:29,0,DR,-,46,M,1353,V
+1024,Marty Kelly,1:46:38,3,1:24:38,0,DR,-,43,M,1343,W
+1025,Boumedine M Mered,1:46:39,8,1:29:39,0,DR,-,53,M,1470,Q
+1026,Shirley J Dahl,1:46:40,10,1:31:40,0,DR,-,43,F,1319,N
+1027,Carol L Blair,1:46:41,11,1:32:41,0,DR,-,44,F,1167,M
+1028,Lucina Vernazza,1:46:46,15,1:36:46,0,DR,-,49,F,1777,H
+1029,Michael D Gallagher,1:46:51,4,1:25:51,0,DR,-,47,M,1439,V
+1030,Peter R Tierney,1:46:56,4,1:22:56,0,DR,-,47,M,1355,V
+1031,Ralph L Carter,1:46:57,6,1:27:57,0,DR,-,51,M,1503,T
+1032,Bruce D Magnuson,1:46:59,1,1:22:59,0,DR,-,36,M,1117,Y
+1033,David Hash,1:47:01,7,1:29:01,0,DR,-,52,M,1219,R
+1034,Mark G White,1:47:04,2,1:24:04,0,DR,-,40,M,1795,X
+1035,Robb C Freed,1:47:05,7,1:29:05,0,DR,-,12,M,1526,R
+1036,Frank Lozano,1:47:10,4,1:26:10,0,DR,-,45,M,1160,V
+1037,Bruce E Rueppel,1:47:10,9,1:31:10,0,DR,-,55,M,1369,P
+1038,Ginger V Reynolds,1:47:12,8,1:30:12,0,DR,-,39,F,1159,Q
+1039,Michael A Kirchubel,1:47:18,3,1:25:18,0,DR,-,44,M,1383,W
+1040,Michael D Coffee,1:47:18,4,1:26:18,0,DR,-,46,M,1414,V
+1041,Terrence D Ressler,1:47:22,4,1:26:22,0,DR,-,47,M,1071,V
+1042,Patti Willits,1:47:32,11,1:33:32,0,DR,-,44,F,1491,M
+1043,Keith E Froehlich,1:47:32,10,1:32:32,0,DR,-,56,M,1254,N
+1044,Walter W Underhill,1:47:34,3,1:25:34,0,DR,-,44,M,1705,W
+1045,Neal B Riemer,1:47:35,4,1:26:35,0,DR,-,15,M,1573,V
+1046,Carl Lauders,1:47:36,14,1:36:36,0,DR,-,61,M,1781,J
+1047,Eric G Young,1:47:36,1,1:23:36,0,DR,-,37,M,1668,Y
+1048,Phillip A Vince,1:47:37,1,1:23:37,0,DR,-,36,M,1182,Y
+1049,Norman R McKinley,1:47:39,8,1:30:39,0,DR,-,54,M,D,Q
+1050,Charlie D Piro,1:47:40,1,1:23:40,0,DR,-,36,M,1743,Y
+1051,Alan A Lave,1:47:45,1,1:23:45,0,DR,-,35,M,1421,Y
+1052,Peter S Schmidt,1:47:46,4,1:26:46,0,DR,-,46,M,1359,V
+1053,Eric Mohr,1:47:48,22,1:44:48,0,DR,-,69,M,1109,A
+1054,Sharon Riordan,1:47:50,8,1:30:50,0,DR,-,36,F,1492,Q
+1055,Gloria J Ploss,1:47:51,12,1:34:51,0,DR,-,46,F,1433,L
+1056,John K McGuire,1:47:51,1,1:23:51,0,DR,-,35,M,1750,Y
+1057,James C Small,1:47:52,5,1:27:52,0,DR,-,49,M,1711,U
+1058,William A Anthony,1:47:54,16,1:38:54,0,DR,-,63,M,1404,G
+1059,Gloria J DeVictoria,1:47:55,12,1:34:55,0,DR,-,46,F,1594,L
+1060,Harry L DeVictoria,1:47:55,4,1:26:55,0,DR,-,46,M,1576,V
+1061,Michael D Brewster,1:47:56,2,1:24:56,0,DR,-,39,M,1660,X
+1062,Joe D Gannon,1:48:00,2,1:25:00,0,DR,-,41,M,1212,X
+1063,David A Pinto,1:48:14,2,1:25:14,0,DR,-,41,M,1213,X
+1064,Warren E Levinson,1:48:15,11,1:34:15,0,DR,-,58,M,373,M
+1065,Mark S Covello,1:48:26,1,1:24:26,0,DR,-,35,M,1289,Y
+1066,Phillip Hardy,1:48:27,3,1:26:27,0,DR,-,42,M,1186,W
+1067,Phillip A Lamorseaux,1:48:32,6,1:29:32,0,DR,-,51,M,1323,T
+1068,Dennis W Jones,1:48:33,4,1:27:33,0,DR,-,47,M,1412,V
+1069,Linda A Gerken,1:48:34,8,1:31:34,0,DR,-,37,F,1511,Q
+1070,George A Winters,1:48:36,6,1:29:36,0,DR,-,51,M,1482,T
+1071,Ronald D Lofgren,1:48:37,4,1:27:37,0,DR,-,46,M,1060,V
+1072,Mike D Solis,1:48:42,1,1:24:42,0,DR,-,33,M,1310,Y
+1073,Marc W Yates,1:48:50,3,1:26:50,0,DR,-,42,M,1693,W
+1074,Kenneth F Zib,1:48:58,10,1:33:58,0,DR,-,57,M,1661,N
+1075,Cathleen A Kuhler,1:49:03,18,1:42:03,0,DR,-,53,F,1665,E
+1076,Joe Bodro,1:49:06,4,1:28:06,0,DR,-,47,M,1634,V
+1077,Marita F Hayhurst,1:49:13,22,1:46:13,0,DR,-,63,F,1403,A
+1078,Christina Waldeck,1:49:17,10,1:34:17,0,DR,-,41,F,1604,N
+1079,Warren Long,1:49:27,2,1:26:27,0,DR,-,39,M,1657,X
+1080,Ray A Yoro,1:49:33,2,1:26:33,0,DR,-,40,M,1622,X
+1081,Dale A Daly,1:49:37,10,1:34:37,0,DR,-,41,F,1792,N
+1082,Ruben C Wacker Jr,1:49:42,4,1:28:42,0,DR,-,47,M,1629,V
+1083,Jerry Skrainar,1:49:49,4,1:28:49,0,DR,-,46,M,1371,V
+1084,James R Weatherhead,1:49:49,3,1:27:49,0,DR,-,43,M,1197,W
+1085,Keith A Denkler,1:49:49,1,1:25:49,0,DR,-,37,M,1597,V
+1086,Alex F Ferrero,1:49:50,7,1:31:50,0,DR,-,52,M,1701,R
+1087,John Roberts,1:49:51,6,1:30:51,0,DR,-,51,M,1638,T
+1088,John E Kerler,1:50:01,9,1:34:01,0,DR,-,55,M,1338,P
+1089,Jerald L Barnes,1:50:10,4,1:29:10,0,DR,-,45,M,1396,V
+1090,Hal W Dasekling,1:50:14,3,1:28:14,0,DR,-,42,M,1116,W
+1091,Adam M Carp,1:50:15,2,1:27:15,0,DR,-,17,M,1596,X
+1092,Karen L Dinapoli-Tietz,1:50:16,8,1:33:16,0,DR,-,36,F,1768,Q
+1093,Christina S Glenn,1:50:18,8,1:33:18,0,DR,-,28,F,1333,Q
+1094,Michael Pettit,1:50:21,3,1:28:21,0,DR,-,42,M,1706,W
+1095,Kenneth Waldeck,1:50:28,5,1:30:28,0,DR,-,49,M,1603,U
+1096,Sue Boucke,1:50:28,13,1:38:28,0,DR,-,47,F,1714,K
+1097,Tony H Good,1:50:32,5,1:30:32,0,DR,-,49,M,1807,U
+1098,Andrew M Haynes,1:50:37,0,1:25:37,0,DR,-,30,M,1385,S
+1099,Alicia A Innes,1:50:39,17,1:42:39,0,DR,-,10,F,1140,F
+1100,Katie A Jack,1:50:39,9,1:34:39,0,DR,-,40,F,1545,P
+1101,Matthew W Geis,1:50:41,0,1:25:41,0,DR,-,20,M,1237,S
+1102,Kent DuPuis,1:50:47,4,1:29:47,0,DR,-,46,M,1348,V
+1103,William Washington,1:50:52,5,1:30:52,0,DR,-,48,M,1409,U
+1104,Michael N Rogers,1:50:57,1,1:26:57,0,DR,-,34,M,1215,Y
+1105,Richard G Warren,1:51:06,3,1:29:06,0,DR,-,44,M,1203,W
+1106,Lon O'Neil,1:51:07,3,1:29:07,0,DR,-,43,M,1029,W
+1107,Rick A Wadley,1:51:10,2,1:28:10,0,DR,-,39,M,1630,X
+1108,Edward R Hugo,1:51:10,1,1:27:10,0,DR,-,31,M,1811,Y
+1109,John C Owen,1:51:16,3,1:29:16,0,DR,-,44,M,1208,W
+1110,Michael D Brown,1:51:17,2,1:28:17,0,DR,-,40,M,1079,X
+1111,Christine Preble,1:51:28,8,1:34:28,0,DR,-,36,F,1656,Q
+1112,Diane Repulles,1:51:36,11,1:37:36,0,DR,-,44,F,1779,M
+1113,Clifford A Skinner,1:51:41,2,1:28:41,0,DR,-,39,M,1487,X
+1114,Walter Connolly,1:51:45,5,1:31:45,0,DR,-,49,M,1541,U
+1115,Jonathan C Erwin,1:51:47,0,1:26:47,0,DR,-,25,M,1297,S
+1116,Bill F Murray,1:51:49,4,1:30:49,0,DR,-,45,M,1761,V
+1117,Michael J Donahoe,1:51:52,5,1:31:52,0,DR,-,49,M,1554,U
+1118,Jim A Kreofsky,1:51:66,5,1:31:56,0,DR,-,48,M,1274,U
+1119,John Nash,1:51:59,1,1:27:59,0,DR,-,31,M,1788,Y
+1120,Steven M Friedman,1:52:01,1,1:28:01,0,DR,-,33,M,1154,Y
+1121,Crail T Wells,1:52:08,5,1:32:08,0,DR,-,49,M,1356,U
+1122,Jim E Sund,1:52:09,4,1:31:09,0,DR,-,45,M,1659,V
+1123,David P Jones,1:52:11,5,1:32:11,0,DR,-,49,M,1466,U
+1124,Jan Pizza,1:52:16,10,1:37:16,0,DR,-,43,F,1039,N
+1125,Scott Kuhn,1:52:19,1,1:28:19,0,DR,-,33,M,1316,Y
+1126,Leonard Leinow,1:52:43,5,1:32:43,0,DR,-,49,M,1640,U
+1127,Peter D Goldsmith,1:52:48,1,1:28:48,0,DR,-,32,M,1088,Y
+1128,Allen J Abraham,1:52:55,6,1:33:55,0,DR,-,51,M,1567,T
+1129,William C Butt,1:52:58,1,1:28:58,0,DR,-,36,M,1239,Y
+1130,Jonathan Ory,1:53:02,1,1:29:02,0,DR,-,35,M,1281,Y
+1131,Dee Erce,1:53:03,1,1:29:03,0,DR,-,36,M,1234,Y
+1132,John T Salsman,1:53:05,1,1:29:05,0,DR,-,37,M,1446,Y
+1133,Michael Low,1:53:06,4,1:32:06,0,DR,-,47,M,1384,V
+1134,Laura-Anne L Hunter,1:53:18,8,1:36:18,0,DR,-,27,F,1635,Q
+1135,Edward B Ward,1:53:31,1,1:29:31,0,DR,-,36,M,179,Y
+1136,Dave M Evola,1:53:42,0,1:28:42,0,DR,-,29,M,1542,S
+1137,"Roger L  Freed, M.D.",1:53:43,6,1:34:43,0,DR,-,51,M,1527,T
+1138,Robert Valentino,1:53:50,7,2:00:50,0,Invitational,-,52,M,684,R
+1139,Frank C Evans,1:53:58,13,1:41:58,0,DR,-,60,M,1515,K
+1140,Sinon K O'Halloran,1:54:01,3,1:32:01,0,DR,-,42,m,1435,W
+1141,Jay M Cleland,1:54:09,2,1:31:09,0,DR,-,38,M,1707,X
+1142,B.L. Washburn,1:54:15,3,1:32:15,0,DR,-,43,M,1494,W
+1143,Ingrid K Simkins,1:54:22,15,1:44:22,0,DR,-,49,F,1378,H
+1144,Skip Smith,1:54:33,3,1:32:33,0,DR,-,44,M,1507,W
+1145,John F Walsh Jr,1:54:51,14,1:43:51,0,DR,-,61,M,1774,J
+1146,Lee Manter,1:54:56,2,1:31:56,0,DR,-,38,M,1670,X
+1147,Bob A Mellin,1:54:04,3,1:33:04,0,DR,-,44,M,1038,W
+1148,Mark B Shoens,1:55:08,3,1:33:08,0,DR,-,44,M,1519,W
+1149,Linda Rosen,1:55:26,8,1:38:26,0,DR,-,35,F,1137,Q
+1150,Gregory D Rose,1:55:28,4,1:34:28,0,DR,-,47,M,1004,V
+1151,Jessie A Borginis,1:55:28,0,1:30:28,0,DR,-,20,M,1111111,S
+1152,Martial R Thirsk,1:55:38,6,1:36:38,0,DR,-,51,M,1422,T
+1153,Marshall Benton,1:56:46,0,1:31:46,0,DR,-,24,M,1624,S
+1154,John C Buffum,1:56:56,5,1:36:56,0,DR,-,49,M,1271,U
+1155,Clifford R Vose,1:57:14,1,1:33:14,0,DR,-,34,M,1563,Y
+1156,Joe H Mason,1:57:21,3,1:35:21,0,DR,-,16,M,1528,W
+1157,Don  Williams,1:57:38,5,1:37:38,0,DR,-,48,M,1202,U
+1158,Dean R Wilson,1:57:46,3,1:35:46,0,DR,-,42,M,1070,W
+1159,Steven E Littman,1:57:53,1,1:33:53,0,DR,-,35,M,1443,Y
+1160,Michael D Rosenthal,1:58:05,1,1:34:05,0,DR,-,37,M,1419,Y
+1161,Susan Leipsic,1:58:08,17,1:50:08,0,DR,-,52,F,1019,F
+1162,Richard J Bullis,1:58:15,4,1:37:15,0,DR,-,45,M,1236,V
+1163,Bret D Husted,1:58:21,1,1:34:21,0,DR,-,34,M,1181,Y
+1164,Gerald F Ellersdorfer,1:58:22,8,1:41:22,0,DR,-,54,M,1265,Q
+1165,Sue Holbrook,1:58:25,8,1:41:25,0,DR,-,30,F,1233,Q
+1166,James S Leigh,1:58:28,4,1:37:28,0,DR,-,45,M,1715,V
+1167,Lori Barocchini,1:58:43,10,1:43:43,0,DR,-,41,F,1785,N
+1168,Anne  S Brown,1:58:48,15,1:48:48,0,DR,-,50,F,1041,H
+1169,Craig D Innes,1:58:55,3,1:35:55,0,DR,-,42,M,1130,W
+1170,Jack E Sherman,1:59:02,3,1:37:02,0,DR,-,43,M,1081,W
+1171,John Robertson,1:59:06,3,1:37:06,0,DR,-,42,M,1468,W
+1172,Penni S Gladstone,1:59:14,8,1:42:14,0,DR,-,39,F,1601,Q
+1173,Rick Smith,1:59:15,2,1:36:15,0,DR,-,39,M,1136,X
+1174,Michael J Royer,1:59:15,9,1:43:15,0,DR,-,55,M,1799,P
+1175,Christopher Rennels,1:59:23,1,1:35:23,0,DR,-,34,M,1399,Y
+1176,Thomas Braum,1:59:33,0,1:34:33,0,DR,-,27,M,1562,S
+1177,John Leipsic,1:59:39,9,1:43:39,0,DR,-,55,M,1020,P
+1178,Ann R Shulman,2:00:03,8,1:43:03,0,DR,-,29,F,1011,Q
+1179,Rebecca H Tilley,2:00:04,8,1:43:04,0,DR,-,31,F,1010,Q
+1180,Charles R Hyde,2:00:04,8,1:43:04,0,DR,-,54,M,1532,Q
+1181,Daniel W Smith,2:00:06,4,1:39:06,0,DR,-,45,M,1276,V
+1182,Kevin Brown,2:00:09,1,1:36:09,0,DR,-,32,M,1497,Y
+1183,Barbara R Williams,2:00:31,11,1:46:31,0,DR,-,45,F,1176,M
+1184,Rachel I Pitts,2:00:33,22,1:57:33,0,DR,-,7,F,1677,A
+1185,Ed Bergman,2:00:35,4,1:39:45,0,DR,-,45,M,1745,V
+1186,Tony J Stratta,2:00:44,15,1:50:44,0,DR,-,62,M,1091,H
+1187,Michael W Carlson,2:01:21,1,1:37:21,0,DR,-,37,M,1052,Y
+1188,Eberhard Schmoller,2:01:24,5,1:41:24,0,DR,-,48,M,1436,U
+1189,Bonnie A Sullivan,2:01:34,8,1:44:34,0,DR,-,39,F,1512,Q
+1190,Don Hart,2:01:56,1,1:37:56,0,DR,-,36,M,1806,Y
+1191,Boc C Maier,2:02:04,2,1:39:04,0,DR,-,39,M,1155,X
+1192,Alex McDonald,2:02:41,2,1:39:41,0,DR,-,41,M,1734,X
+1193,Michael Knight,2:02:42,4,1:41:42,0,DR,-,45,M,1190,V
+1194,Gerald W Jack,2:03:03,1,1:39:03,0,DR,-,36,M,1315,Y
+1195,Lew Coddington,2:03:10,4,1:42:10,0,DR,-,45,M,1430,V
+1196,Donald B Hiraki,2:03:45,3,1:41:45,0,DR,-,43,M,1030,W
+1197,Merle C Meyers,2:04:02,2,1:41:02,0,DR,-,41,M,1083,X
+1198,Jay F Brignon,2:04:21,4,1:43:21,0,DR,-,47,M,1016,V
+1199,Tracy G Borginis,2:04:32,2,1:41:32,0,DR,-,17,M,1003,X
+1200,Andy S Rose,2:04:32,5,1:44:32,0,DR,-,14,M,1005,U
+1201,Larry Stropes,2:04:44,5,1:44:44,0,DR,-,49,M,1687,U
+1202,Dick Fleming,2:04:53,17,1:56:53,0,DR,-,64,M,1287,F
+1203,Joan F Long,2:05:19,22,2:02:19,0,DR,-,57,F,1153,A
+1204,Rick Kozlenko,2:05:30,0,1:40:30,0,DR,-,,M,1816,U
+1205,Dennis R Bidwell,2:05:47,2,1:42:47,0,DR,-,38,M,1516,X
+1206,Trish Foley,2:05:54,8,1:48:54,0,DR,-,23,F,1719,Q
+1207,Kathleen Long,2:05:55,8,1:48:55,0,DR,-,26,F,1720,Q
+1208,Jane T Brockbank,2:05:56,8,1:48:56,0,DR,-,37,F,1718,Q
+1209,Denise Hasler,2:06:04,8,1:49:04,0,DR,-,34,F,1469,Q
+1210,Don W Richardson,2:06:42,11,1:52:42,0,DR,-,58,M,1467,M
+1211,Jackie Zeller,2:07:28,8,1:50:22,0,DR,-,37,F,1756,Q
+1212,Bert Mann,2:07:30,5,1:47:30,0,DR,-,48,M,1138,U
+1213,Betty A Baugh,2:07:56,22,2:04:56,0,DR,-,62,F,1180,A
+1214,Ronnie D La Dow,2:08:38,19,2:02:38,0,DR,-,54,F,1050,D
+1215,Dave Feldman,2:09:12,8,1:52:12,0,DR,-,53,M,1324,Q
+1216,Calvin W Hom,2:09:22,2,1:46:22,0,DR,-,38,M,1225,X
+1217,Lauren McGuire,2:09:25,8,1:52:25,0,DR,-,29,F,1449,Q
+1218,Adam E Altman,2:09:30,4,1:48:30,0,DR,-,15,M,1075,V
+1219,Jack W Craig,2:10:47,6,1:51:47,0,DR,-,50,M,1672,T
+1220,Sid S Crown,2:10:58,2,1:47:58,0,DR,-,40,M,1097,X
+1221,Steve L Hansen,2:11:00,17,2:03:00,0,DR,-,64,M,1475,F
+1222,Chris B McCluney,2:11:04,3,1:49:04,0,DR,-,43,M,1111,W
+1223,Neal J Dineen,2:11:12,9,1:55:12,0,DR,-,55,M,1784,P
+1224,Nancy S Ressler,2:11:38,11,1:57:38,0,DR,-,45,F,1072,M
+1225,Elizabeth J Burnett,2:12:00,8,1:55:00,0,DR,-,36,F,1773,Q
+1226,Monte L Meals,2:12:00,3,1:50:00,0,DR,-,44,M,1772,W
+1227,Hank E Covello,2:12:14,10,1:57:14,0,DR,-,56,M,1551,N
+1228,Bruce A Walters,2:13:27,3,1:51:27,0,DR,-,44,M,1329,W
+1229,Gary L Ireton,2:13:31,3,1:51:31,0,DR,-,42,M,1538,W
+1230,John p Beale M.D.,2:13:50,21,2:34:50,0,Invitational,-,68,M,669,b
+1231,Carol A Jacobs,2:13:56,8,1:56:56,0,DR,-,32,F,1588,Q
+1232,Robert D Bowler,2:14:06,2,1:51:06,0,DR,-,41,M,1172,X
+1233,James E Scarpace,2:14:45,0,1:49:45,0,DR,-,28,M,1650,S
+1234,Esther Meyers,2:15:04,12,2:02:04,0,DR,-,46,F,1802,L
+1235,Laura    L Altman,2:15:09,8,1:58:09,0,DR,-,34,F,1074,Q
+1236,Valerie S Crowell,2:17:08,8,2:00:08,0,DR,-,33,F,1625,Q
+1237,Ronald P Young,2:18:52,8,2:01:52,0,DR,-,54,M,1536,Q
+1238,Tim R Rose,2:23:43,6,2:04:43,0,DR,-,13,M,1590,T
+1239,Michael S Moore,2:23:46,1,1:59:46,0,DR,-,35,M,1667,Y
+1240,Jack G Kirk,2:25:16,22,2:47:16,0,Invitational,-,85,M,101,A
+1241,Jasper C Strandgaard,2:25:29,22,2:22:29,0,DR,-,69,M,1402,A
+1242,Harriet V Kelly,2:26:12,22,2:23:12,0,DR,-,57,F,1012,A
+1243,Jean X Young,2:27:41,8,2:10:41,0,DR,-,39,F,1152,Q
+1244,Bill M Rodriguez,2:27:48,0,2:02:48,0,DR,-,26,M,1260,S
+1245,Christine D Davenport,2:30:29,10,2:15:29,0,DR,-,42,F,1308,N
+1246,Brian D Innes,2:35:38,22,2:32:38,0,DR,-,6,M,1128,A
+1247,David H Innes,2:35:39,3,2:38:39,0,Invitational,-,44,M,190,W
+1248,Kenneth D Strong,2:36:53,19,2:30:53,0,DR,-,66,M,1427,D
+1249,Eyrle W Aceves,2:38:57,22,3:00:57,0,Invitational,-,77,M,102,A
+1250,Ricardo G Gutierrez,2:51:00,10,2:36:00,0,DR,-,57,M,1358,N
+1251,Cathy Bolger,2:52:00,9,2:36:00,0,DR,-,40,F,1158,P
